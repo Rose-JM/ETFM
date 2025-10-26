@@ -1,0 +1,7 @@
+# Results for the allerco method (collaborative team formation with expertise coverage)
+# Format: team_id score time
+1 0.87 1.8
+2 0.82 1.6
+3 0.91 1.9
+4 0.79 1.7
+5 0.89 2.0

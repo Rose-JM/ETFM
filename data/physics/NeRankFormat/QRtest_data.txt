@@ -1,0 +1,15 @@
+# Test data for the NeRank method
+# Format: query_id expert_id relevance_score
+1 0 0.95
+1 1 0.87
+1 2 0.78
+2 3 0.91
+2 4 0.82
+2 5 0.73
+3 6 0.89
+3 7 0.84
+3 8 0.76
+4 9 0.92
+4 10 0.88
+5 11 0.85
+5 12 0.79

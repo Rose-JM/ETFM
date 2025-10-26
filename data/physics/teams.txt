@@ -1,0 +1,7 @@
+# Team ID followed by expert IDs
+# Format: teamID expertID1 expertID2 ...
+1 0 1 2
+2 3 4 5
+3 6 7 8
+4 9 10 11
+5 12 13 14

@@ -1,0 +1,1795 @@
+answererId, tag numberofanswers score,....
+18 mysql 2 58 version-control 1 44 schema 1 44 learning 1 5 database-design 1 14 database-recommendation 1 14 stored-procedures 1 4 query-refactor 1 4
+26 mysql 1 8 version-control 1 8 schema 1 8 migration 1 5 testing 1 5
+25 mysql 1 23 version-control 1 23 schema 1 23
+174 mysql 2 18 version-control 1 12 schema 1 12 tree 1 14 hierarchy 1 14 feature-comparison 1 14 performance 3 40 stored-procedures 1 6 sql-server 2 34 collation 1 16 primary-key 1 18 uniqueidentifier 1 18 postgresql 1 4
+832 mysql 1 5 version-control 1 5 schema 1 5
+34 nosql 1 12 rdbms 2 24 database-recommendation 2 20 sql-server-2008 19 176 backup 7 55 express-edition 1 15 jobs 1 15 maintenance 1 15 sql-server 50 451 deadlock 1 7 oracle 2 12 sql-server-2005 12 99 ssms 1 4 sqlcmd 2 13 insert 1 10 sql-server-2000 2 20 database-tuning 1 10 index 2 16 primary-key 2 14 clustered-index 2 31 performance 8 64 sql-injection 1 4 profiler 2 26 migration 1 14 intellisense 1 6 database-design 3 27 stored-procedures 3 13 filegroups 1 12 disk-structures 1 12 xml 1 4 functions 2 15 identity 1 11 uniqueidentifier 1 11 sql-server-2012 4 81 sequence 1 37 relational-theory 1 29 naming-convention 1 29 sql-server-agent 1 6 orm 1 4 execution-plan 4 22 mysql 2 17 scalability 1 12 security 4 20 audit 1 4 access-control 1 4 best-practices 2 19 collation 1 8 sorting 1 8 natural-sort 1 8 index-maintenance 1 11 sql-server-2008-r2 6 40 query-performance 1 7 optimization 2 16 query 1 4 constraint 1 24 index-tuning 1 8 restore 1 16 errors 1 6 terminology 1 6 disk-space 1 4 memory 3 32 replication 2 10 authentication 2 9 configuration 2 24 index-statistics 1 7 mysql-5 1 5 data-warehouse 2 17 documentation 1 4 view 1 4 corruption 1 9 hardware 1 5 san 1 5 permissions 1 12 active-directory 1 12 maxdop 1 17 license 1 22 azure-sql-database 1 6 failover 1 8 mirroring 1 8 merge-replication 1 4 transaction-log 1 4 tempdb 1 4 postgresql 1 6 unique-constraint 1 6
+30 nosql 1 6 rdbms 1 6 database-recommendation 1 6
+31 nosql 1 5 rdbms 1 5 database-recommendation 1 5
+60 nosql 1 22 rdbms 1 22 database-recommendation 1 22 sql-server-2005 1 16 sql-server-2008 2 33 tree 1 9 hierarchy 1 9 feature-comparison 1 9 sql-server 1 81 performance 2 98 index 1 81 optimization 2 87 explain 1 6 postgresql 1 8 stored-procedures 1 8 plpgsql 1 8
+106 nosql 1 61 rdbms 1 61 database-recommendation 1 61 sql-server 1 13 migration 1 13 export 1 13 datafile 1 13 blob 1 13
+7 mysql 1 15 mariadb 1 15 database-recommendation 1 15
+186 mysql 1 8 mariadb 1 8 database-recommendation 1 8
+4939 mysql 2 21 mariadb 1 15 database-recommendation 1 15 oracle 1 6
+22 mysql 1 18 performance 1 18 innodb 1 18 backup 1 18 mysqldump 1 18
+14 mysql 2 37 performance 1 15 innodb 1 15 backup 1 15 mysqldump 1 15 slow-log 1 22 oracle 1 7 tools 1 7 sqlplus 1 7 sql-server 1 29 deadlock 1 29
+61 mysql 13 269 performance 4 224 innodb 3 154 backup 2 143 mysqldump 1 135 index 7 294 filtered-index 1 4 rdbms 1 9 sql-server-2005 7 134 sql-server-2008 5 43 tree 1 5 hierarchy 1 5 feature-comparison 1 5 null 1 25 sql-server 29 466 best-practices 3 170 constraint 2 162 unique-constraint 2 163 express-edition 1 8 jobs 1 8 maintenance 3 26 oracle 2 22 security 3 23 database-design 6 46 normalization 1 9 trigger 1 12 replication 1 11 myisam 1 11 ssms 1 9 sql-server-2008-r2 3 21 t-sql 4 28 primary-key 2 15 eav 1 8 storage-engine 1 27 memory 2 31 postgresql 4 45 cache 1 4 database-recommendation 1 8 disk-space 1 13 shrink 2 24 query 1 4 insert 4 20 if-not-exists 1 4 update 1 22 execution-plan 3 87 permissions 1 4 select 1 7 ssd 1 5 clustered-index 2 21 identity 1 5 inheritance 1 4 foreign-key 1 10 referential-integrity 1 10 join 1 6 sql-server-2012 2 13 stored-procedures 2 10 multi-thread 1 5 web-service 1 5 postgresql-9.4 1 7 alter-table 1 7 blocking 1 7 query-performance 2 11 sql-server-2014 3 17 upgrade 1 7 service-pack 1 7 patching 1 7 users 1 8 order-by 1 12 derived-tables 1 12 output-clause 1 5 azure-sql-database 2 14 sql-server-2017 1 6 transparent-data-encryption 1 4 sql-server-2016 1 8
+877 mysql 181 3554 performance 26 621 innodb 55 1453 backup 13 920 mysqldump 12 990 stored-procedures 4 42 trigger 4 41 mongodb 3 19 authentication 3 41 audit 1 5 index 9 141 query 2 8 optimization 5 35 database-design 11 231 database-recommendation 3 68 myisam 16 364 logs 3 95 postgresql 5 458 tools 2 375 psql 1 358 command-line 2 363 mysql-5 8 167 mariadb 3 27 delete 8 59 windows 5 54 installation 1 5 join 6 79 memory 4 24 configuration 4 33 jdbc 1 9 best-practices 2 68 locking 5 38 db2 1 10 primary-key 2 14 storage-engine 3 77 learning 1 57 management 1 57 maintenance 1 4 sql-server 5 52 migration 2 21 select 7 131 deadlock 4 24 ado.net 1 7 statistics 1 4 performance-testing 1 14 percona 2 32 auto-increment 2 23 rdbms 2 18 scalability 1 11 replication 13 141 alter-table 4 37 table 1 36 ndbcluster 1 5 permissions 6 50 usertypes 1 5 view 3 25 oracle 1 5 database-theory 1 14 update 5 35 order-by 4 17 condition 1 4 mysql-5.5 16 432 tuning 1 125 disk-structures 1 7 percona-server 2 24 mysql-5.1 1 8 mysql-5.0 2 32 partitioning 1 32 datatypes 2 97 sql-server-express 1 10 hierarchy 1 64 restore 2 74 constraint 1 16 insert 3 23 upsert 1 7 ddl 1 13 profiler 2 22 relational-theory 2 18 linux 7 63 ubuntu 2 16 upgrade 1 7 my.cnf 1 32 rank 1 30 foreign-key 2 16 query-performance 2 13 subquery 1 8 null 1 7 execution-plan 2 12 sql-server-2008 1 5 import 3 56 bulk 1 26 count 2 15 master-slave-replication 1 8 prepared-statement 1 6 if-not-exists 1 37 truncate 1 6 group-by 2 14 temporary-tables 2 22 amazon-rds 4 24 aws 2 9 mysql-workbench 1 8 transaction 1 4 full-text-search 1 62 varchar 1 62 phpmyadmin 1 19 explain 1 6 mysql-5.6 4 104 database-tuning 1 16 buffer-pool 1 28 ssd 1 4 functions 1 4 date 3 15 information-schema 1 5 amazon-ec2 1 4 union 1 8 transaction-log 1 12 data-integrity 1 12 mongodb-3.0 1 9 datetime 2 11 password 1 6 debian 1 17 duplication 1 7 ssl 1 6 isolation-level 1 6 aggregate 1 10 performance-tuning 1 4
+1876 mysql 29 210 performance 4 46 innodb 12 110 backup 1 16 mysqldump 1 16 myisam 4 42 logs 1 20 mysql-5 1 8 table 1 7 mysql-5.5 3 26 tuning 1 15 storage-engine 1 4 locking 2 11 memory 1 4 temporary-tables 1 4 buffer-pool 1 5 delete 1 11 mysql-5.0 1 11 performance-tuning 1 4 database-design 2 9 database-theory 1 4 database-size 1 4 index 4 20 order-by 1 4 datetime 1 4 timestamp 1 4 default-value 1 4 replication 1 4 date 1 4 varchar 1 4 sql-server 1 4 postgresql 1 4 oracle 1 4 spatial 1 5 geometry 1 5 select 1 5 convert 1 5 primary-key 1 4 clustered-primary-key 1 4 mysql-5.7 1 6 join 1 6 identity 1 17 auto-increment 1 17 mariadb 2 12 covering-index 1 7
+2326 mysql 1 5 performance 1 5 innodb 1 5 backup 1 5 mysqldump 1 5
+63 sqlite 1 4 oracle 12 115 tools 1 11 sqlplus 3 29 backup 2 23 mysql 8 105 performance 5 44 innodb 1 16 oracle-11g-r2 4 36 security 1 16 learning 1 5 replication 2 11 myisam 1 7 stored-procedures 1 27 sql-server 6 80 sql-server-2008-r2 1 4 t-sql 1 4 authentication 1 6 audit 1 6 oracle-11g 2 24 delete 1 14 database-tuning 1 17 architecture 1 17 sql-server-2005 6 58 statistics 1 21 plsql 1 12 rman 1 16 mysql-5 2 36 mariadb 1 23 database-design 3 32 database-recommendation 2 12 query 1 7 primary-key 1 23 migration 1 5 sql-server-2008 1 12 xml 1 12 best-practices 1 20 postgresql 1 8 monitoring 1 8 data-warehouse 1 4 business-intelligence 1 4 olap 1 4 in-memory-database 1 4 index 1 6 upgrade 1 4 oracle-8i 1 4
+46 sqlite 1 17
+386 sqlite 1 25 learning 1 9
+77 learning 2 21
+79 learning 1 57
+130 learning 1 22 sql-server-2005 2 19 sql-server-2008 7 119 postgresql 1 29 security 1 29 sql-injection 1 29 performance 1 89 sql-server 7 194 primary-key 2 96 uniqueidentifier 1 89 backup 1 9 express-edition 1 9 jobs 1 9 maintenance 1 9 collation 1 25 shrink 2 28 logs 1 5 stored-procedures 1 7 trigger 1 12 database-design 1 38 metadata 1 38
+107 learning 1 10 null 1 17 feature-comparison 1 17 empty-string 1 17
+970 learning 1 11
+44 learning 1 6
+34007 learning 1 5 mysql 8 119 log 1 5 terminology 1 6 fields 1 6 postgresql 6 88 oracle 2 8 oracle-11g-r2 1 4 oracle-10g 1 4 naming-convention 1 4 relational-theory 1 4 database-design 7 58 innodb 3 84 foreign-key 4 101 referential-integrity 1 11 mysql-5.5 2 69 data-warehouse 1 12 olap 1 12 locking 1 8 transaction-log 1 8 data-integrity 1 8 postgresql-9.3 1 48 json 2 58 export 1 48 dump 1 48 primary-key 3 47 unique-constraint 1 32 index 1 5 postgresql-performance 1 5 select 1 4 eav 1 8 alter-table 1 15 sql-server 3 13 backup 1 4 mysqldump 1 4 snapshot-isolation 1 4 t-sql 1 4 rdbms 1 4 best-practices 1 10 database-recommendation 1 14 nosql 1 14 delete 1 4 oracle-11g 1 4 plsql 1 4
+351 mysql 1 26 slow-log 1 26
+102 mysql 3 28 slow-log 1 7 innodb 1 4 index 1 17 concurrency 1 17
+50 mysql 9 72 benchmark 1 6 configuration 2 17 index 1 11 rdbms 2 16 mysql-5 1 10 storage-engine 3 32 innodb 2 29 myisam 1 18 terminology 1 9 my.cnf 1 11 max-connections 1 11 database-design 2 9 disk-structures 1 4 sql-server 1 5 scalability 1 5 backup 1 7 join 1 7 select 1 7 mysqldump 1 7 performance 2 15 linux 1 11 stored-procedures 1 4 prepared-statement 1 4 replication 1 6 mariadb 1 4
+139 mysql 2 8 benchmark 1 4 configuration 1 4 tools 1 4 normalization 1 14 join 1 7
+151 mysql 1 7 index 1 7 filtered-index 1 7 sql-server 1 38 sql-server-2008 1 38 deadlock 1 38
+3417 mysql 3 17 index 1 6 filtered-index 1 6 locking 1 5 myisam 1 5 deadlock 1 5 replication 1 6
+33203 mysql 1 9 index 1 9 filtered-index 1 9
+157 sql-server-2005 2 23 sql-server-2008 3 32 sql-server 9 64 index 1 6 migration 1 9 stored-procedures 1 7 scripting 1 9 backup 2 9 t-sql 1 7 security 1 27 users 1 27 collation 1 9 like 1 9 sql-server-agent 1 8 disaster-recovery 1 8 sql-server-2014 1 5 ola-hallengren 1 5 compression 1 5
+92 sql-server 3 70 performance 2 13 index 1 8 optimization 1 8 null 1 67 feature-comparison 1 67 empty-string 1 67 mysql 1 5 stored-procedures 1 5 oracle 1 6 style 1 6 sql-server-2008 1 56 shrink 1 56
+244 sql-server 7 130 performance 2 57 index 2 55 optimization 1 50 query 1 7 sql-server-2005 2 17 clustered-index 1 10 orm 1 6 execution-plan 1 6 best-practices 1 7 maintenance 2 12 jobs 1 7 index-maintenance 1 41 query-performance 1 5 dmv 1 5 sql-server-2008 1 11 corruption 1 11
+708 sql-server 77 1077 performance 10 103 index 4 60 optimization 2 34 sql-server-2008 28 315 windows 1 4 memory 2 17 database-design 6 81 constraint 1 14 compatibility-level 1 5 security 4 24 certificate 1 7 sql-server-2008-r2 22 226 transaction 1 7 primary-key 2 203 clustered-index 3 55 locking 6 67 isolation-level 2 13 size 1 4 nolock 2 38 view 1 19 version-control 1 15 source-control 1 15 index-tuning 1 6 concurrency 1 7 partitioning 2 47 transaction-log 6 70 metadata 1 29 ms-access 1 9 backup 5 36 recovery 1 4 mysql 1 16 innodb 1 16 count 1 16 query 1 20 t-sql 3 32 trigger 1 8 identity 1 8 myisam 1 6 logs 1 5 error-handling 2 13 query-performance 3 46 maintenance 1 20 dmv 1 20 union 1 7 corruption 1 10 order-by 1 22 exception 1 5 permissions 4 20 sql-server-2005 3 39 service-broker 1 17 collation 2 12 sql-server-2012 9 104 wait-types 1 7 except 1 13 dbcc 1 9 database-size 1 9 shrink 2 30 monitoring 1 5 network 1 5 parallelism 2 16 deployment 1 10 stored-procedures 1 17 performance-tuning 1 17 sqlcmd 1 8 logins 1 4 storage 1 8 change-tracking 1 14 sql-server-2014 2 20 compression 1 15 insert 1 8 nonclustered-index 1 8 availability-groups 2 15 replication 1 6 transactional-replication 1 6 disaster-recovery 1 10 timeout 1 6 maxdop 1 6 latch 1 6 alter-table 1 5 tempdb 1 5 subtypes 1 17 instance 1 8 service-accounts 1 4 ssms 1 4 windows-10 1 4
+22411 sql-server 1 28 performance 1 28 index 1 28 optimization 1 28
+43 null 1 4 feature-comparison 1 4 empty-string 1 4 tree 1 8 relational-theory 1 8 database-design 1 8 erd 1 8
+112 null 1 10 feature-comparison 1 10 empty-string 1 10
+136 null 1 25 feature-comparison 1 25 empty-string 1 25 join 1 4 oracle 4 25 security 1 5 sql-server 5 49 sql-server-2005 1 30 identity 1 30 sql-server-2008 1 4 migration 1 4 datatypes 1 6 alter-table 1 6 type-conversion 1 6 relational-theory 1 5 naming-convention 1 5 index 1 5 aggregate 1 6 query 1 4 dynamic-sql 1 4 scripting 1 4 oracle-11g 1 10 oracle-10g 1 4 sql-server-2008-r2 1 5
+78 null 1 6 feature-comparison 1 6 empty-string 1 6 career 1 4
+11 tree 1 6 relational-theory 1 6 database-design 1 6 erd 1 6 oracle 2 22 backup 1 5 performance 1 10 learning 1 10 normalization 1 10 security 1 17
+82 mysql 2 21 null 1 8 normalization 1 8 explain 1 6 optimization 1 6 database-recommendation 1 5 feature-comparison 2 24 permissions 1 5 oracle 1 10 sql-server 1 10 postgresql 11 199 ddl 1 19 rollback 1 19 database-agnostic 1 19 data-warehouse 1 13 rdbms 1 13 parallelism 1 13 database-design 2 17 schema 1 4 tools 1 4 management 1 4 stored-procedures 1 43 plpgsql 1 43 restore 1 35 snapshot 1 35 postgresql-9.2 1 9 pgbouncer 1 9 index 1 13 collation 1 13
+116 sql-server-2008 2 25 process 1 17 source-control 1 17 database-recommendation 1 4 embedded 1 4 sql-server-2005 1 5 maintenance 1 4 delete 1 4 sql-server 2 12
+29 sql-server-2008 1 4 process 1 4 source-control 1 4 oracle 2 21 database-design 2 14 oracle-11g-r2 1 12 sqlplus 1 12 plsql 1 12 database-recommendation 1 5 query 1 5
+120 oracle 3 59 monitoring 1 13 tools 1 13 sqlplus 1 13 oracle-10g 1 5 locked-objects 1 5 locking 1 5 exception 1 33
+109 oracle 1 16 monitoring 1 16 mysql 1 6 tools 1 6
+1603 oracle 1 4 monitoring 1 4
+154 oracle 36 279 tools 3 13 sqlplus 4 24 join 2 14 oracle-11g-r2 9 75 version-control 3 14 sql-server 2 20 style 1 5 learning 2 146 db2 1 6 regular-expression 1 6 aggregate 4 31 oracle-10g-r2 1 9 where 1 6 sql-standard 1 9 feature-comparison 1 9 dml 2 17 stored-procedures 2 17 query-refactor 1 11 case 2 19 backup 2 11 rman 1 7 datatypes 2 38 database-design 10 96 database-recommendation 3 20 plsql 4 29 query 6 47 optimization 1 4 oracle-10g 7 45 locked-objects 1 10 locking 1 10 best-practices 3 38 index 3 19 sql-server-2008 1 12 tablespaces 1 7 mysql 1 5 naming-convention 1 42 dynamic-sql 1 7 scripting 1 7 management 1 141 replication 3 14 duplication 1 5 minus 1 5 instance 1 5 view 2 8 permissions 2 9 role 1 4 performance 3 16 varchar 1 4 trigger 2 13 audit 1 4 application-design 2 10 architecture 1 14 database-engine 1 14 insert 1 6 update 2 15 delete 2 23 performance-testing 1 6 oracle-11g 1 11 upgrade 1 11 select 1 8 database-theory 1 8 greatest-n-per-group 1 25 vpd 1 5 postgresql 1 23 plpgsql 1 23 upsert 1 23 sql-injection 1 14 functions 1 8 informix 1 8 ms-access 1 4 hierarchy 1 4 unit-test 1 15 constraint 1 6 null 2 12 transaction-log 1 4 tuning 1 6 t-sql 1 15 empty-string 1 6 cursors 1 4 eav 1 4
+172 oracle 1 5 tools 1 5 sqlplus 1 5
+953 oracle 7 51 tools 1 4 sqlplus 1 4 oracle-11g 2 18 linux 1 9 performance 1 5 mysql 1 6 mysql-5 1 6 mariadb 1 6 migration 1 6 testing 1 6 optimization 1 7 database-design 1 12 best-practices 1 12 oracle-10g 1 9 referential-integrity 1 11 truncate 1 11
+3459 oracle 4 23 tools 1 4 sqlplus 1 4 aggregate 1 9 count 1 9 null 1 9 oracle-10g 1 4 oracle-11g 1 4 installation 1 4 feature-comparison 1 4 index 1 6
+125 mysql 2 10 join 1 6 foreign-key 1 6 security 1 4
+97 mysql 4 100 join 1 12 foreign-key 1 12 normalization 1 4 postgresql 2 75 security 2 54 sql-injection 1 46 etl 1 11 performance 1 7 innodb 1 7 primary-key 2 51 database-design 1 59 aggregate 1 59 oracle 6 91 oracle-11g-r2 3 32 mysql-5 1 7 storage-engine 1 7 best-practices 1 13 datatypes 1 29 derby 1 29 oracle-11g 1 17 linux 1 17 sqlplus 1 15
+119 mysql 1 7 security 1 7 oracle 2 8 backup 1 4 datafile 1 4
+51 mysql 5 45 security 3 18 sql-server 3 24 sql-server-2008 1 16 deadlock 1 16 database-design 5 38 aggregate 1 11 oracle 4 17 oracle-11g-r2 1 4 best-practices 1 4 innodb 1 10 postgresql 1 45 db2 1 11 regular-expression 1 11 database-tuning 1 13 architecture 1 13 terminology 1 10 database-recommendation 4 24 migration 1 14 testing 2 18 performance-testing 1 4 interview-question 1 5 oracle-10g 1 4 trigger 1 4
+68 database-design 1 17 data-warehouse 1 17
+321 database-design 7 51 data-warehouse 2 10 sql-server 4 36 performance 3 31 database-theory 1 5 terminology 2 19 sql-server-2008 3 23 stored-procedures 1 11 mysql 3 100 sql-server-2008-r2 1 4 date-format 1 4 update 1 73 entity-framework 1 5 orm 1 5 troubleshooting 1 5 row 1 14 record 1 14 schema 1 6 best-practices 1 6 foreign-key 1 4 primary-key 1 4
+2092 database-design 5 79 data-warehouse 5 62 mysql 3 28 performance 1 16 partitioning 1 16 myisam 1 16 schema 1 4 metadata 1 4 sql-server 13 393 oracle 5 134 best-practices 3 200 permissions 1 152 sql-server-2012 2 28 ssis 1 4 ssas 3 65 ssrs 1 5 select 1 17 cte 1 14 postgresql 1 7 tablespaces 1 7 sql-server-2008 4 37 sql-server-2008-r2 3 42 database-recommendation 1 21 foreign-key 1 41 t-sql 3 28 window-functions 1 15 rank 1 15 sql-server-2005 1 8 query-performance 1 8 stored-procedures 1 7 oracle-10g 1 7 normalization 1 7 relational-theory 1 7 surrogate-key 1 7 import 1 4 bulk 1 4 etl 1 10 business-intelligence 1 10 scripting 1 5 unix 1 5 hashing 1 8 olap 1 11 web-server 1 11 azure-sql-database 1 24 entity-framework 1 24 performance-tuning 1 8 spatial 1 8
+418 sql-server 26 320 sql-server-2008 11 142 deadlock 1 23 performance 8 53 collation 1 8 mysql 5 36 replication 2 8 sql-server-2005 5 58 index 3 41 primary-key 1 15 clustered-index 1 15 sql-injection 1 5 ddl 1 5 feature-comparison 1 5 rollback 1 5 database-agnostic 1 5 migration 3 15 intellisense 1 4 innodb 1 11 delete 2 16 database-design 4 74 schema 2 8 tools 1 4 oracle 2 13 database-recommendation 1 4 uniqueidentifier 1 11 locking 2 13 nolock 1 9 best-practices 2 42 maintenance 2 29 jobs 1 22 postgresql 1 55 disk-structures 1 4 select 1 6 count 1 6 sql-server-2008-r2 4 79 ssms 2 28 csv 1 21 sql-server-2000 1 5 express-edition 1 5 trigger 1 4 heap 1 9 linq 1 5 t-sql 2 34 ado.net 1 10 testing 1 5 performance-testing 1 5 fragmentation 1 19 interview-question 1 6 transaction 1 4 isolation-level 1 4 memory 1 8 process 1 8 permissions 1 20 except 1 7 hardware 1 5 san 1 5 security 1 31 logins 1 31 sql-server-2012 2 12 ssis 1 5 sqlcmd 1 7 encoding 1 7
+1336 sql-server 2 23 sql-server-2008 1 7 deadlock 1 7 oracle 1 16
+12885 sql-server 1 6 sql-server-2008 1 6 deadlock 1 6
+860 postgresql 1 71 security 1 71 sql-injection 1 71
+630 postgresql 3 23 security 8 102 sql-injection 1 12 features 1 8 sql-server-2012 2 13 sql-server 110 1487 sql-server-2008 44 454 performance 19 171 index 7 63 query 7 54 sql-server-2005 25 401 statistics 2 13 profiler 2 16 stored-procedures 8 62 backup 9 88 mysql 13 85 migration 2 12 pattern-matching 1 8 eav 1 6 except 1 7 datatypes 2 11 alter-table 3 39 type-conversion 2 20 testing 2 14 xml 3 20 database-design 33 424 database-recommendation 3 19 clustered-index 3 63 functions 1 21 identity 1 21 uniqueidentifier 1 21 relational-theory 3 32 naming-convention 3 70 sql-server-agent 1 4 schema 3 34 tools 2 21 delete 2 49 database-tuning 2 13 execution-plan 2 52 sql-server-2008-r2 9 164 view 4 50 best-practices 9 114 oracle 2 82 aggregate 3 84 count 2 93 null 1 72 replication 1 4 ssis 1 4 role 1 48 active-directory 1 48 locking 7 70 nolock 1 11 primary-key 8 70 t-sql 8 103 configuration 2 12 varchar 1 18 windows 1 15 memory 1 15 join 4 57 rdbms 1 4 scalability 2 14 trigger 3 20 collation 2 37 sorting 1 8 natural-sort 1 8 select 3 38 empty-string 1 4 dynamic-sql 2 14 export 1 15 partitioning 1 4 transaction 5 79 shrink 1 4 syntax 2 52 query-performance 3 52 optimization 3 37 cursors 1 6 performance-testing 3 71 restore 1 19 sql-server-2000 1 5 database-theory 4 48 update 1 11 order-by 2 16 innodb 2 10 myisam 1 5 compatibility-level 1 5 express-edition 1 5 disk-space 1 7 sqlcmd 1 7 dml 1 8 surrogate-key 2 23 errors 1 8 terminology 1 8 index-tuning 3 26 unique-constraint 3 28 maintenance 2 18 isolation-level 1 6 alias 1 12 database-agnostic 1 4 ssms 1 18 default-value 1 18 parameter 2 13 fragmentation 1 8 disk-structures 1 5 deadlock 1 7 logs 1 7 upsert 1 7 metadata 1 4 ado.net 1 11 authentication 1 7 index-statistics 1 7 constraint 2 23 c# 2 20 permissions 3 41 data-warehouse 1 5 scripting 1 8 normalization 3 36 application-design 1 8 architecture 1 16 visual-studio-2010 1 11 transaction-log 1 10 percona 1 5 percona-server 1 5 datetime 1 13 nonclustered-index 1 7 heap 1 22 troubleshooting 1 10 audit 1 10 information-schema 1 7 mysql-5.5 1 5 unicode 1 29 powershell 1 6
+11122 postgresql 1 10 security 1 10 sql-injection 1 10
+165 etl 1 4
+8545 sql-server 1 7 index 1 7 best-practices 1 7 constraint 1 7 unique-constraint 1 7
+21137 sql-server 7 142 index 1 102 best-practices 1 102 constraint 1 102 unique-constraint 1 102 database-design 2 15 relational-theory 1 4 order-by 1 4 database-agnostic 1 4 sql-server-2012 3 33 license 1 16 primary-key 3 13 identity 1 5 clustering 1 9 transactional-replication 1 9 failover 1 9 availability-groups 1 9 sql-server-2008-r2 1 5 permissions 1 5 restore 1 5 security 1 5 select 1 13 foreign-key 1 4
+42414 sql-server 1 10 index 1 10 best-practices 1 10 constraint 1 10 unique-constraint 1 10
+64 join 1 32 sql-server 1 15
+24 join 1 13 tools 1 12 data-warehouse 1 12 database-agnostic 1 12 business-intelligence 1 12
+13 join 1 5 database-recommendation 1 5 embedded 1 5
+3847 join 1 6 performance 2 16 learning 1 5 normalization 4 18 rdbms 1 4 sql-server 1 4 database-design 5 21 relational-theory 1 4 primary-key 1 4 auto-increment 1 4 postgresql 1 11 index 1 11 regular-expression 1 11 pattern-matching 1 11 application-design 1 5 erd 1 4 sql-server-2005 1 4
+5138 join 1 4
+290 mysql 4 59 performance 1 4 innodb 1 4 query 1 27 data-synchronization 1 21
+110 database-recommendation 1 10 embedded 1 10
+81 mysql 2 12 primary-key 2 20 database-design 2 39 aggregate 1 4 sql-server 5 45 stored-procedures 1 5 database-recommendation 2 12 feature-comparison 1 8 permissions 1 8 performance 1 7 query 1 7 sql-server-2005 2 17 profiler 1 19 terminology 1 4 best-practices 1 35 security 1 5
+63780 performance 1 8 sql-server 1 8 collation 1 8
+62705 performance 1 15 sql-server 1 15 primary-key 1 15 uniqueidentifier 1 15
+53 sql-server-2008 1 6 backup 1 6 express-edition 1 6 jobs 1 6 maintenance 1 6
+177 oracle 1 22 oracle-11g-r2 1 22 version-control 1 22
+4325 oracle 2 17 oracle-11g-r2 2 15 version-control 1 10 replication 1 5 sql-server 1 7 sql-server-2008-r2 1 7
+555 oracle 18 241 oracle-11g-r2 2 14 security 1 4 case 1 12 datatypes 1 25 mysql 3 39 postgresql 1 19 performance 2 78 full-text-search 1 19 pattern-matching 1 19 import 1 8 primary-key 1 9 auto-increment 1 9 database-design 2 58 best-practices 1 50 innodb 1 11 deadlock 1 11 oracle-10g 6 31 oracle-11g 2 11 upgrade 1 5 installation 1 6 feature-comparison 1 6 trigger 1 7 backup 1 4 stored-procedures 2 29 functions 1 24 dml 1 24 foreign-key 1 8 referential-integrity 1 8 update 1 8 database-size 1 14 view 1 59 transaction-log 1 4 plsql 1 16 index 1 4 oracle-sql-developer 1 5 sql-server 1 10
+1097 oracle 1 5 best-practices 1 5
+171 mysql 3 21 stored-procedures 1 5 trigger 1 5 performance 2 42 learning 2 55 normalization 1 37 index 1 7 sql-server 7 98 ssms 1 10 sql-server-2008 2 14 oracle 2 10 database-design 3 37 oracle-11g-r2 1 5 sqlplus 1 5 plsql 1 5 sql-server-2005 1 5 eav 1 5 intellisense 1 7 database-recommendation 1 13 primary-key 1 13 management 1 18 terminology 2 52 cte 1 29 scripting 1 6 unix 1 6 row 1 33 record 1 33 postgresql 2 24 logs 1 6 exception 1 6 naming-convention 1 18
+8484 postgresql 1 22 primary-key 1 22 datatypes 1 22 derby 1 22
+533 sql-server 4 26 sql-server-2008 5 44 collation 1 6 security 1 4 mysql 1 9 replication 1 9 performance 1 13
+4229 sql-server 1 5 sql-server-2008 1 5 collation 1 5
+379 oracle 1 13 oracle-11g 1 13 linux 1 13
+39 sql-server-2005 2 53 instance 1 13 postgresql 1 9 mysql 1 19 stored-procedures 1 19 oracle 1 6 sqlplus 1 6
+1469 sql-server-2005 2 8 instance 1 4 sql-server 14 86 mysql 2 9 postgresql 1 5 performance 3 44 full-text-search 1 5 pattern-matching 1 5 index 1 10 database-recommendation 1 31 statistics 1 4 sql-server-2008 6 34 windows 1 6 memory 1 6 backup 3 14 security 1 6 audit 2 10 access-control 1 6 oracle 1 10 query 1 8 deadlock 1 8 transaction 1 8 rdbms 1 8 rollback 1 8 sql-server-2008-r2 1 9 optimization 2 15 delete 1 6 transaction-log 1 6 database-design 1 4 role 1 6
+20179 sql-server 1 13 sql-server-2008 1 13 shrink 1 13
+9434 sql-server 3 42 sql-server-2008 1 15 shrink 1 15 database-design 2 18 null 1 13 performance 2 27 dimensional-modeling 1 5 facttable 1 5
+76 sql-server-2008 3 22 sql-server 6 67 shrink 1 7 logs 1 7 database-design 2 12 metadata 1 8 tools 1 5 stored-procedures 1 4
+182 sql-server 1 11
+41 mysql 1 7 innodb 1 7 myisam 1 7 storage-engine 1 7
+190 features 1 13 sql-server-2012 1 13
+274 features 1 5 sql-server-2012 1 5 mongodb 1 4
+2833 features 1 9 sql-server-2012 1 9 sql-server 1 6 sql-server-2008 1 6 security 1 6
+2660 features 2 14 sql-server-2012 2 14 sql-server 11 455 sql-server-2008 3 55 sybase 1 131 truncate 1 131 index-maintenance 1 19 oracle 4 59 oracle-11g-r2 2 26 null 1 13 database-design 3 61 mysql 3 92 order-by 2 82 condition 1 4 performance 2 71 view 1 47 index 2 102 index-tuning 1 24 ssms 1 21 identity 1 21 backup 3 17 duplication 3 17 azure-sql-database 3 17 stored-procedures 1 39 best-practices 2 174 naming-convention 1 39 select 2 95 mysql-5 1 78 cte 1 17 sql-server-2005 1 14 t-sql 1 23 datatypes 1 23 type-conversion 1 23 mongodb 1 5 permissions 1 135 security 1 9 windows 1 9 aggregate 1 9 window-functions 1 9
+88 oracle 1 43 oracle-11g-r2 1 43
+5501 oracle 2 12 oracle-11g-r2 1 8 replication 1 4
+515 oracle 6 144 oracle-11g-r2 2 20 sqlplus 2 93 aggregate 2 36 oracle-10g-r2 1 23 where 1 7 oracle-11g 1 17 delete 1 17
+191 oracle 1 18
+261 oracle 1 9
+193 oracle 7 72 oracle-11g 2 11 delete 1 4 ddl 1 5 feature-comparison 1 5 rollback 1 5 database-agnostic 1 5 database-design 1 21 oracle-11g-r2 1 12 plsql 1 12 oracle-10g 1 7 view 1 6 permissions 1 6 role 1 6 performance 1 12 varchar 1 12
+2455 oracle 1 8
+2047 oracle 6 89 oracle-11g 1 12 timestamp 1 12 date-format 1 12 oracle-11g-r2 1 6 mysql 3 21 database-design 1 6 database-size 1 4 sqlplus 1 59 aggregate 1 5 union 1 10 automation 1 4 relational-theory 1 5 terminology 1 5
+180 mysql 36 524 innodb 10 107 performance 5 49 index 1 4 query 3 25 optimization 2 47 configuration 4 107 my.cnf 2 32 max-connections 1 27 database-design 6 74 database-recommendation 2 14 join 1 7 windows 2 16 memory 2 11 jdbc 1 4 primary-key 1 7 varchar 1 7 mysql-5 1 6 locking 3 15 learning 1 18 management 1 18 backup 1 4 permissions 1 5 usertypes 1 5 database-tuning 1 4 partitioning 1 4 view 2 68 null 1 10 mysql-5.5 4 49 tuning 1 29 delete 2 12 stored-procedures 1 5 best-practices 1 5 naming-convention 1 5 percona-server 1 18 postgresql 1 5 mysql-5.1 1 9 mysql-5.0 1 9 replication 1 4 datatypes 1 39 logs 1 4 upgrade 1 7 myisam 1 7 rank 1 9 foreign-key 1 5 insert 2 15 unique-constraint 1 9 uniqueidentifier 1 9 timestamp 1 49 syntax 1 49 utc-time 1 49 interface 1 19 mysql-console 1 19 auto-increment 1 35
+208 sql-server-2005 1 4 ssms 1 4 sqlcmd 1 4 sql-server 1 29 t-sql 1 29
+247 learning 1 5 database-recommendation 2 13 database-tuning 1 30 architecture 1 30 sql-server 10 171 sql-server-2005 5 79 index 1 6 dbcc 1 6 identity 1 55 sql-server-2008 5 40 backup 1 10 restore 1 10 query 1 6 pattern-matching 1 6 oracle 1 6 case 1 6 postgresql 3 19 database-design 2 18 schema 2 13 except 1 6 performance 2 14 orm 2 15 entity-framework 1 10 ado.net 1 10 waits 1 14 execution-plan 1 5 best-practices 1 6 security 1 4 transaction 1 4 troubleshooting 1 4
+162 database-design 1 52 normalization 1 52
+415 database-design 1 4 normalization 1 4
+253 sql-server-2008 1 10 performance 1 10
+3466 sql-server-2008 1 5 sql-server-2005 1 5 trigger 1 5
+260 sql-server 18 219 insert 1 7 sql-server-2000 1 7 database-tuning 1 7 performance 5 55 query 1 13 sql-server-2005 6 52 recovery 1 12 dbcc-checkdb 1 12 sql-server-2008 8 69 backup 5 35 restore 2 10 filegroups 1 4 disk-structures 1 4 delete 1 21 database-design 1 9 datatypes 2 26 execution-plan 1 14 sql-server-2008-r2 1 14 view 1 8 t-sql 1 14 deadlock 1 13 maintenance 1 6 logs 1 17 web-server 1 17 profiler 2 11 oracle 1 5 datafile 1 5
+508 sql-server 6 31 insert 1 5 sql-server-2000 1 5 database-tuning 1 5 tools 2 12 performance 1 4 orm 1 4 entity-framework 1 4 ado.net 1 4 sql-server-2008 2 17 testing 1 5 performance-testing 1 5
+686 sql-server 6 66 insert 1 6 sql-server-2000 1 6 database-tuning 1 6 sql-server-2005 3 47 recovery 1 20 dbcc-checkdb 1 20 performance 1 7 backup 1 11 security 1 11
+86 postgresql 2 19 mysql 1 11 license 1 11
+7074 postgresql 1 4
+24246 sql-server 3 20 sql-server-2008 1 5 database-design 1 5 metadata 1 5 logs 1 9 sql-server-2012 1 6 sql-server-2008-r2 1 6 installation 1 6
+373 mysql 1 15 index 1 15 concurrency 1 15
+392 mongodb 1 9 sql-server 1 14 sql-server-2008 1 14
+192 oracle 1 7 performance 4 25 sql-server 4 25 sql-server-2005 2 11 delete 1 7 sql-server-2008 2 13 database-design 2 13 datatypes 2 13 execution-plan 1 9 sql-server-2008-r2 1 9 etl 1 5 clustered-index 1 4 order-by 1 4
+1710 oracle 3 15 performance 1 6 oracle-11g-r2 1 4 oracle-11g 1 4 oracle-10g 1 16 database-design 1 6 terminology 1 6 data-warehouse 1 5 career 1 5
+361 sql-server 4 55 sql-server-2005 3 51 constraint 1 18 sql-server-2008 1 6 sql-server-2008-r2 3 22 date-format 1 6 query-refactor 1 12 ssis 1 10 mysql 1 8
+331 sql-server 1 7 sql-server-2005 1 7 constraint 1 7
+16 sql-server 1 5 ssms 1 5 sql-server-2005 1 4
+809 sql-server 1 5 sql-server-2008 2 10 partitioning 1 5 trigger 1 5 audit 1 5 application-design 1 5
+4839 sql-server 15 150 sql-server-2008 5 46 database-design 8 62 erd 1 4 oracle 1 10 query-performance 2 13 trigger 1 6 locking 2 22 nolock 1 11 except 1 7 concurrency 1 11 isolation-level 1 11 constraint 2 10 hierarchy 2 11 sql-server-2008-r2 3 26 sql-server-2012 1 14 identity 1 7 naming-convention 1 7 foreign-key 1 9 referential-integrity 2 13 t-sql 1 4 best-practices 1 32 unit-test 1 32 deadlock 2 23 merge 1 8 postgresql 2 10 data-integrity 1 4 query 1 8 query-refactor 1 8 mysql 2 10 alter-table 1 6 terminology 1 9 row 1 9 record 1 9 rdbms 1 7 azure-sql-database 1 23
+278 mysql 2 10 stored-procedures 1 6 mysql-5 1 6
+23721 db2 2 15 regular-expression 1 11 oracle 1 4 oracle-11g 1 4 stored-procedures 1 4 best-practices 1 4 database-design 2 9 primary-key 1 4 mysql 2 48 normalization 1 5 sql-server 3 57 t-sql 2 41 dbms 1 47 constraint 1 43 identifier 1 20 collation 1 5 sql-server-2016 1 9 query 1 9
+473 aggregate 1 5 oracle-10g-r2 1 5
+72633 oracle 1 15 security 1 15
+115 mysql 1 9 performance 1 25 postgresql 2 29 index 1 25 query 1 25
+3455 oracle 1 5 oracle-11g-r2 1 5 aggregate 1 5
+4704 oracle 1 5 oracle-11g-r2 1 5 aggregate 1 5
+1396 oracle 26 244 oracle-11g-r2 7 75 aggregate 3 90 postgresql 38 903 plpgsql 5 61 blob 1 27 datafile 1 27 stored-procedures 1 14 count 1 16 null 2 26 trigger 1 8 delete 4 25 mysql 7 43 performance 7 56 primary-key 3 24 varchar 2 13 tablespaces 2 13 sql-server 9 80 sql-server-2008 4 33 locking 2 8 index 7 70 naming-convention 2 45 oracle-11g 3 19 query 1 13 dynamic-sql 3 23 scripting 1 13 import 1 4 timestamp 2 88 date-format 1 5 select 2 52 default-value 1 42 learning 1 27 management 1 27 database-recommendation 1 8 replication 3 12 oracle-10g 3 26 duplication 1 4 minus 1 4 insert 2 313 benchmark 1 72 psql 2 184 snapshot 1 4 materialized-view 1 5 sequence 1 14 bulkcopy 1 5 innodb 2 9 alter-table 1 4 table 1 18 backup 1 4 optimization 3 20 mysql-5.5 2 12 relational-theory 1 8 spatial 1 8 ubuntu 1 112 permissions 2 117 storage-engine 1 17 deadlock 2 15 linq 1 6 t-sql 2 12 ado.net 1 6 database-design 4 54 normalization 1 5 migration 1 7 pgadmin 3 28 sql-server-2005 3 32 transaction 2 32 update 1 9 rdbms 1 13 rollback 1 13 oracle-xe 1 13 condition 1 6 view 1 10 constraint 1 10 surrogate-key 1 12 postgresql-8.3 2 11 greatest-n-per-group 1 14 cte 1 10 tools 1 7 best-practices 2 14 disk-structures 1 6 xml 1 10 exception 1 5 datatypes 3 18 sqlite 1 4 money 1 4 sqlplus 1 5 query-performance 2 44 testing 1 5 random 1 5 bytea 1 5 cursors 1 4 query-refactor 2 27 gaps-and-islands 2 12 window-functions 2 12 postgresql-9.0 1 7 type-conversion 2 14 postgresql-performance 1 10 postgresql-9.4 2 20 distinct 1 10 group-by 1 5 postgresql-8.4 1 5 clustered-index 1 14 postgresql-9.6 1 14 azure-sql-database 1 17 identity 1 4 postgresql-10 1 4 installation 1 10 debian 1 10 catalogs 1 4 enum 1 4
+79735 oracle 1 8 oracle-11g-r2 1 8 aggregate 1 8
+586 database-tuning 1 8 architecture 1 8
+365 database-tuning 1 8 architecture 1 8
+2882 database-tuning 1 5 architecture 1 5
+3528 database-tuning 1 4 architecture 1 4 mysql 1 6 innodb 1 6 percona-server 1 6
+94938 sql-server 3 63 sql-server-2005 1 15 index 1 15 dbcc 1 15 sql-server-2000 1 6 dbcc-checkdb 1 6 trace-flags 1 42
+599 sql-server-2005 1 5
+674 ddl 1 10 feature-comparison 1 10 rollback 1 10 database-agnostic 1 10
+426 sql-server 50 786 stored-procedures 4 41 sql-server-2008 5 90 waits 1 32 optimization 3 27 mysql-5.5 1 6 relational-theory 1 6 spatial 1 6 security 4 77 database-design 2 27 partitioning 1 11 certificate 1 5 sql-server-2005 1 5 sql-server-2008-r2 3 33 t-sql 6 45 alter-table 1 26 sql-server-2012 5 46 availability-groups 2 18 reporting 1 12 snapshot 1 12 mirroring 1 12 dmv 1 11 clustering 1 10 failover 1 10 backup 2 23 best-practices 3 151 query-performance 2 29 update 1 14 virtualisation 1 15 vmware 1 15 powershell 1 10 sqlcmd 1 10 sp-askbrent 1 10 data-warehouse 2 17 windows-server-2012 1 8 sql-server-2016 7 109 performance 2 68 plan-cache 1 17 paging 1 37 naming-convention 1 134 trigger 1 4 change-data-capture 1 4 shutdown 1 19 ssrs 1 4 index 1 11 computed-column 1 11 sharding 1 16 scalability 1 16 multi-tenant 1 16 tools 1 16 maintenance-plans 1 8 maintenance 1 8 ssis 1 9 varchar 1 29 max 1 29 sql-server-2014 2 15 transaction-log 2 21 ssms 2 16 performance-tuning 1 15 always-encrypted 1 4 disk-space 1 13 network 1 13 sql-server-2017 2 16 sp-blitz 2 56 multi-server-admin 1 5 memory 1 51 index-tuning 1 5 clustered-index 1 5 ola-hallengren 1 5 disk-structures 1 5 crash 1 26 r 1 6 postgresql 1 4 cte 1 4 transparent-data-encryption 1 7
+33413 sql-server 1 6 sql-server-2005 1 6 identity 1 6
+6965 sql-server 23 213 sql-server-2005 1 13 identity 1 13 sql-server-2008 2 17 t-sql 13 122 union 3 14 postgresql 7 62 group-by 2 21 gaps-and-islands 2 21 window-functions 3 26 sql-server-2008-r2 3 24 null 2 13 postgresql-9.3 1 7 postgresql-performance 1 12 postgresql-9.4 1 12 distinct 1 12 sql-server-2014 3 19 stored-procedures 1 4 concat 1 4 join 2 11 cross-apply 1 5 update 2 9 merge 1 4 sequence 1 4 upsert 1 4 postgresql-9.5 1 4 mysql 5 42 mysql-5.5 1 15 select 1 15 date-format 1 9 database-agnostic 1 9 oracle 4 30 order-by 1 5 trigger 1 24 insert 1 24 limits 1 24 row 1 24 greatest-n-per-group 2 9 sql-server-2016 3 22 query-performance 1 4 mysql-5.6 1 4 mysql-5.7 2 11 aggregate 2 11 pivot 1 14 postgresql-8.4 1 5 like 1 13 operator 1 13 sql-server-2012 2 15 substring 1 7 pattern-matching 1 6 string-searching 1 6 compatibility-level 1 7 sum 1 8 count 1 5 query 1 11
+203 sql-server 1 14 backup 1 14
+710 sql-server-2008 1 18 mysql 1 12 sql-standard 1 5 feature-comparison 1 5 dml 1 5
+691 sql-server-2008 1 12 sql-server 1 19
+7823 sql-server 1 14
+4386 mysql 1 7 stored-procedures 1 7 mysql-5 1 7
+3354 sql-server 1 6 sql-server-2008 1 6 backup 1 6 restore 1 6
+805 mysql 1 41 database-design 1 41 database-recommendation 1 41 sql-server 1 6 performance 1 6
+826 mysql 1 10 postgresql 1 10 data-warehouse 1 10 rdbms 1 10 parallelism 1 10
+15880 mysql 1 4 postgresql 1 4 data-warehouse 1 4 rdbms 1 4 parallelism 1 4
+22049 mysql 1 6 postgresql 1 6 data-warehouse 1 6 rdbms 1 6 parallelism 1 6
+21575 sql-server 1 15
+48235 sql-server 1 6
+60146 sql-server 1 7
+736 sql-server 2 12 database-design 1 4 stored-procedures 1 4 best-practices 1 8 permissions 1 8 database-recommendation 1 7 ms-access 1 7
+11240 sql-server 2 14 database-design 8 67 stored-procedures 3 13 learning 1 14 management 1 14 index 2 11 null 1 10 sql-server-2008 1 5 performance 3 45 transaction 1 5 rdbms 2 22 rollback 1 5 best-practices 4 27 permissions 1 10 db2 1 4 mysql 3 36 datafile 1 12 postgresql 8 99 disk-space 1 14 postgresql-performance 1 14 size 1 14 oracle 1 7 query-performance 2 42 functions 2 12 postgresql-9.1 3 16 join 1 14 scalability 1 14 datatypes 1 7 array 1 7 schema 1 4 delete 1 26 postgresql-9.2 1 26 constraint 1 6 unique-constraint 1 6 postgresql-8.4 1 6 database-recommendation 1 5 mongodb 1 5 nosql 1 5 ddl 1 9 dml 1 9 ubuntu 1 4
+18155 mysql 1 31 innodb 1 31 myisam 1 31 logs 1 31
+322 postgresql 6 1685 pgadmin 1 16 auto-increment 1 16 tools 2 1584 management 1 21 psql 1 1563 command-line 1 1563 sql-server 2 16 sql-server-2008 1 8 database-recommendation 1 8 failover 1 8 permissions 1 24 best-practices 1 8 unit-test 1 8 mysql 1 24 select 1 24 oracle 1 8 db2 1 8 express-edition 1 8
+79433 postgresql 1 15 pgadmin 1 15 auto-increment 1 15
+1196 postgresql 1 6 tools 1 6 management 1 6 mysql 1 6 database-design 1 6 datatypes 1 6
+10271 postgresql 2 11 tools 1 5 management 1 5 etl 1 6 vacuum 1 6
+26131 postgresql 1 5 tools 1 5 management 1 5 mysql 1 11 amazon-rds 1 11
+940 postgresql 3 85 tools 1 71 psql 2 80 command-line 1 71
+14506 postgresql 1 110 tools 1 110 psql 1 110 command-line 1 110
+15754 postgresql 1 33 tools 1 33 psql 1 33 command-line 1 33
+1997 postgresql 2 65 tools 1 19 psql 1 19 command-line 1 19 syntax 1 46
+45509 postgresql 2 46 tools 1 35 psql 1 35 command-line 1 35 schema 1 11 postgresql-9.1 1 11
+6355 sql-server 1 9 filegroups 1 9 disk-structures 1 9
+993 mysql 27 428 performance 5 59 mysql-5 1 24 postgresql 47 481 aggregate 9 83 select 5 97 default-value 1 13 sql-server 69 713 database-theory 1 6 sorting 1 6 constraint 7 60 null 7 76 unique-constraint 6 58 sql-server-2008 9 85 hierarchy 2 9 innodb 3 36 mysql-5.5 1 10 mysqldump 1 10 myisam 2 14 primary-key 1 20 linux 1 18 index 12 79 clustered-index 4 27 clustered-primary-key 1 8 functions 3 19 insert 3 125 uniqueidentifier 1 6 oracle 7 138 database-design 14 152 oracle-10g 1 7 best-practices 1 7 full-text-search 1 34 t-sql 22 191 group-by 6 68 storage-engine 1 6 mariadb 2 14 except 1 4 query 2 10 query-performance 9 72 index-tuning 3 19 php 1 11 optimization 5 29 duplication 2 35 sql-server-2012 7 58 auto-increment 1 7 identity 2 29 sql-server-2008-r2 9 53 mysql-workbench 1 21 sql-standard 1 7 foreign-key 6 258 normalization 2 34 relational-theory 1 19 gaps-and-islands 3 16 window-functions 3 18 join 3 24 azure-sql-database 2 21 relational-division 1 10 postgresql-9.1 1 67 sql-server-2005 1 6 alter-table 1 7 datatypes 1 49 date 4 71 time 1 49 datetime2 1 49 design-pattern 1 5 polymorphic-associations 1 5 postgresql-9.3 3 16 storage 1 4 count 1 7 sqlite 1 4 random 2 9 sql-server-2014 10 66 recursive 2 10 cte 4 34 greatest-n-per-group 9 78 syntax 1 11 db2 1 18 order-by 5 38 row 2 60 datetime 2 14 postgresql-performance 2 29 postgresql-9.4 5 49 distinct 2 33 oracle-11g-r2 1 4 view 2 19 query-optimization 1 12 concat 1 17 date-format 1 12 upsert 2 15 postgresql-9.5 3 21 timestamp 2 11 subquery 4 85 distributed-transactions 1 15 java 1 6 sum 2 15 trigger 1 52 limits 1 52 update 2 11 oracle-12c 1 7 delete 1 7 terminology 1 6 data-integrity 1 6 consistency 1 6 nonclustered-index 3 16 amazon-rds 1 9 sequence 1 9 check-constraints 1 6 postgresql-10 1 22 computed-column 2 13 filtered-index 1 5 database-internals 1 13 postgresql-9.6 2 13 pattern-matching 1 6 case 1 12 type-conversion 1 7 sql-server-2017 1 17 offset-fetch 1 17 transaction 1 6 locked-objects 1 6 condition 1 4 time-series-database 1 7 compatibility-level 1 7 sql-server-2016 2 16 tree 1 5 covering-index 1 8
+1160 database-design 1 8 sql-server 1 7 primary-key 1 7
+5868 database-design 1 4 sql-server 2 10 sql-server-2008-r2 1 6 backup 1 6
+8278 database-design 5 76 full-text-search 1 9 database-theory 1 9 terminology 2 19 relational-theory 2 19 learning 1 9 constraint 2 33 postgresql 1 9 foreign-key 1 9
+10 database-design 1 6 database-recommendation 1 6
+941 sql-server 1 6 sql-server-2005 1 6
+1089 tools 1 6 data-warehouse 1 6 database-agnostic 1 6 business-intelligence 1 6
+1111 database-design 5 65 database-recommendation 2 33 query 1 7 best-practices 3 25 postgresql 6 40 plpgsql 1 10 database-theory 1 26 naming-convention 1 5 schema 1 18 eav 1 18 ontology 1 18 sql-server 2 54 ssas 1 39 business-intelligence 1 39 ddl 1 6 dml 1 6 windows 1 5 full-text-search 1 5 trigger 1 4 mysql 1 11 psql 1 4
+3480 sql-server 1 4 sql-server-2005 1 4 clustered-index 1 4
+1120 mysql 2 26 windows 1 13 installation 1 13 performance 1 13 innodb 1 13 linux 1 13
+10298 sql-server 1 5 sql-server-2005 1 5 functions 1 5 identity 1 5 uniqueidentifier 1 5
+3690 sql-server 107 1469 sql-server-2012 11 124 sequence 1 21 sybase 1 52 truncate 1 52 sql-server-2008 19 260 sql-server-2008-r2 16 198 t-sql 16 221 datatypes 2 32 type-conversion 1 18 performance 4 56 insert 2 23 clustered-index 4 36 index 6 70 primary-key 3 24 index-tuning 4 24 fragmentation 2 9 locking 4 66 isolation-level 2 24 stored-procedures 2 50 optimization 5 60 sql-server-2000 2 19 null 9 132 execution-plan 5 117 recursive 2 57 except 4 66 mysql 2 36 relational-theory 1 13 maintenance 1 5 nolock 1 33 postgresql 2 18 regular-expression 1 8 pattern-matching 1 8 view 1 36 linked-server 1 9 restore 1 12 concurrency 1 11 database-design 2 19 constraint 3 33 coalesce 2 29 backup 2 18 delete 2 20 transaction-log 3 50 query-performance 9 71 subquery 3 24 security 3 56 trigger 1 10 query 2 29 explain 1 23 order-by 2 36 select 1 7 transaction 2 17 rollback 1 13 ssms 1 9 alter-table 3 71 permissions 2 12 dmv 1 7 cache 1 43 collation 1 22 uniqueidentifier 2 37 cryptography 1 26 rdbms 1 25 relational-division 1 7 aggregate 1 7 count 1 7 profiler 1 10 datetime 1 6 sql-server-2005 1 76 window-functions 3 26 sql-server-2014 6 53 database-internals 1 27 join 1 22 table 1 22 interview-question 1 22 cardinality-estimates 1 8 performance-tuning 2 12 functions 3 18 if-not-exists 1 10 paging 1 15 configuration 1 8 sql-server-2016 3 28 greatest-n-per-group 1 24 computed-column 1 6 xml 1 7 sort-operator 1 8 parallelism 2 16 temporary-tables 1 9 azure-sql-database 2 13 string 1 7 group-by 1 7 range-types 1 6 user-defined-type 1 6 cte 1 26 foreign-key 1 15 statistics 1 6
+973 database-design 1 10 schema 1 10 tools 1 10 postgresql 7 234 installation 1 17 postgresql-8.4 1 17 pgcrypto 1 17 memory 1 25 cache 1 25 trigger 1 15 delete 1 15 plpgsql 1 15 timestamp 1 35 date-format 1 35 monitoring 1 12 backup 1 8 migration 1 8 ubuntu 1 122 permissions 1 122 psql 1 122
+287 mysql 1 27 database-design 1 27 datatypes 1 27
+911 mysql 4 34 database-design 6 46 datatypes 2 25 oracle 1 18 performance 2 24 join 1 4 datafile 1 5 sql-server-2008-r2 1 5 query 1 5 execution-plan 1 5 index 1 6 best-practices 1 6 primary-key 1 6 null 1 42 database-agnostic 1 42
+1167 mysql 1 4 database-design 1 4 datatypes 1 4
+1268 mysql 10 85 performance 5 37 mysql-5 1 10 storage-engine 1 14 memory 1 14 interview-question 1 6 oracle 1 8 index 1 8 database-agnostic 1 8 innodb 2 22 mysql-5.5 1 18 database-design 1 4 max-connections 1 6 myisam 1 4 mysql-5.6 1 4
+558 oracle-10g 1 7 locked-objects 1 7 locking 1 7 oracle 3 33 trigger 1 17 plsql 1 17 database-design 1 6 oracle-11g-r2 1 6 constraint 1 6 metadata 1 10 documentation 1 10
+35444 postgresql 1 28 psql 1 28
+1376 postgresql 1 15 plpgsql 1 15 blob 1 15 datafile 1 15
+61514 postgresql 1 17 plpgsql 1 17 blob 1 17 datafile 1 17
+1219 mysql 1 5 database-design 1 5 join 1 5
+1201 sql-server-2008 1 4 database-tuning 1 4 sql-server-2005 1 8
+1096 sql-server 6 69 backup 1 6 sql-server-2008 3 20 security 1 4 role 1 4 active-directory 1 4 sql-server-2005 1 11 sql-server-2000 1 5 migration 1 5 express-edition 1 5 oracle 1 4 performance 1 45 query-performance 1 45 memory 1 45 cache 1 45 index 1 4 sql-server-2012 1 4
+863 sql-server 1 11 oracle 1 11
+6776 postgresql 1 19 installation 1 19 postgresql-8.4 1 19 pgcrypto 1 19
+88806 sql-server 1 4 sql-server-2008 1 4 view 1 4
+3684 postgresql 151 2749 memory 1 35 cache 1 35 mysql 3 64 performance 12 469 full-text-search 2 35 pattern-matching 4 221 index 20 790 postgresql-8.4 4 169 dynamic-sql 4 21 primary-key 5 136 best-practices 1 51 plpgsql 12 237 constraint 4 136 null 7 143 unique-constraint 6 175 aggregate 5 61 window-functions 5 61 regular-expression 1 165 maintenance 3 22 vacuum 4 45 trigger 5 52 pgadmin-3 1 42 database-design 12 136 query-performance 12 153 etl 1 25 psql 2 12 schema 2 23 eav 1 16 ontology 1 16 datatypes 6 100 varchar 1 45 sql-server 3 47 fragmentation 1 5 database-size 1 5 information-schema 1 72 catalogs 4 93 cursors 2 8 postgresql-8.3 1 4 functions 9 166 data-integrity 1 12 duplication 2 22 disk-space 1 101 postgresql-performance 10 210 size 1 101 index-tuning 6 73 clustered-index 1 5 referential-integrity 1 5 oracle 1 32 sqlite 1 32 sorting 2 34 group-by 7 129 timestamp 3 35 timezone 2 29 array 6 131 postgresql-9.1 7 282 upsert 2 21 join 3 29 select 4 47 postgresql-9.2 2 15 foreign-key 6 88 syntax 1 6 stored-procedures 3 20 gaps-and-islands 4 51 postgresql-9.0 1 20 usertypes 1 12 permissions 5 47 pgadmin 5 61 optimization 6 237 explain 3 185 partitioning 2 8 collation 1 27 insert 3 53 storage 1 45 ddl 2 50 installation 1 4 upgrade 1 4 postgresql-9.3 13 204 record 2 23 json 4 201 random 2 28 configuration 1 36 users 1 23 role 1 23 access-control 1 23 update 4 56 count 3 36 greatest-n-per-group 7 49 alter-table 1 5 row 2 100 order-by 3 30 natural-sort 1 17 postgis 1 4 raster 1 4 union 1 4 datetime 1 6 cte 4 28 hstore 2 9 materialized-view 1 22 postgresql-9.4 8 86 pivot 1 5 error-handling 1 6 exception 1 6 range-types 1 22 distinct 2 12 transaction 2 28 execution-plan 2 22 utc-time 1 23 amazon-rds 1 7 subquery 2 10 hibernate 1 5 write-ahead-logging 1 7 sequence 1 10 view 2 31 redshift 1 13 if-not-exists 1 6 parameter 1 6 postgresql-9.5 1 14 benchmark 1 17 t-sql 1 10 postgresql-9.6 2 23 check-constraints 1 6 locked-objects 1 4 terminology 1 8 sql-standard 1 8 type-conversion 1 7 enum 1 5 many-to-many 1 8 metadata 1 6 postgresql-10 1 6 concat 1 8 paging 1 7
+1369 sql-server 6 50 t-sql 2 19 sql-server-2008 2 10 deadlock 1 6 sql-server-2005 3 43 profiler 1 4 locking 2 21 index 2 14 naming-convention 1 6 nolock 1 17 best-practices 1 30 maintenance 2 39 jobs 1 30 performance 1 5 metadata 1 6
+5754 sql-server 3 21 t-sql 1 8 sql-server-2008 1 8 index 1 8 ssms 1 8 sql-server-2008-r2 1 5 version-control 1 5 source-control 1 5 database-design 1 6 database-recommendation 1 6 nosql 1 6
+1290 etl 1 17 sql-server 2 15 sql-server-2008-r2 1 4 locking 1 4 alter-table 1 4 database-design 1 12 syntax 1 11 alias 1 11
+1174 etl 1 17 business-intelligence 1 5 reporting 1 5 cognos 1 5 eav 1 5
+1406 etl 1 6
+1428 sql-server 1 7 sql-server-2008 1 7 logs 1 7 web-server 1 7
+1321 sql-server-2005 1 4 profiler 1 4
+1533 sql-server-2005 1 12 stored-procedures 1 12 best-practices 1 12
+1064 normalization 3 25 interview-question 1 14 postgresql 7 146 stored-procedures 1 5 plpgsql 1 5 database-design 9 116 terminology 1 6 naming-convention 1 6 database-agnostic 2 22 primary-key 2 12 index-tuning 2 33 unique-constraint 1 4 sql-server 4 49 relational-theory 3 45 mysql 2 38 information-schema 1 85 catalogs 1 85 schema 2 15 database-recommendation 1 5 timestamp 1 9 timezone 1 9 foreign-key 3 50 syntax 1 4 order-by 1 17 oracle 1 6 oracle-11g-r2 1 6 best-practices 1 6 constraint 1 6 group-by 1 4 surrogate-key 1 14 natural-key 1 14
+1357 normalization 3 20 interview-question 1 8 database-design 12 124 terminology 1 32 data-warehouse 2 18 sql-server 8 59 mysql 1 7 rdbms 1 7 scalability 1 7 oracle 1 6 sql-server-2008 3 28 sql-server-2008-r2 2 22 primary-key 2 17 auto-increment 1 7 architecture 1 6 relational-theory 1 8 surrogate-key 2 12 sql-server-2012 1 4 performance-testing 1 4 natural-key 1 4 dependencies 1 4 unique-constraint 1 10 sql-server-2014 1 6 identity 1 6
+1561 postgresql 1 6 stored-procedures 1 6 plpgsql 1 6 database-design 1 28 best-practices 1 28 sql-server 12 84 security 1 6 trigger 2 11 backup 1 9 sql-server-2008-r2 4 33 disk-space 1 9 sql-server-2008 1 8 sql-server-2005 2 17 performance 1 8 fragmentation 1 8 application-design 1 8 normalization 1 8 rdbms 1 8 mysql 2 38 relational-theory 1 30 scalability 2 13 optimization 1 5 etl 1 9 ssms 1 8 profiler 1 8 sql-server-express 1 8 query-performance 1 8 join 1 8 sql-server-2012 1 4
+1186 sql-server 264 3964 sql-server-2005 16 319 sql-server-2008 60 765 replication 2 17 ssis 2 16 t-sql 39 525 metadata 5 72 mysql 7 63 database-design 32 695 rdbms 2 33 scalability 1 24 collation 2 22 sorting 1 5 natural-sort 1 5 stored-procedures 10 138 best-practices 6 193 dynamic-sql 4 48 syntax 3 52 query-performance 15 199 optimization 5 68 execution-plan 6 68 sql-server-2008-r2 48 680 locking 4 34 alter-table 7 123 security 10 118 sql-server-2000 5 73 null 7 430 performance 16 156 transaction 1 9 rollback 1 9 index 17 217 fragmentation 3 32 query 5 50 performance-testing 1 5 express-edition 1 7 disk-space 6 88 view 4 41 naming-convention 2 125 constraint 7 143 ssms 14 238 identity 6 129 schema 3 46 transaction-log 9 304 maintenance-plans 3 34 statistics 4 46 maintenance 5 68 index-tuning 2 14 concurrency 1 4 coalesce 1 74 configuration 3 30 sql-server-2012 43 662 referential-integrity 2 15 etl 1 14 mysql-5.5 1 10 shrink 3 141 foreign-key 7 51 datetime 7 59 type-conversion 5 53 oracle 1 7 oracle-10g 1 7 migration 3 57 full-text-search 1 21 database-theory 1 8 terminology 2 77 trigger 4 34 tempdb 2 79 functions 3 24 ddl 6 103 dmv 3 28 memory 5 52 varchar 3 81 backup 9 71 group-by 2 35 performance-tuning 1 11 parallelism 1 11 order-by 4 65 tools 1 4 alias 1 14 partitioning 1 9 cte 1 25 profiler 1 6 network 2 22 entity-framework 1 7 pivot 1 8 query-refactor 1 15 auto-increment 2 31 ssas 1 9 auto-growth 1 115 recovery-model 1 115 sql-server-localdb 1 12 filtered-index 2 17 sql-server-agent 3 22 windows-server 1 9 scheduled-tasks 1 9 row 1 69 record 1 69 change-data-capture 1 7 normalization 1 9 relational-theory 1 9 xp-cmdshell 1 9 compression 2 20 join 5 50 error-handling 1 5 subquery 3 16 deadlock 4 26 datatypes 2 50 output-clause 1 7 primary-key 3 24 azure-sql-database 1 12 insert 3 34 update 2 14 dbcc-checkdb 1 4 availability-groups 2 13 temporary-tables 1 12 string-searching 1 14 linked-server 4 44 installation 3 113 compatibility-level 1 66 restore 4 53 snapshot 1 5 merge 2 11 uniqueidentifier 1 6 logins 6 122 deployment 1 5 testing 1 6 license 1 6 reporting 1 11 sql-server-2014 14 129 in-memory-database 1 13 permissions 5 66 date 2 16 date-format 1 12 authentication 2 86 users 1 6 memory-optimized-tables 1 14 decimal 1 13 clustered-index 1 6 unique-constraint 1 52 window-functions 2 12 error-log 1 8 index-statistics 2 11 cursors 3 21 greatest-n-per-group 1 45 materialized-view 1 29 offline 1 10 log-shipping 1 20 mirroring 1 20 password 1 15 xml 2 23 connectivity 1 19 ssl 1 19 windows-10 1 21 virtualisation 1 13 vmware 1 13 openrowset 1 11 exec 1 11 monitoring 1 7 sql-server-express 1 7 instance 1 4 computed-column 5 67 where 1 7 cardinality-estimates 1 9 system-tables 1 11 concat 1 12 uuid 1 25 sum 1 9 sql-injection 1 9 sql-server-2016 6 38 shutdown 1 22 always-encrypted 1 4 c# 1 10 parameter 2 32 ado.net 1 10 unicode 1 22 ola-hallengren 1 4 data-validation 1 4 master-system-database 1 22 sql-server-2017 1 6 logs 1 8 isnull 1 8 table-variable 1 5 cache 1 14 plan-cache 1 14 string-manipulation 1 4
+8783 sql-server 91 961 sql-server-2005 8 103 performance 4 46 query-performance 2 39 memory 3 38 cache 1 21 configuration 1 50 maxdop 1 50 sql-server-2012 18 141 security 5 32 index 6 38 sql-server-2000 2 10 linked-server 4 57 execution-plan 3 28 azure-sql-database 1 4 maintenance 2 11 dbcc-checkdb 3 14 availability-groups 3 15 ssis 3 19 type-conversion 1 5 failover 2 23 mirroring 2 26 best-practices 2 117 transaction 1 103 sql-server-2008-r2 20 180 access-control 1 9 alter-table 2 38 ddl 1 29 auto-increment 1 29 identity 1 29 backup 7 65 transaction-log 1 8 compression 2 23 insert 1 29 trace 1 8 profiler 1 32 permissions 2 18 parallelism 1 19 sql-server-2008 6 59 partitioning 1 23 vldb 1 5 collation 1 20 shutdown 1 14 clustering 1 4 encryption 1 8 dmv 2 10 ssms 2 31 scripting 2 32 transactional-replication 2 11 t-sql 6 55 ola-hallengren 3 30 dbcc 1 6 role 3 24 top 1 6 migration 1 6 password 2 9 locking 2 20 disk-space 1 14 shrink 3 30 restore 2 18 sql-server-2014 5 38 primary-key 1 9 deadlock 1 9 drop-table 1 9 optimization 2 15 ssis-2014 1 10 datetime 1 16 statistics 2 13 sql-server-2016 1 5 r-language 1 5 windows-server-2012 1 5 numa 1 7 snapshot 2 16 sql-server-express 2 11 documentation 1 7 disaster-recovery 2 12 upgrade 1 10 logins 1 5 smo 1 5 hints 1 24 microsoft-dynamics 1 24 database-design 1 7 rdbms 1 4 constraint 1 4 data-warehouse 1 4 blocking 1 6 system-tables 1 5 sql-server-agent 2 11 fragmentation 1 11 index-maintenance 1 11 vulnerability-assessment 1 5
+26790 sql-server 1 18 sql-server-2005 1 18
+1625 database-design 2 13 best-practices 1 7 mysql 1 6 uniqueidentifier 1 6
+1978 database-design 1 8 best-practices 1 8
+2050 database-design 1 27 best-practices 1 27
+3640 database-design 6 52 best-practices 2 20 join 1 6 naming-convention 1 6 sql-server 8 62 sql-server-2005 2 15 sql-server-2008 3 16 compatibility-level 1 8 performance 3 22 database-recommendation 1 6 nosql 1 6 scalability 1 6 cte 1 14 sql-server-2008-r2 2 15 sql-server-2012 1 6 query-performance 2 14 postgresql 1 5 update 1 5 datetime 1 4 type-conversion 1 4 stored-procedures 1 4 constraint 1 4 null 1 4 security 1 6 index 1 11 primary-key 1 11 foreign-key 1 5 surrogate-key 1 5 natural-key 1 5 azure-sql-database 1 9 entity-framework 1 9
+1050 database-design 7 89 best-practices 1 6 learning 1 8 management 1 8 mysql 2 12 normalization 1 4 sql-server 2 8 datatypes 1 4 subtypes 1 4 erd 1 4 inheritance 1 4 recursive 1 4 database-theory 1 8 database-size 1 8 relations 1 59
+1607 sql-server-2005 2 19 query 2 10 sql-server 2 13 performance 1 9 oracle 1 4 security 1 4 audit 1 4 select 1 13 count 1 13 sql-server-2008 1 4 join 1 4 query-refactor 1 4
+283 sql-server-2005 1 5 query 1 5 mysql 1 7 database-design 1 6 database-recommendation 1 6
+8546 mysql 1 5
+1756 sql-server-2005 1 5
+1580 naming-convention 1 16
+85642 sql-server-2005 1 10 best-practices 1 10 maintenance 1 10 jobs 1 10 sql-server 1 9 sql-server-2012 1 9
+31358 postgresql 1 5 monitoring 1 5
+374 sql-server 1 4 oracle 1 4 security 1 4 audit 1 4
+50252 postgresql 1 21 timestamp 1 21
+7832 postgresql 1 7 aggregate 1 7 select 1 7 default-value 1 7
+4084 db2 1 8 primary-key 1 8
+1721 mysql 1 7 memory 1 7 storage-engine 1 7
+71 learning 1 37 management 1 37
+1875 learning 1 16 management 1 16
+18861 learning 1 7 management 1 7 sql-server-2005 2 9 ms-access 1 4 mysql 1 6 database-design 1 6 sql-server 1 5 performance 1 5 index 1 5 execution-plan 1 5
+35341 learning 1 5 management 1 5
+34999 learning 1 4 management 1 4 sql-server 1 24 sql-server-2008-r2 1 24 backup 1 24 transaction-log 1 24
+33354 learning 1 5 management 1 5 sql-server 4 74 performance 2 63 optimization 1 4 sql-server-2012 1 6 truncate 1 6 locking 1 5 concurrency 1 5 identity 1 5 operator 1 59
+1908 performance 1 11 database-recommendation 1 11
+1860 performance 1 5 database-recommendation 1 5 postgresql 3 51 installation 1 42 psql 1 42 mac-os-x 1 42 backup 1 5 migration 1 5 snapshot 1 4
+141401 postgresql 1 7 insert 1 7
+1822 oracle 10 123 oracle-11g 1 7 postgresql 49 983 sequence 1 53 mysql 3 51 license 1 14 view 2 58 permissions 1 6 role 2 15 oracle-10g 1 6 oracle-xe 1 6 explain 1 19 insert 1 4 index 5 49 primary-key 2 34 hierarchy 1 28 database-design 2 16 tools 1 11 query 1 37 oracle-sql-developer 1 6 schema 2 282 psql 1 112 sql-server 5 61 sql-server-2008 2 8 performance 5 49 join 3 42 pgadmin-3 1 20 linux 1 4 datatypes 1 12 varchar 2 36 postgresql-8.3 1 8 postgresql-9.1 4 326 tablespaces 1 19 ms-access 1 6 oracle-11g-r2 1 7 best-practices 1 7 constraint 3 17 select 2 26 null 4 82 greatest-n-per-group 1 5 alter-table 1 8 group-by 1 17 json 1 17 row 1 17 order-by 1 6 sorting 1 6 natural-sort 1 6 postgresql-9.3 1 7 index-statistics 1 7 union 1 4 datetime 1 5 stored-procedures 3 21 plpgsql 1 8 cte 2 15 syntax 1 25 metadata 1 9 clustered-index 1 15 if-not-exists 1 23 optimization 2 59 innodb 1 9 deadlock 1 9 isolation-level 1 9 aggregate 1 25 postgresql-9.5 2 23 pg-dump 1 19 functions 1 9 count 1 4 computed-column 1 6 query-performance 1 5 postgresql-9.4 2 11 subquery 1 5 sqlalchemy 1 5 plsql 1 4 check-constraints 1 5 centos-7 1 4 many-to-many 1 6 index-tuning 1 4 postgresql-10 1 4 distinct 1 4
+1047 postgresql 1 4 installation 1 4 psql 1 4 mac-os-x 1 4
+22230 postgresql 1 11 installation 1 11 psql 1 11 mac-os-x 1 11
+16892 postgresql 1 11 installation 1 11 psql 1 11 mac-os-x 1 11
+1842 sql-server 3 15 t-sql 1 4 configuration 1 4 maintenance 1 6 delete 1 6 sql-server-2008 1 5 tools 1 5 database-design 1 8 metadata 1 19
+462 postgresql 3 338 schema 1 8 benchmark 1 326 psql 1 326
+5092 postgresql 1 5 schema 1 5 sql-server 1 6 sql-server-2008-r2 1 6
+1663 oracle 2 11 oracle-10g 1 4 sqlplus 2 11 oracle-11g-r2 1 7
+847 oracle 5 67 oracle-10g 2 19 sqlplus 2 42 instance 1 12 referential-integrity 1 7 truncate 1 7
+2004 postgresql 1 6
+69835 postgresql 1 13 benchmark 1 13 psql 1 13
+2023 sql-server 1 4 mysql 1 4 migration 1 4
+1781 sql-server 1 7 varchar 1 7
+7680 mysql 1 10 select 1 10
+2043 mysql 1 4 innodb 1 4 deadlock 1 4 ado.net 1 4
+2069 oracle 1 6 oracle-11g-r2 1 6 materialized-view 1 6
+3594 postgresql 9 97 database-design 1 22 explain 1 5 postgresql-8.3 1 7 best-practices 1 7 plpgsql 1 7 performance 1 24 vacuum 1 12
+7490 postgresql 1 49 sequence 1 49
+3551 mysql 2 18 performance 1 7 performance-testing 1 7 mariadb 1 7 percona 1 7 index 1 11 select 1 11 order-by 1 11 mysql-5 1 11
+2293 postgresql 2 12 restore 1 5 snapshot 1 5 insert 1 7
+90846 postgresql 1 11 restore 1 11 snapshot 1 11
+2252 mysql 1 8 primary-key 1 8 auto-increment 1 8
+3106 database-design 18 178 data-warehouse 1 10 performance 1 16 query 1 16 performance-testing 1 16 primary-key 1 28 surrogate-key 1 28 mysql 3 29 best-practices 1 7 timestamp 1 7 date-format 1 7 normalization 4 42 rdbms 1 7 erd 1 4 security 1 12 audit 1 24 eav 1 6 innodb 1 18 relational-theory 1 18 design-pattern 1 5 subtypes 2 9 constraint 1 9 relations 1 12
+2201 database-design 1 16
+3086 mysql 1 12 logs 1 12
+51816 mysql 1 4 logs 1 4
+1777 sql-server 1 15 sql-server-2008 1 15 windows 1 15
+4648 sql-server 1 7 sql-server-2008 1 7 windows 1 7
+1817 sql-server 1 6 sql-server-2008 1 6 windows 1 6
+2346 database-design 1 4 join 1 4 naming-convention 1 4
+610 performance 2 12 sql-server-2005 2 12 sql-server 1 13 logs 1 13
+2374 performance 13 137 sql-server-2005 10 124 sql-server 61 786 logs 2 22 database-design 9 135 database-recommendation 1 7 sql-server-2008 22 264 backup 4 71 transaction 5 81 shrink 2 28 stored-procedures 2 11 dbcc 1 4 syntax 1 26 schema 1 6 trigger 1 8 audit 1 8 application-design 1 8 locking 6 58 oracle 2 19 database-theory 3 118 join 1 6 query 1 4 deadlock 3 18 null 1 32 rdbms 1 14 rollback 1 14 constraint 1 73 mirroring 1 4 high-availability 1 4 index 7 106 fragmentation 2 49 disk-space 2 20 database-agnostic 2 22 restore 2 44 maintenance 2 25 memory 4 56 partitioning 1 7 isolation-level 3 31 view 1 4 sql-server-2008-r2 9 84 upgrade 1 6 process 1 15 order-by 2 22 insert 1 12 clustered-index 2 24 replication 1 5 ssis 1 8 data-warehouse 1 4 business-intelligence 1 4 olap 1 4 in-memory-database 1 4 primary-key 1 5 upsert 1 5 sorting 1 19 pattern-matching 1 10 database-tuning 1 7 network 3 37 san 1 14 concurrency 2 14 transaction-log 1 5 xml 1 10 tempdb 2 40 clustered-primary-key 1 12 firebird 1 10 filestream 1 10 query-performance 3 45 parameter 1 6 normalization 1 9 functions 1 5 ddl 1 5 t-sql 1 7 sql-server-2012 4 32 availability-groups 1 15 logins 1 15 execution-plan 1 5 optimization 1 5 offset-fetch 1 5 storage 1 13 disk-structures 1 13 users 1 15 wait-types 1 4 hardware 1 14 monitoring 1 8 full-text-search 1 6 installation 1 6 performance-tuning 1 8 snapshot-isolation 1 14 connection-pooling 1 14
+2382 postgresql 2 23 performance 1 9 index 1 9 postgresql-8.4 1 9 pattern-matching 1 9
+2430 postgresql 1 5
+3769 oracle-11g 1 7 bulkcopy 1 7 oracle 2 12 plsql 1 8 character-set 1 4
+2397 sql-server 4 120 sql-server-2005 1 26 sql-server-2008 2 51 t-sql 1 25 optimization 1 25 condition 1 25 index 1 51 sql-server-2012 1 51 index-tuning 1 51 statistics 1 51
+2131 sql-server-2008 2 9 trigger 1 5 sql-server 16 347 t-sql 3 33 cursors 1 9 database-design 1 34 naming-convention 2 220 oracle 3 75 greatest-n-per-group 1 62 postgresql 1 6 backup 3 15 functions 1 4 sqlcmd 1 8 performance 1 4 view 1 4 query-performance 1 7 best-practices 2 223 transaction-log 1 7 recovery 1 7 oracle-11g 1 9 linked-server 1 9 pivot 1 9 sql-server-express 1 6 sql-server-2008-r2 1 14 jobs 1 14 sql-server-2012 2 21 ssis 8 82 type-conversion 1 15 subquery 1 9 null 1 9 uniqueidentifier 1 9 sql-server-2014 2 36 integration 1 14 permissions 1 8 ssis-2012 1 8 catalogs 1 8 maintenance-plans 1 4 ssis-2014 1 22 troubleshooting 1 22 ssas 1 4 temporary-tables 1 5 command-line 1 6
+2423 index 1 7
+2431 index 1 7
+2420 sql-server 1 10 sql-server-2008-r2 1 10 ssms 1 10 csv 1 10
+32138 mysql 1 8 configuration 1 8
+25836 mysql 1 8 configuration 1 8
+507 sql-server-2008 5 21 sql-server-2005 3 15 sql-server 24 207 backup 5 49 export 1 7 logs 1 40 oracle 1 4 data-warehouse 1 4 career 1 4 security 3 41 heap 1 4 sql-server-2008-r2 4 30 configuration 1 4 index-statistics 1 4 schema 1 4 best-practices 1 4 database-recommendation 1 4 network 1 4 san 1 4 windows 1 5 command-line 1 4 scripting 1 4 smo 2 16 mirroring 1 4 permissions 3 25 transaction-log 1 12 sql-server-2012 4 19 sql-server-agent 1 5 powershell 3 26 extended-events 1 4 sqlcmd 1 7 sp-askbrent 1 7 availability-groups 1 4 sql-server-2014 2 23 active-directory 1 16 transaction 1 6 index-tuning 1 7 memory 1 5
+2492 mysql 1 6 postgresql 1 6 license 1 6
+2511 mysql 1 25 table 1 25
+2503 mysql 1 15 table 1 15
+2417 sql-server 1 7 stored-procedures 1 7 best-practices 1 7 empty-string 1 7
+2129 postgresql 1 7 psql 1 7 csv 1 7 mysql 1 10 innodb 1 10
+18059 postgresql 1 4 psql 1 4 csv 1 4
+4224 mysql 2 9 ndbcluster 1 5 performance 1 4 optimization 1 4
+976 mysql 4 26 database-design 3 22 database-tuning 1 4 partitioning 1 4 delete 1 4
+2573 ssas 1 6 ssis 1 6 business-intelligence 1 6 ssrs 1 6 sql-server 4 99 sql-server-2008 3 47 database-design 1 23 sql-server-2008-r2 1 23 join 1 8 t-sql 1 16 window-functions 1 16 rank 1 16
+2251 ssas 1 4 ssis 1 4 business-intelligence 1 4 ssrs 1 4
+2626 mysql 3 23 sql-server 6 73 sql-server-2005 1 5 dbcc 1 5 database-recommendation 1 9 backup 2 14 join 1 6 select 1 6 mysqldump 1 6 t-sql 1 28 ado.net 1 28 performance 1 7 locking 2 27 postgresql 1 8 migration 1 8 pgadmin 1 8 sql-server-2008 2 12 query 1 4 aggregate 1 4 nosql 1 5 mongodb 1 5 restore 1 8
+11440 mysql 1 4
+1439 sql-server 1 9 trigger 1 9
+61796 sql-server 1 5 index-maintenance 1 5
+140614 sql-server 1 7 index-maintenance 1 7
+82947 postgresql 1 10 ubuntu 1 10 permissions 1 10 psql 1 10
+108321 postgresql 1 83 ubuntu 1 83 permissions 1 83 psql 1 83
+30035 postgresql 1 15 ubuntu 1 15 permissions 1 15 psql 1 15
+37492 postgresql 1 13 ubuntu 1 13 permissions 1 13 psql 1 13
+2663 oracle 1 5 oracle-11g-r2 1 5 null 1 5 sql-server 2 18 database-theory 1 13 database-design 3 19 security 1 4 sql-server-2008-r2 2 12 performance 1 7 varchar 1 7 type-conversion 1 7
+5555 oracle 21 236 oracle-11g-r2 3 24 storage-engine 1 6 plsql 2 31 character-set 1 6 oracle-10g 1 4 sqlplus 3 32 mysql 5 46 datatypes 1 24 sqlite 1 24 money 1 24 functions 1 19 informix 1 19 interface 1 6 mysql-console 1 6 sql-server 6 157 sql-server-2008 1 29 t-sql 2 34 postgresql 4 33 except 1 5 database-design 2 16 mysql-5.5 2 30 linux 2 13 upgrade 1 12 oracle-8i 1 12 terminology 1 31 row 1 31 record 1 31 rdbms 2 24 sql-standard 1 12 mac-os-x 1 6 null 1 8 empty-string 1 8 index 3 26 information-schema 1 7 aggregate 1 7 security 1 4 sql-server-2012 1 26 date 2 51 date-format 1 26 update 1 4 timestamp 1 25 default-value 1 25 order-by 1 5 union 1 5 sql-server-2016 1 5 constraint 1 6 best-practices 1 42 naming-convention 1 42 listener 1 4 pivot 1 24 stored-procedures 1 5
+2682 sql-server 6 62 backup 3 39 sql-server-2008-r2 3 39 database-design 1 4 normalization 1 4 sql-server-2005 1 12 transaction 1 6 sql-server-2008 1 5 role 1 5
+2691 oracle 1 4 permissions 1 4
+1262 sql-server 2 12 query-performance 1 6 optimization 1 6 execution-plan 1 6 database-design 1 6 merge-replication 1 6
+2453 sql-server 1 5 backup 1 5 sql-server-2008-r2 1 5 trigger 1 4 audit 1 4 application-design 1 4 database-design 2 10 normalization 1 6 naming-convention 1 22 relational-theory 1 5 oracle 2 8 oracle-11g 1 4
+1828 sql-server 2 19 sql-server-2008 1 14 sql-server-2005 1 14 partitioning 1 14 compatibility-level 1 5
+28984 sql-server 1 9 sql-server-2008 1 9 sql-server-2005 1 9 partitioning 1 9
+2415 sql-server 1 6 schema 1 6
+1910 architecture 1 11 database-engine 1 11 database-design 1 11
+3046 database-design 2 27 naming-convention 1 5
+2718 sql-server 34 291 heap 1 10 sql-server-2008-r2 9 80 sql-server-2008 10 97 sql-server-2005 5 30 datatypes 1 4 query 1 6 backup 1 4 performance 5 80 perfmon 1 9 stored-procedures 2 19 transaction 1 11 foreign-key 1 11 logs 2 17 error-handling 1 7 security 2 10 feature-comparison 1 8 high-availability 1 8 rac 1 8 oracle-rac 1 8 null 1 4 aggregate 1 6 tempdb 2 16 ssms 1 6 tools 1 6 c# 1 6 sql-clr 1 6 database-design 4 27 join 2 51 tablespaces 1 6 database-theory 1 6 transactional-replication 1 5 index 2 11 locking 1 4 primary-key 3 19 query-performance 3 14 count 1 5 netezza 1 5 transaction-log 1 5 t-sql 3 35 hashing 1 18 permissions 1 5 active-directory 1 5 timezone 1 48 sql-server-2012 2 9 fragmentation 1 4 tuning 1 45 application-design 1 45 merge-replication 2 15 replication 1 8 tempdb-version-store 1 5 ssrs 1 14 hardware 1 14 compression 1 11 performance-tuning 1 5
+1419 security 1 10 sql-server-2000 1 10
+820 sql-server-2008 1 7 performance 2 18 db2 1 5 sql-server 2 41 sql-server-2005 2 16 transaction-log 1 5 view 1 11 functions 1 11 best-practices 1 36 transaction 1 36 postgresql 1 8
+2974 sql-server 1 5 nosql 1 5 mongodb 1 5
+34637 sql-server 2 10 sql-server-2008 1 6 backup 1 6 restore 1 6 maintenance-plans 1 4
+4967 sql-server 1 9 database-theory 1 9
+21728 sql-server 2 41 sql-server-2005 1 35 transaction 1 35 feature-comparison 1 6 high-availability 1 6 rac 1 6 oracle-rac 1 6
+121237 sql-server 1 9 sql-server-2005 1 9 transaction 1 9
+2028 sql-server 2 11 performance 1 4 sql-server-2008-r2 1 7 corruption 1 7 dbcc 1 7
+3064 query 1 10 deadlock 1 10
+1857 mysql 1 4
+1767 database-design 1 58 null 1 58 postgresql 1 4 xml 1 4
+53729 database-design 1 14 null 1 14
+7788 postgresql 49 806 pgadmin 1 14 psql 2 144 ubuntu 2 12 corruption 1 5 testing 1 20 random 1 20 bytea 1 20 stored-procedures 1 27 plpgsql 6 61 role 2 27 mysql 2 28 alter-table 3 35 postgresql-9.1 3 67 index 3 42 query-performance 1 7 java 1 6 performance-tuning 1 6 replication 3 38 backup 2 29 permissions 2 25 postgresql-9.2 2 28 mac-os-x 1 8 jobs 1 30 scheduled-tasks 1 30 windows 1 8 postgresql-9.4 2 24 users 1 18 postgresql-9.3 6 62 access-control 1 18 trigger 2 17 update 2 11 record 1 5 explain 1 5 array 1 4 constraint 2 10 json 1 5 group-by 1 6 count 1 6 postgis 1 5 raster 1 5 aws 1 8 amazon-ec2 1 8 amazon-rds 2 24 plpython 1 12 linux 2 63 null 1 6 hstore 1 6 optimization 1 29 postgresql-performance 1 29 locking 1 5 waits 1 5 error-handling 1 9 exception 1 9 ddl 1 6 dynamic-sql 1 6 transaction 1 13 unique-constraint 1 13 functions 1 4 parameter 1 4 table 1 12 postgresql-10 1 12 terminology 1 13
+152889 sql-server 1 5 constraint 1 5
+3173 sql-server-2008 1 5 mirroring 1 5 high-availability 1 5
+3635 oracle 1 4 oracle-10g 1 4 oracle-xe 1 4
+2756 sql-server 1 15 sql-server-2008 1 15 database-design 1 15 sql-server-2008-r2 1 15 stored-procedures 1 12 best-practices 1 12 naming-convention 1 12
+3211 sql-server 1 16 sql-server-2008 1 16 database-design 1 16 sql-server-2008-r2 1 16
+3236 performance 1 15 query 1 15 performance-testing 1 15
+3234 mongodb 1 4
+3267 mongodb 1 5
+2241 sql-server-2008 23 256 performance 3 66 express-edition 1 5 sql-server 69 908 sql-server-2008-r2 16 204 sql-server-2005 4 55 backup 4 35 restore 4 27 logs 2 14 clustered-index 2 52 best-practices 3 45 c# 1 4 database-design 7 76 query-performance 3 23 subquery 1 6 partitioning 1 21 metadata 2 29 index 6 109 audit 1 22 foreign-key 3 27 referential-integrity 1 5 statistics 2 45 constraint 1 8 fragmentation 1 39 database-theory 1 9 terminology 2 13 stored-procedures 3 17 parameter 1 8 maintenance 1 28 perfmon 1 33 ssms 3 43 export 1 13 configuration 1 13 transaction 1 4 tempdb 2 32 functions 1 8 sql-server-2012 10 136 security 2 22 scripting 1 8 index-tuning 3 25 reporting 1 4 snapshot 1 4 mirroring 1 4 optimization 1 4 bulk 1 4 import 1 4 storage 1 10 disk-structures 1 10 t-sql 3 33 database-internals 1 21 datatypes 1 5 shrink 1 7 rdbms 1 20 sql-server-agent 1 40 availability-groups 2 90 performance-tuning 1 9 users 2 13 memory 1 48 permissions 1 11 clustering 1 50 transactional-replication 1 50 failover 1 50 alter-table 1 6 installation 1 12 transaction-log 1 6 logins 1 4 truncate 1 25 powershell 1 5 smo 1 5 sql-server-2014 1 8 sql-clr 1 8 extended-events 1 8 offline 1 4
+2767 sql-server 1 17 sqlcmd 1 17
+35142 sql-server 1 7 performance 1 7 database-design 1 7 view 1 7
+65939 sql-server 2 8 performance 1 4 database-design 1 4 view 1 4 sql-server-2016 1 4 stored-procedures 1 4 enterprise-edition 1 4 table-variable 1 4
+33466 mysql 1 9 performance 1 9 innodb 1 9 mysql-5.5 1 9 tuning 1 9
+47448 mysql 1 8 performance 1 8 innodb 1 8 mysql-5.5 1 8 tuning 1 8
+3409 sql-server 1 25 sql-server-2008 1 25
+1639 mysql 1 5 rdbms 1 5 disk-structures 1 5
+3548 mysql 2 31 index 1 27 select 1 27 order-by 1 27 mysql-5 1 27 my.cnf 1 4
+2142 sql-server 3 30 backup 1 8 memory 1 7 sql-server-express 1 7 instance 1 7 postgresql 3 21 logs 1 7 exception 1 7 foreign-key 1 4 postgresql-9.1 1 4 insert 1 4 performance 2 18 update 1 10 hardware 1 10 mysql 1 8 architecture 1 8 mysql-5.1 1 10 index 1 15 partitioning 1 15
+6393 postgresql 7 90 oracle 2 8 database-design 3 15 permissions 1 4 vpd 1 4 erd 1 4 sql-server 1 4 fragmentation 1 4 database-size 1 4 usertypes 1 14 catalogs 1 14 duplication 2 30
+3583 sql-server 1 11 sql-server-2008 1 11 intellisense 1 11
+7882 sql-server 1 30 sql-server-2008 1 30 intellisense 1 30
+77365 sql-server 1 15 sql-server-2008 1 15 intellisense 1 15
+83982 sql-server 1 9 sql-server-2008 1 9 intellisense 1 9
+111872 sql-server 1 5 sql-server-2008 1 5 intellisense 1 5
+876 sql-server 3 16 mysql 1 36 ssms 1 4 except 1 4
+3585 mysql 1 11 interview-question 1 11
+2407 mysql 1 6
+11587 sql-server 1 4 performance 1 4 stored-procedures 1 4
+30006 oracle 1 39 greatest-n-per-group 1 39
+3659 sql-server-2008-r2 2 10 optimization 1 6 sql-server 1 4 t-sql 1 4
+8215 sql-server 10 113 sql-server-2008 5 54 database-design 1 13 constraint 1 13 ssas 2 20 pivot 2 20 performance 2 14 optimization 3 37 query-performance 1 4 sql-server-2008-r2 2 34 deadlock 1 12 merge 1 12 sql-server-2012 1 10 select 1 10 t-sql 1 11 sql-server-2014 1 11
+3815 mysql 1 5 oracle 1 5
+9365 sql-server 1 4 memory 1 4
+6236 database-design 2 17 sql-server 5 58 sql-server-2008 1 4 except 1 4 null 1 7 coalesce 1 7 eav 1 6 alias 1 19 datetime 1 5 date-format 1 5 best-practices 1 23 naming-convention 1 23 postgresql 1 7 group-by 1 7 window-functions 1 7 gaps-and-islands 1 7 postgresql-8.4 1 7
+12800 sql-server 1 4 view 1 4
+1573 sql-server-2008 1 5 sql-server-2008-r2 1 5 upgrade 1 5
+34069 sql-server 1 6 logs 1 6
+2399 sql-server 2 9 mysql 5 28 sql-server-express 2 9 database-design 1 8 best-practices 1 8 timestamp 1 8 date-format 1 8 query 1 9 sqlite 1 9 subquery 1 9 innodb 2 11
+4008 nosql 1 10 rdbms 1 10 sql-server 15 571 oracle 1 4 sql-server-2005 5 43 data-warehouse 1 8 performance 2 13 ssis 2 10 sql-server-2008-r2 4 25 index 1 9 optimization 1 8 sql-server-2012 5 166 migration 1 92 upgrade 2 96 ssrs 1 92 sql-server-2008 2 10 transaction-log 1 324 shrink 1 324 auto-growth 1 324 recovery-model 1 324 encryption 1 5 permissions 2 29 transactional-replication 2 32 primary-key 1 13 clustering 1 22 failover 1 22 availability-groups 1 22 restore 1 5 security 1 5 temporary-tables 1 5 database-design 1 6 nonclustered-index 1 6 check-constraints 1 6
+2689 nosql 1 4 rdbms 1 4
+38400 mysql 1 8 postgresql 1 8 hierarchy 1 8
+4065 database-design 1 8
+3859 sql-server 1 5 performance 1 5 sql-server-2008-r2 1 5 trigger 1 5 delete 1 5
+1192 sql-server 161 2357 performance 11 305 sql-server-2008-r2 23 425 trigger 2 18 delete 1 12 sql-server-2008 15 194 sql-server-2005 8 106 stored-procedures 1 5 t-sql 22 232 order-by 2 10 case 1 5 bookmark-lookup 2 32 size 1 4 execution-plan 18 318 recursive 3 60 except 1 26 aggregate 4 31 database-design 3 47 query-performance 18 293 null 4 71 coalesce 1 38 ddl 2 22 isolation-level 3 18 locking 5 83 view 4 28 query 2 68 optimization 18 352 deadlock 2 43 merge 1 31 index 7 92 ssms 1 4 dynamic-sql 2 26 memory 2 31 sql-server-express 1 27 instance 1 27 join 5 65 sql-server-2012 28 362 offset-fetch 1 13 schema 1 7 filtered-index 2 30 sql-server-2000 2 28 xml 2 46 database-internals 5 83 cache 1 29 sequence 2 10 linked-server 1 24 tempdb 2 12 tempdb-version-store 1 4 corruption 1 14 materialized-view 2 36 dbcc-checkdb 3 31 vldb 1 5 primary-key 2 57 clustered-index 3 85 trace 1 10 maintenance 1 10 dmv 2 10 partitioning 4 31 computed-column 5 79 group-by 2 11 transaction 3 30 snapshot-isolation 1 5 connection-pooling 1 5 parallelism 2 48 functions 3 61 errors 3 51 sql-server-2014 15 228 datetime 1 8 type-conversion 2 19 memory-grant 1 42 statistics 4 67 varchar 2 44 performance-tuning 2 33 collation 2 29 unicode 2 36 greatest-n-per-group 1 5 configuration 1 12 window-functions 6 67 insert 1 6 transaction-log 1 6 oracle 1 7 constraint 1 7 cardinality-estimates 9 124 metadata 1 5 parameter 1 5 table-variable 2 12 table-valued-parameters 1 5 index-tuning 3 26 update 1 10 exists 1 32 nolock 1 8 concurrency 2 38 identity 2 32 database-agnostic 2 18 permissions 1 6 concat 2 31 date-format 1 10 filegroups 2 27 database-size 1 15 datatypes 3 56 trace-flags 1 41 audit 1 6 sql-server-2016 10 108 dimension 1 6 slowly-changing-dimension 1 6 string 1 10 operator 1 145 postgresql 1 5 amazon-rds 1 5 azure-sql-database 3 41 nonclustered-index 1 20 hardware 1 8 ssd 1 8 union 1 7 columnstore 3 31 decimal 1 13 pivot 1 6 count 1 14 read-only-database 1 12 system-tables 1 4 system-databases 1 4 sql-server-2017 6 86 sort-operator 1 28 utf-8 1 12 sql-server-2019 3 30 index-maintenance 1 10 temporary-tables 1 8 etl 1 18 sql-clr 1 18 hashing 1 18 running-totals 1 12 cte 1 12 unique-constraint 1 6 duplication 1 6 enterprise-edition 1 5
+4105 t-sql 1 6 view 1 6
+2294 sql-server-2008 1 5 database-design 1 5 ssms 1 5 default-value 1 5
+4154 sql-server 1 4 t-sql 1 4 sql-server-2005 1 4 dynamic-sql 1 4 parameter 1 4
+4134 sql-server 2 12 performance 1 8 insert 1 8 clustered-index 1 8 index 1 4 maintenance 1 4 fragmentation 1 4
+4103 sql-server-2008 3 18 sql-server-2005 4 21 index 5 29 sql-server 28 329 sql-server-2008-r2 5 71 performance 3 38 bookmark-lookup 1 7 mysql 2 22 database-design 1 16 datafile 1 16 select 1 6 query 2 17 execution-plan 3 33 gaps-and-islands 1 5 join 2 30 query-refactor 1 6 query-performance 5 63 optimization 2 21 spatial 1 6 functions 2 13 tuning 1 6 t-sql 2 76 greatest-n-per-group 1 71 sql-server-2014 2 14 window-functions 1 5 stored-procedures 1 5 concat 1 5 xml 1 10 primary-key 1 6 azure-sql-database 2 13 ssis 1 6 exists 2 49 migration 1 5 uuid 1 5 performance-tuning 1 29 sql-server-2012 2 13 shrink 1 4 string 1 7 nonclustered-index 1 9
+4259 mongodb 1 33
+3748 data-warehouse 1 4 business-intelligence 1 4 olap 1 4 in-memory-database 1 4
+4293 query 1 11 sqlite 1 11 subquery 1 11
+22707 query 1 8 sqlite 1 8 subquery 1 8
+100801 sql-server 1 7
+4315 mysql 1 5 innodb 1 5
+4314 sql-server 1 8 sql-server-2008 1 8
+4331 sql-server 1 10 sql-server-2008 1 10
+3351 sql-server 1 26 primary-key 1 26
+15715 sql-server 1 15 primary-key 1 15
+68606 sql-server 1 8 primary-key 2 13 unique-constraint 1 5
+4396 sql-server 1 8
+4395 sql-server 1 7
+1863 mysql 1 8
+7061 mysql 1 8
+1326 sql-server 1 4 performance 1 4 best-practices 1 4 disk-structures 1 4
+4180 mysql 1 4 backup 1 4 innodb 1 4 mysqldump 1 4
+4403 mysql 1 5 backup 1 5 innodb 1 5 mysqldump 1 5
+4468 mysql 1 10 database-design 1 10 sql-server 2 14 sql-server-2005 1 9 performance 1 9 fragmentation 1 9 application-design 1 9 ssis 1 5 data-warehouse 1 5 ssas 1 5 dimensional-modeling 1 5
+25995 sql-server-2008 2 12 stored-procedures 1 4 trigger 1 4 sql-server 2 19 profiler 1 11
+1945 performance 2 27 optimization 2 29 sql-server 23 589 stored-procedures 2 11 sql-server-2000 1 6 t-sql 2 15 order-by 2 9 case 1 5 sql-server-2008 8 85 best-practices 1 78 permissions 1 78 clustered-index 2 38 index 4 71 maintenance 1 6 fragmentation 2 40 ssms 2 31 sql-server-2008-r2 4 21 database-design 3 40 scripting 1 4 null 1 96 coalesce 1 96 cte 2 226 ddl 1 4 isolation-level 1 4 datatypes 2 21 oracle 1 15 sql-injection 1 15 identity 1 46 naming-convention 1 46 sql-server-2005 2 22 full-text-search 1 19 insert 1 6 if-not-exists 1 6 postgresql 1 8 group-by 1 8 gaps-and-islands 1 8 window-functions 1 8 backup 1 6 sql-server-2012 1 6 cursors 1 10 execution-plan 1 12
+4517 performance 1 6 optimization 1 6
+4512 mysql 2 14 logs 1 4 innodb 1 10
+56811 sql-server 1 4 sql-server-2005 1 4 performance 1 4 fragmentation 1 4 application-design 1 4
+5219 vertica 1 4
+3609 vertica 1 4
+16057 postgresql 1 31 pgadmin 1 31
+4571 sql-server 1 5 ssis 1 5 data-warehouse 1 5 ssas 1 5 dimensional-modeling 1 5
+569 oracle 1 4 sql-server-2008-r2 1 7 instance 1 7
+16189 sql-server-2008 1 4 replication 1 4
+56431 sql-server 1 7 transaction 1 7 ado.net 1 7
+76537 sql-server 1 11 transaction 1 11 ado.net 1 11
+2703 sql-server 1 23 clustered-index 1 23 database-design 2 10 foreign-key 1 4 mysql 4 20 backup 1 5 linux 1 5 myisam 1 5 mysql-5.1 1 5 change-data-capture 1 5 integration 1 5 index 1 4 information-schema 1 4 normalization 1 6
+3761 sql-server 4 28 best-practices 1 4 mysql 1 8 delete 1 8 configuration 1 11 index-statistics 1 11 sql-server-2008 2 11 sql-server-2005 2 8 maintenance 1 4 database-design 3 145 foreign-key 1 49 sql-server-2008-r2 1 7 backup 1 7 schema 1 92 eav 1 92 ontology 1 92
+2880 sql-server 1 5
+4806 sql-server 1 4 sql-server-2008 1 4
+4659 mysql 5 62 replication 1 19 mysql-5 1 19 postgresql 1 19 delete 1 19 alter-table 1 19 database-size 1 19 vacuum 1 19 innodb 1 13 backup 1 5 mysqldump 1 5 sql-server 2 24 performance 2 29 query-performance 1 12 group-by 1 12 optimization 1 8 mysql-5.6 1 17 update 1 17 myisam 1 17 upgrade 1 12 sql-server-2016 1 12
+3511 mysql 1 7 replication 1 7 mysql-5 1 7
+24700 sql-server 1 5 sql-server-2008 1 5
+4864 sql-server 1 5 configuration 1 5 index-statistics 1 5
+664 sql-server 2 13 configuration 1 4 index-statistics 1 4 sql-server-2008 1 9 disk-space 1 9
+1514 sql-server 21 238 order-by 1 18 pattern-matching 1 18 mysql 2 11 profiler 1 4 tools 1 4 relational-theory 1 7 best-practices 1 20 permissions 2 24 ssis 1 4 ssas 2 11 sql-server-2008 4 29 transaction-log 1 4 maintenance-plans 1 4 index 1 7 statistics 1 7 maintenance 1 7 sql-server-2008-r2 7 48 query-performance 1 9 null 1 5 identity 2 43 naming-convention 1 36 scripting 1 15 trigger 1 6 foreign-key 1 35 metadata 1 35 database-design 1 30 rdbms 1 30 varchar 1 39 configuration 1 11 maxdop 1 11 audit 1 5 access-control 1 9 olap 1 7 web-server 1 7 sql-server-2012 1 7 t-sql 1 4 functions 1 4 blocking 1 4 process 1 4 optimization 1 6 table-variable 1 6 linux 1 4 system-tables 1 4 sql-server-2017 1 4 catalogs 1 4
+3461 oracle 2 41
+4438 oracle 1 9
+42104 mysql 1 5 backup 1 5 restore 1 5 mysqldump 1 5 mysql-5 1 5
+4116 sql-server 1 21 sql-server-2008 1 21 schema 1 21 best-practices 1 21
+1754 sql-server 1 5 sql-server-2008 1 5 schema 1 5 best-practices 1 5 identity 1 5 naming-convention 1 5
+5121 mysql 1 9 replication 1 9
+3941 performance 1 5 index 1 5
+3168 sql-server 1 8 oracle 1 8 index 1 8
+5208 postgresql 4 33 oracle 1 7 performance 1 9 index-tuning 1 9 cache 1 9
+4846 mysql 6 97 mysqldump 1 33 permissions 3 55 performance 1 25 innodb 1 25 null 1 8 binlog 1 9 mysqlbinlog 1 9
+7274 mysql 1 17 mysqldump 1 17 permissions 1 17
+15533 mysql 1 35 mysqldump 1 35 permissions 1 35
+37007 mysql 1 6 mysqldump 1 6 permissions 1 6
+557 oracle 1 15 oracle-sql-developer 1 15
+9540 mysql 1 29 backup 1 29 mysqldump 1 29
+2479 mysql 1 73 backup 1 73 mysqldump 1 73
+28198 mysql 1 11 backup 1 11 mysqldump 1 11
+5185 database-design 1 13 erd 1 13
+4843 database-design 1 4 erd 1 4 mysql 1 4 update 1 4
+4957 database-design 1 5 erd 1 5
+5203 sql-server 1 21 index 1 21
+5199 sql-server 1 12 index 1 12
+5072 sql-server-2008 1 8 null 1 8
+3243 postgresql 1 4 failover 1 4
+1348 mysql 1 5 insert 1 5 upsert 1 5
+27924 mysql 1 12 innodb 1 12 alter-table 1 12 ddl 1 12
+3403 postgresql 1 12 constraint 1 12 null 1 12 unique-constraint 1 12
+5355 sql-server 1 6 aggregate 1 6
+3475 postgresql 1 4 aggregate 1 4 window-functions 1 4
+807 sql-server 7 174 clustered-index 2 22 restore 2 122 sql-server-2008 3 144 nonclustered-index 1 10 sql-server-2005 1 10 sql-server-2008-r2 1 10 information-schema 1 10 index 1 12 stored-procedures 1 8 datatypes 1 8
+4792 sql-server 1 41 clustered-index 1 41
+464 mysql 1 5 profiler 1 5 tools 1 5
+7183 mysql 1 4 profiler 1 4 tools 1 4
+5435 c# 1 4 sql-server-2008 1 4
+31066 database-design 1 5
+69133 career 1 6
+5469 career 1 6 sql-server 1 5 sql-server-2008-r2 1 5
+5475 career 1 27
+1584 career 1 16
+5486 oracle 1 4
+4613 oracle 1 4
+4456 sql-server 1 9 trigger 1 9
+49019 performance 1 5 postgresql 1 5
+2452 sql-server 1 8 best-practices 1 8 permissions 1 8
+5558 sql-server 1 19 best-practices 1 19 permissions 1 19
+2584 sql-server 1 14 best-practices 1 14 permissions 1 14
+2445 sql-server 2 19 best-practices 1 11 permissions 1 11 sql-server-2008-r2 1 8 tempdb 1 8
+5562 sql-server 1 7 best-practices 1 7 permissions 1 7
+5573 sql-server 1 16 best-practices 1 16 permissions 1 16
+5621 sql-server 1 9 best-practices 1 9 permissions 1 9
+11238 sql-server 1 8 best-practices 1 8 permissions 1 8
+48095 sql-server 1 5 best-practices 1 5 permissions 1 5
+5726 postgresql 1 19
+3735 postgresql 2 11 sql-server 2 8 performance 1 4 join 1 4 optimization 1 4 fragmentation 1 4 database-size 1 4
+5735 postgresql 2 17 plpgsql 1 13 deadlock 1 4 postgresql-9.4 1 4
+3710 postgresql 3 188 plpgsql 1 20 maintenance 1 158 performance 1 4 optimization 2 14 view 1 10 postgresql-9.4 1 10 postgresql-performance 1 10
+5737 linux 1 4 ubuntu 1 4 mysql 1 4 innodb 1 4
+5778 sql-server 1 4 sql-server-2008-r2 1 4
+5717 sql-server 2 13 sql-server-2008-r2 1 5
+6671 sql-server 1 8 locking 1 8 nolock 1 8
+2232 mysql 4 29 stored-procedures 1 5 trigger 1 5 rank 1 13 sql-server-2008 1 4 constraint 1 4 hierarchy 1 4 sql-server-2005 1 6 sql-server 3 22 oracle 4 27 db2 1 8 express-edition 1 8 oracle-11g 1 5 linked-server 1 5 pivot 1 5 rdbms 1 6 postgresql 1 7 database-design 1 7 normalization 1 7 dimensional-modeling 1 7 t-sql 1 6 performance 1 8 operator 1 8 cte 1 8 derived-tables 1 8 join 1 6
+3098 mysql 2 15 stored-procedures 1 8 trigger 1 8 amazon-rds 1 7
+5845 mysql 1 4 database-design 1 8 normalization 1 8 best-practices 1 8 address 1 8
+8221 sql-server 1 9 performance-testing 1 9
+41302 sql-server 1 14 performance-testing 1 14
+3423 mysql 8 71 authentication 1 5 license 1 12 replication 1 4 innodb 2 38 foreign-key 1 24 constraint 1 24 mysql-5.5 1 14 mysqldump 1 14 myisam 1 14 primary-key 1 4 unique-constraint 1 4 null 1 4
+22447 sql-server 1 6 sql-server-2008-r2 1 6 linked-server 1 6 except 1 6
+5378 sql-server 1 7 index 1 7 maintenance 1 7 fragmentation 1 7
+5951 sql-server 2 11 index 2 9 maintenance 1 4 fragmentation 1 4 sql-server-2008 1 5 ssms 1 5 sql-server-2008-r2 1 7 backup 1 7
+5189 sql-server-2008 5 58 index 2 38 ssms 1 12 database-design 1 5 schema 1 5 datatypes 1 5 xml 1 5 sql-server-2008-r2 3 40 scripting 1 6 sql-server 5 60 version-control 1 8 source-control 1 8 cte 1 11 t-sql 1 11 tempdb 1 4
+3858 mysql 8 94 performance 2 32 index 1 26 order-by 1 26 backup 1 22 mysqldump 1 22 xtrabackup 1 22 replication 2 18 innodb 1 9 optimization 1 9 query-performance 1 9 subquery 1 9 mysql-5 1 6 myisam 1 6 database-design 1 12 best-practices 1 12 foreign-key 1 12 select 1 8
+3993 mysql 1 4 performance 1 4 index 1 4 order-by 1 4
+15035 postgresql 1 20 schema 1 20
+8527 mysql 1 4 trigger 1 4
+8337 sql-server 1 5 sql-server-2008-r2 1 5 corruption 1 5 dbcc 1 5
+10776 sql-server 3 19 sql-server-2008-r2 2 15 corruption 1 6 dbcc 1 6 version-control 2 13 source-control 2 13 sql-server-2008 2 11 stored-procedures 1 4 audit 1 7
+5986 sql-server 1 4 restore 1 4
+30859 sql-server-2008 9 66 database-design 9 92 schema 1 5 datatypes 4 20 xml 5 30 sql-server 114 1135 trigger 3 27 sql-clr 6 56 stored-procedures 9 105 index 3 48 maintenance 1 15 sql-server-2005 3 13 collation 11 127 sql-server-2014 9 75 compression 2 17 subtypes 2 17 sql-server-2008-r2 11 109 unicode 9 116 cursors 2 9 disk-space 1 22 dmv 1 22 t-sql 27 292 greatest-n-per-group 1 21 execution-plan 3 51 performance 2 18 optimization 2 17 performance-tuning 1 10 permissions 6 69 functions 5 49 ssms 5 38 database-size 1 5 sql-server-2012 16 120 view 1 17 null 1 17 computed-column 2 27 ssdt 1 14 deployment 1 14 visual-studio-2013 1 14 query-performance 8 112 update 1 24 interview-question 1 10 hierarchy 2 10 random 1 4 reporting 1 4 type-conversion 1 9 string 1 9 decimal 1 9 metadata 3 35 dynamic-sql 2 14 xquery 2 8 varchar 1 13 cardinality-estimates 1 13 parameter 3 67 table-variable 1 19 table-valued-parameters 1 19 linked-server 2 32 powershell 2 9 bcp 1 4 format 1 4 denormalization 1 12 replace 1 11 migration 1 21 uuid 2 34 aggregate 2 19 clustered-index 2 30 database-internals 2 23 data-pages 2 29 insert 2 10 prepared-statement 1 19 plan-cache 1 19 substring 1 7 multi-thread 1 5 web-service 1 5 string-manipulation 1 7 transaction 2 13 pivot 2 11 blob 1 11 openrowset 1 10 regular-expression 1 12 auto-increment 1 9 identity 1 9 primary-key 1 12 instance 1 4 azure-sql-database 1 10 cast 1 10 convert 1 10 errors 2 9 merge 1 8 security 2 13 service-broker 1 6 sql-server-2016 7 54 enum 1 4 ssis 1 7 data-warehouse 1 7 import 2 24 bulk-insert 2 24 default-value 1 20 ddl 1 7 best-practices 3 40 parallelism 1 10 cache 1 7 size 1 7 sql-server-localdb 2 27 linux 1 10 system-tables 1 10 sql-server-2017 2 20 catalogs 1 10 offset-fetch 1 10 group-by 1 14 msdb 1 5 query-store 1 5 character-set 1 4 encoding 3 13 xp-cmdshell 1 5 cte 1 28 json 1 5 range-types 1 8 user-defined-type 1 8 identifier 1 16 utf-8 2 11 sql-server-2019 1 6 tempdb 1 6 temporary-tables 1 6 etl 1 16 hashing 2 20 oracle 1 4 active-directory 1 7 logins 1 4 connections 1 4 access-control 1 4 sql-server-agent 1 6 jobs 1 6 naming-convention 1 5 error-log 1 10
+13119 mysql 1 9 backup 1 9 mysqldump 1 9 xtrabackup 1 9
+109813 mysql 1 7 backup 1 7 mysqldump 1 7 xtrabackup 1 7
+32815 oracle 2 10 plsql 1 5 oracle-11g 1 5
+6206 sql-server 1 4 stored-procedures 1 4 statistics 1 4 parameter 1 4
+2145 sql-server 1 4 sql-server-2008 1 4 database-design 1 4 architecture 1 4
+33992 sql-server 1 17 performance 1 17 join 1 17 optimization 1 17
+5512 sql-server 1 4 performance 1 4
+5145 sql-server 1 5 sql-server-2008-r2 1 5 scripting 1 5
+6235 mysql 2 18 mysqldump 1 11
+21809 mysql 1 73 mysqldump 1 73
+53304 postgresql 1 7 maintenance 1 7
+3654 sql-server 1 8 sql-server-2008 1 8 index 1 8 sql-server-2008-r2 1 8
+6334 mysql 1 6
+1990 sql-server 1 9
+4195 sql-server 1 7
+101095 mysql 1 5
+79544 mysql 1 5
+6037 mysql 6 45 performance 1 4 optimization 1 4 timestamp 1 4 syntax 1 4 utc-time 1 4 permissions 1 9 log 1 20 logs 1 4 binlog 1 4 debian 1 4
+5031 postgresql 1 4 vacuum 1 4
+200 c# 1 7 sql-server 5 29 visual-studio-2010 1 7 sql-server-2008 2 11 database-design 1 4 foreign-key 1 4 constraint 1 4 entity-framework 1 4 sql-server-2008-r2 1 4 replication 1 4 permissions 1 4 security 1 4 logins 1 4 performance 1 10
+3347 sql-server 1 4 ssrs 1 4 mysql 1 31 rank 1 31
+6435 mysql 2 10 license 1 6 innodb 1 4
+5116 oracle 1 11 oracle-10g 1 11
+6515 sql-server-2008-r2 1 4 instance 1 4
+6481 sql-server-2008-r2 1 7 instance 1 7
+47366 sql-server 1 6 sql-server-2008-r2 1 6 restore 1 6
+90973 sql-server 1 7 sql-server-2008-r2 1 7 restore 1 7
+89503 sql-server 2 10 sql-server-2008-r2 1 6 restore 1 6 sql-server-2014 1 4 availability-groups 1 4
+26863 c# 1 9 sql-server-2008 1 9
+6173 sql-server 5 81 identity 1 27 naming-convention 1 27 sql-server-2005 3 60 performance 1 22 aggregate 1 22 utc-time 1 11 timezone 1 11 sql-server-2008 1 6 backup 1 6 restore 1 6 stored-procedures 1 27
+16938 mysql 1 10 select 1 10 datatypes 1 10
+139739 mysql 1 4 select 1 4 datatypes 1 4
+5935 sql-server 1 22 sql-server-2008 1 22 except 1 22
+4408 postgresql 2 13 trigger 1 7 pgadmin 1 6
+36366 sql-server-2008 1 4
+32791 mysql 1 24 performance 1 24 innodb 1 24
+6612 oracle 1 13 select 1 13
+3931 sql-server 1 6
+3651 sql-server 3 15 index 1 5 statistics 1 5 maintenance 1 5 sql-server-2005 2 10 stored-procedures 1 6
+6909 sql-server 1 6 database-design 1 6
+6597 sql-server 7 81 database-design 1 24 sql-server-2008 3 26 performance 1 14 index-tuning 1 14 locking 2 12 concurrency 1 7 t-sql 1 8 backup 1 10 delete 1 10 transaction-log 1 10 sql-server-2008-r2 1 13 execution-plan 1 13 ms-access 1 5 clustered-index 1 4
+552 sql-server 2 13 index 2 13 sql-server-2008-r2 1 9 partitioning 1 9 sql-server-2008 1 4 database-internals 1 4
+5622 sql-server 1 16 cte 1 16
+16029 sql-server 1 8 cte 1 8
+34746 sql-server 1 6 cte 1 6
+14706 postgresql 1 27 plpgsql 1 27 upsert 1 27
+680 postgresql 1 5 psql 1 5
+11635 sql-server-2008-r2 2 9 t-sql 3 58 sql-server 12 111 sql-server-2008 3 14 database-design 1 4 optimization 1 4 sql-server-2012 1 42 query-performance 2 49 window-functions 1 42 sql-server-2014 4 31 ssms 1 11 monitoring 1 11 migration 1 11 cardinality-estimates 1 7 index 1 5 btree 1 5 sql-server-agent 1 4 partitioning 1 6 fragmentation 1 7 system-tables 1 7 gaps-and-islands 1 5
+11151 sql-server 6 52 performance 2 22 sql-server-2008 2 16 sql-server-2005 1 4 gaps-and-islands 1 4 sqlcmd 1 7 optimization 2 22 query-performance 1 13 sql-server-2008-r2 2 19 index 1 9 encryption 1 10 information-schema 1 10 dmv 1 10
+6897 sql-server 1 6
+3798 sql-server 1 5
+114104 sql-server 1 4
+130034 mysql 1 4 rank 1 4
+18927 database-design 1 8 naming-convention 1 8
+35479 postgresql 1 11
+5531 performance 1 4 database-recommendation 1 4 nosql 1 4 scalability 1 4
+2193 sql-server 3 21 sql-server-2008 2 63 query 1 11 sql-server-2005 1 7 t-sql 1 52 oracle 1 7 migration 1 7 syntax 1 7
+1698 sql-server 2 13 transactional-replication 1 8
+6687 mysql 1 5 database-design 2 39 oracle 1 9 query 1 9 view 1 9 hierarchy 1 9 query-performance 1 4 best-practices 1 4 schema 1 6 normalization 1 6
+3996 sql-server 3 42 sql-server-2008 1 17 database-design 1 17 sql-server-2008-r2 1 17 sql-server-2005 1 6 except 1 6
+7005 scalability 1 15 sql-server-2008 1 5 performance 2 9 index 2 9 statistics 1 5 sql-server-2005 2 11 sql-server 2 11 transaction-log 1 7 physical-design 1 4 isolation-level 1 4 snapshot-isolation 1 4
+7042 scalability 1 6
+7131 scalability 1 5
+4097 sql-server 1 4 sql-server-2008 1 4 database-design 1 4 sql-server-2008-r2 1 4
+1423 oracle 1 7 database-design 1 7 erd 1 7
+6564 oracle 1 4 database-design 1 4 erd 1 4
+3396 mysql 2 15 innodb 1 11 mysql-5.5 2 15
+8015 postgresql 1 4 oracle 1 4 oracle-fdw 1 4
+8641 postgresql 1 4 oracle 1 4 oracle-fdw 1 4
+7157 sql-server-2008 1 5 performance 1 5 index 1 5 statistics 1 5 sql-server 5 64 monitoring 1 6 network 1 6 sql-server-2005 1 8 memory 1 8 execution-plan 1 8 trace 1 8 backup 2 12 transaction-log 1 5 log 1 5 security 1 7 sql-server-2016 1 38
+4364 sql-server-2008 1 6 constraint 1 6 hierarchy 1 6
+1470 sql-server 1 6 ssas 1 6
+1830 sql-server 2 16 sql-server-2005 1 10 backup 1 6 transaction-log 1 6 recovery 1 6
+10312 sql-server 1 7 sql-server-2005 1 7
+132220 postgresql 1 18 psql 1 18
+48375 mysql 1 4 innodb 1 4 linux 1 4 configuration 1 4 ubuntu 1 4
+7541 mysql 1 13 select 1 13 case-sensitive 1 13
+4203 mysql 3 36 select 1 22 case-sensitive 1 22 performance 1 7 execution-plan 1 7 view 1 7 database-design 1 7
+45139 sql-server 1 4 security 1 4
+2621 sql-server 1 4 sql-server-2008 1 4 join 1 4
+4826 oracle 3 31 oracle-11g-r2 1 6 nosql 1 8 identity 1 7 naming-convention 1 7 sql-server-2008 1 5 join 1 5 installation 1 10 ubuntu 1 10 startup 1 10 maintenance 1 9 cassandra 1 9
+13292 oracle 1 4 oracle-11g-r2 1 4
+81333 mysql 1 5 performance 1 5 innodb 1 5 mysql-5 1 5 null 1 5
+67685 sql-server 1 5 restore 1 5
+57559 sql-server 1 7 sql-server-2008 1 7 alter-table 1 7
+7269 database-design 1 6 best-practices 1 6 foreign-key 1 6
+7024 mysql 1 4 database-design 2 8 innodb 1 4 normalization 1 4 relational-theory 1 4 rdbms 1 4
+70693 mysql 1 7 innodb 1 7 foreign-key 1 7 constraint 1 7
+53657 postgresql 1 17
+7846 mysql 1 7 innodb 1 7
+8335 database-design 1 13
+5645 sql-server 5 34 sql-server-2008 2 11 restore 1 7 sql-server-2008-r2 1 5 logs 1 5 error-handling 1 5 sql-server-2012 1 4 availability-groups 1 4 performance 1 4
+25998 sql-server 3 17 sql-server-2008 3 15 restore 1 5 export 1 6 configuration 1 6 trigger 1 6
+6361 mysql 1 11
+73196 mysql 1 5 performance 1 5 innodb 1 5 linux 1 5
+8304 nosql 1 5
+7902 mysql 1 14 optimization 1 14 view 1 14
+8070 mysql 1 5 permissions 1 5
+6823 sql-server 4 39 sql-server-2008 1 7 backup 1 7 recovery 1 7 sql-server-2005 1 17 etl 1 17 sql-server-2000 1 7 migration 1 7 performance 1 8 optimization 1 8 query-performance 1 8
+21435 oracle 1 5 oracle-11g 1 5 timestamp 1 5 date-format 1 5
+22893 sql-server 1 10 sql-server-2008 1 10 statistics 1 10
+51444 normalization 2 15 relational-theory 1 6 surrogate-key 1 6 database-design 1 9 dependencies 1 9
+7343 postgresql 1 21 performance 1 21 index 1 21 join 1 21 primary-key 1 21
+7279 identity 2 13 naming-convention 1 5 mysql 2 12 innodb 1 4 myisam 1 4 delete 1 4 mysql-5.0 1 4 sql-server 1 6 transaction 1 6 primary-key 1 6 auto-increment 1 8
+8213 identity 1 12 naming-convention 1 12
+8224 identity 1 9 naming-convention 1 9
+24122 mysql 1 20 innodb 1 20
+85955 mysql 1 15 innodb 1 15
+8493 sql-server 1 8 oracle 1 8
+2897 sql-server 1 10 sql-server-2008 1 10
+8397 mysql 1 4 database-design 1 4 mysql-5.5 1 4
+8418 sql-server 1 5 sql-server-2008 1 5
+34652 postgresql 1 17 delete 1 17 alter-table 1 17 database-size 1 17 vacuum 1 17
+8044 mysql 1 29 postgresql 8 105 performance 3 45 query-performance 1 10 update 2 16 permissions 1 4 stored-procedures 1 8 plpgsql 1 8 role 1 6 hardware 1 6
+8449 sql-server 1 4 sql-server-2008-r2 1 4
+25441 mysql 1 6 database-design 1 6
+2645 sql-server 1 7
+8519 sql-server-2008 1 4 performance 1 4 remote 1 4
+8502 sql-server-2008 1 7 performance 1 7 remote 1 7
+10361 mysql 1 7 aggregate 2 32 functions 1 7 index 1 4 postgresql 3 22 update 1 5 database-design 2 45 datatypes 1 10 performance-tuning 1 7
+4102 sql-server 1 8 sql-server-2008 1 8 hierarchy 1 8
+15321 mysql 1 271 mysqldump 1 271 import 1 271
+30417 mysql 1 29 mysqldump 1 29 import 1 29
+55293 mysql 1 5 mysqldump 1 5 import 1 5
+24553 mysql 1 6 mysqldump 1 6 import 1 6
+112485 mysql 1 8 mysqldump 1 8 import 1 8
+8852 mysql 1 20 innodb 1 20 myisam 1 20 storage-engine 1 20
+68346 mysql 1 14 innodb 1 14 myisam 1 14 storage-engine 1 14
+8578 database-recommendation 1 5 ms-access 1 5
+44705 oracle 1 4 stored-procedures 1 4 functions 1 4 dml 1 4
+68127 postgresql 2 15 sql-server 4 31 sql-server-2012 1 4 powershell 1 4 xp-cmdshell 1 4 backup 1 15 recovery-model 1 15 xml 1 5 sql-server-2014 1 7 pivot 1 7 datatypes 1 8 type-conversion 1 8 documentation 1 8
+7119 postgresql 22 484 permissions 3 261 etl 1 32 vacuum 1 32 performance 2 51 query-performance 1 14 ubuntu 3 13 corruption 1 4 psql 1 8 mac-os-x 1 8 disk-space 1 37 postgresql-performance 1 37 size 1 37 array 1 6 catalogs 1 6 postgresql-9.2 1 38 backup 2 21 windows 1 5 postgresql-9.4 1 5 postgresql-9.1 2 9 pgadmin 1 8 cursors 1 8 postgresql-9.3 3 37 configuration 1 6 users 1 16 role 1 16 access-control 1 16 replication 1 5 null 1 13 terminology 1 8 fields 1 8 database-design 1 4 order-by 1 4 restore 1 16 collation 1 25 monitoring 1 4 statistics 1 4 linux 1 4 plpgsql 1 11 postgresql-9.5 1 11
+8332 database-design 2 8 foreign-key 1 4 referential-integrity 1 4 mysql 1 18 innodb 1 18 select 1 18 sql-standard 1 7 performance 1 11 locking 1 11 rdbms 1 11 sql-server 1 4 sql-server-2012 1 4 postgresql 1 4 primary-key 1 4 unique-constraint 1 4
+16642 sql-server 1 16 optimization 1 16
+31215 sql-server 1 9 index 1 9 schema 1 9 constraint 1 9 metadata 1 9
+45616 sql-server 8 108 index 1 4 schema 1 4 constraint 1 4 metadata 1 4 sql-server-2012 2 9 execution-plan 2 18 statistics 1 5 mongodb 1 5 best-practices 1 5 sharding 1 5 deployment 1 5 docker 1 5 mysql 1 10 performance-tuning 1 10 sql-server-2005 1 4 trigger 1 4 syntax 1 4 postgresql 1 10 update 1 10 query-store 2 18 t-sql 1 38 security 1 38 sql-server-2017 2 18 standard-edition 1 8 enterprise-edition 1 8 online-operations 1 8 query-performance 1 13 ssms 1 22
+25837 index 1 4 firebird 1 4
+8283 index 1 5 firebird 1 5
+2103 sql-server 40 415 t-sql 11 124 datetime 1 5 type-conversion 1 5 sql-server-2005 2 30 performance 3 21 aggregate 1 6 sql-server-2012 7 78 execution-plan 2 14 union 1 8 database-internals 1 8 merge 1 9 sql-server-2008-r2 1 6 functions 1 5 tuning 1 5 sql-server-2014 5 61 recursive 1 9 greatest-n-per-group 1 18 window-functions 2 24 join 1 4 query-performance 4 40 hierarchy 1 9 random 1 9 xml 10 113 xquery 3 32 cardinality-estimates 1 9 sql-server-2008 1 5 gaps-and-islands 1 5 blob 1 10 convert 1 8 optimization 1 8 pivot 1 14 foreign-key 1 12 sql-server-2016 4 38 enum 1 9 index-tuning 1 9 nonclustered-index 1 9 security 1 14 sparse-column 1 8 sql-server-2017 1 5
+23886 sql-server 1 10
+11526 sql-server 1 5 sql-server-2008-r2 1 5 restore 1 5 filestream 1 5
+9088 mysql 2 12 replication 1 8 master-slave-replication 1 8 innodb 1 4 mysql-5.5 1 4
+8771 sql-server 2 36 sql-server-2008-r2 1 11 transaction-log 1 11 performance 1 25 maintenance 1 25 statistics 1 25 data-warehouse 1 13 etl 1 13 business-intelligence 1 13
+6563 database-design 1 11 full-text-search 1 11
+9261 sql-server 2 10 performance 1 5 query-performance 1 5 sql-server-2008 1 5 t-sql 1 5
+371 sql-server-2008 1 6 linux 1 6
+1564 sql-server-2008 1 4 linux 1 4
+6219 postgresql 32 497 psql 4 29 default-value 1 11 random 1 11 performance 3 28 index-tuning 1 19 cache 1 19 database-design 2 11 primary-key 2 36 logs 1 6 relational-division 1 5 index 2 9 sorting 1 4 group-by 1 4 windows 1 29 permissions 1 29 postgresql-9.1 3 192 plpgsql 1 6 upsert 1 6 best-practices 1 177 partitioning 1 16 query-performance 2 14 postgresql-9.2 2 40 vacuum 1 9 constraint 1 30 postgresql-9.3 1 12 transaction 1 12 datatypes 1 7 type-conversion 1 7 aggregate 1 6 range-types 1 6 update 1 10 mysql 1 9 innodb 1 9 deadlock 1 9 isolation-level 1 9 join 1 5 datetime 1 5 sum 1 5 coalesce 1 5 postgresql-9.4 1 22 metadata 1 5 enum 1 5 user-defined-type 1 5
+124084 postgresql 1 5 psql 1 5
+1285 sql-server 2 15 performance 1 4 sql-server-2005 1 11
+56173 sql-server 1 30 sql-server-2008 1 30
+9345 mongodb 1 6
+6441 mongodb 3 34 performance 1 10 amazon-ec2 1 10 backup 1 6
+6675 postgresql 1 16 default-value 1 16 random 1 16
+24985 sql-server 1 6 sql-server-2008-r2 1 6 ssms 1 6
+9377 sql-server 1 65
+9598 sql-server 1 10
+100315 sql-server 1 5
+33568 sql-server 1 5 sql-server-2008 1 5 sql-server-2005 1 5 transaction-log 1 5 tempdb 1 5
+77103 sql-server 1 4 sql-server-2008 1 4 sql-server-2005 1 4 transaction-log 1 4 tempdb 1 4
+1342 db2 2 28 maintenance 1 22 database-size 1 22 db2-luw 1 22 size 1 22 metadata 1 5 sql-server 1 26 sql-server-2012 1 26
+7203 database-design 1 13 normalization 1 13 oracle 1 10 performance 1 10 view 1 10
+21086 sql-server 1 5 sql-server-2008 1 5 export 1 5 configuration 1 5
+9712 sql-server 1 25 sql-server-2008 1 25 ssms 1 25
+66695 sql-server 1 4 sql-server-2008 1 4 ssms 1 4
+9558 sql-server 1 5 sql-server-2008 1 5 ssas 1 5 pivot 1 5
+154752 postgresql 1 4
+97224 mysql 1 4 timestamp 1 4 syntax 1 4 utc-time 1 4
+6503 business-intelligence 1 6 reporting 1 6 cognos 1 6 eav 1 6
+9823 mysql 1 109 database-design 1 109 performance 1 109
+9824 mysql 1 70 database-design 1 70 performance 1 70 sql-server 1 7 order-by 1 7
+9846 mysql 1 33 database-design 1 33 performance 1 33
+9932 mysql 1 116 database-design 1 116 performance 1 116
+9825 mysql 1 7 database-design 1 7 performance 1 7
+9908 mysql 1 12 database-design 1 12 performance 1 12
+9842 mysql 1 18 database-design 1 18 performance 1 18
+9843 mysql 1 6 database-design 1 6 performance 1 6
+9866 mysql 1 6 database-design 1 6 performance 1 6
+9865 mysql 1 9 database-design 1 9 performance 1 9 sql-server 1 57 mongodb 1 57 nosql 1 57 rdbms 1 57 cassandra 1 57
+5371 mysql 1 18 database-design 1 18 performance 1 18
+9914 mysql 1 5 database-design 1 5 performance 1 5
+22676 sql-server 1 4 sql-server-2008 1 4
+64489 mysql 1 21 interface 1 21 mysql-console 1 21
+90197 mysql 1 9 interface 1 9 mysql-console 1 9
+10059 sql-server 1 6 sql-server-2008 1 6
+81550 sql-server 1 6 sql-server-2008 1 6
+42017 sql-server 1 8 sql-server-2008 1 8
+143235 sql-server 3 17 sql-server-2008-r2 1 4 tempdb 2 13 t-sql 2 13 datafile 1 9 sp-blitz 1 4 multi-server-admin 1 4
+9003 database-design 1 10 schema 1 10 eav 1 10 ontology 1 10 sql-server 7 116 sql-server-2008 3 66 t-sql 4 52 pivot 4 78 mysql 3 31 oracle 2 47 oracle-11g 1 20 linked-server 1 20 postgresql 3 24 group-by 1 9 sql-server-2008-r2 2 27 greatest-n-per-group 1 27 sql-server-2012 1 12
+16798 database-design 1 11 schema 1 11 eav 1 11 ontology 1 11
+6318 sql-server 3 22 feature-comparison 1 5 high-availability 1 5 rac 1 5 oracle-rac 1 5 tempdb 1 12 sql-server-2008 1 7 sql-server-2008-r2 1 5 backup 1 5 configuration 1 5 compression 1 5
+6548 sql-server 1 6 sql-server-2008 1 6 sql-server-2005 1 6 memory 1 6
+10197 sql-server 1 5 null 1 5
+9356 best-practices 1 6 unit-test 1 6
+15819 mysql 1 5 replication 1 5 mysql-5.5 1 5
+41581 mysql 1 8 replication 1 8 mysql-5.5 1 8
+16732 mysql 1 10 update 1 10
+21272 mysql 1 32 update 1 32
+13212 mysql 1 7 auto-increment 1 7
+67515 mysql 1 5 explain 1 5
+39384 sql-server 25 212 sql-server-2005 1 4 order-by 1 5 nonclustered-index 1 5 execution-plan 1 5 logins 1 8 system-tables 1 8 stored-procedures 1 5 index 1 32 t-sql 2 40 join 1 32 table 1 32 sql-server-2008 2 19 entity-framework 1 12 mysql-5.5 1 6 select 1 6 backup 2 14 restore 1 7 snapshot 1 7 primary-key 1 4 auto-increment 1 4 identity 1 4 hierarchy 1 6 sql-clr 1 6 functions 1 4 olap 1 10 mdx 1 10 group-by 1 8 query 1 8 errors 1 8 statistics 1 5 sql-server-2008-r2 3 25 string 1 8 ssis 1 4 ssas 2 12 blocking 1 7 optimization 1 8 scheduled-tasks 1 7 powershell 1 8 visual-studio 1 8 mysql 1 7 mysql-5.6 1 7 split 1 7 security 1 11 best-practices 1 11 dynamic-ports 1 11 sql-server-2014 1 7 xml 1 7 xquery 1 7
+10330 sql-server 1 4 memory 1 4
+10082 sql-server 1 12 memory 1 12
+10414 sql-server-2008 4 23 query-performance 2 14 performance-tuning 1 4 parallelism 1 4 stored-procedures 1 7 ssms 1 7 sql-server 9 92 sql-server-2012 2 15 database-tuning-advisor 1 5 security 1 6 permissions 1 6 insert 1 10 maintenance 1 8 update 1 7 merge 1 7 sql-server-2014 1 20 functions 1 20 varchar 1 20 cardinality-estimates 1 20 scalability 1 19 azure-vm 1 19 performance 1 11 sql-server-2016 1 11 backup 1 6 transaction-log 1 6 log 1 6
+44336 sql-server 1 4 restore 1 4 sql-server-2012 1 4
+36066 postgresql 1 6 maintenance 1 6
+10442 postgresql 1 30 psql 1 30 mac-os-x 1 30
+79632 postgresql 1 4 psql 1 4 mac-os-x 1 4
+152144 sql-server 1 8 sql-server-2012 1 8 t-sql 1 8 ssms 1 8 configuration 1 8
+68051 sql-server 1 4 sql-server-2012 1 4
+38099 sql-server 1 7 tempdb 1 7
+9415 sql-server 2 9 sql-server-2008-r2 1 4 stored-procedures 1 4 documentation 1 4 join 1 5 exists 1 5
+10650 mysql-5.5 1 4 linux 2 10 sql-server-2005 1 4 sql-server 6 57 sql-server-2008 3 22 sql-server-2008-r2 5 49 c# 1 8 sql-clr 1 8 partitioning 1 4 security 2 15 performance 1 6 index 1 6 mysql 3 42 select 1 32 command-line 1 6 database-design 2 95 innodb 1 4 schema 1 4 foreign-key 1 4 t-sql 1 4 hashing 1 4 database-recommendation 1 91 nosql 1 91
+4490 sql-server 12 135 sql-server-2012 4 63 sql-server-2005 2 20 postgresql 2 20 backup 1 14 restore 1 14 t-sql 1 10 cte 1 10 syntax 1 10 sql-server-2008-r2 1 7 sql-server-agent 1 7 full-text-search 1 6 postgresql-9.2 1 6 sqlcmd 1 38 encoding 1 38 linked-server 1 8 insert 1 8 sql-server-2008 1 10 performance 1 7 index 2 16 connections 1 12 partitioning 1 9
+695 postgresql 1 356 information-schema 1 356 catalogs 1 356
+2639 postgresql 30 225 information-schema 1 6 catalogs 1 6 psql 1 5 sql-server 5 43 best-practices 2 10 shutdown 1 5 functions 1 17 aggregate 2 21 greatest-n-per-group 1 17 database-design 7 184 datatypes 5 59 postgresql-9.3 1 13 json 3 33 export 1 13 dump 1 13 trigger 2 13 permissions 1 4 sequence 1 4 mysql 5 42 mariadb 1 15 errors 1 15 odbc 1 15 timezone 1 15 performance 2 65 varchar 2 10 foreign-key 2 10 alter-table 1 5 update 1 7 index 2 66 hardware 1 59 ssd 1 59 identity 2 8 postgresql-10 4 23 date 1 4 oracle 1 4 optimization 1 5 execution-plan 1 5 subquery 1 5 explain 1 5 constraint 2 13 datetime 2 20 group-by 1 4 window-functions 2 8 gaps-and-islands 2 8 postgresql-8.4 1 4 timestamp 1 4 count 1 4 null 1 4 join 1 10 postgresql-9.4 1 5 table 1 9 database-recommendation 1 58 nosql 1 58 unique-constraint 1 7 sql-server-2016 1 5 table-variable 1 5 postgresql-9.5 1 7 centos-7 1 7 mysql-5.6 1 5 union 1 5 decimal 1 5 query-performance 1 4 postgresql-9.6 1 4 time-series-database 1 4 metadata 1 4 enum 1 4 user-defined-type 1 4 string-representation 1 6 azure-sql-database 1 15 sql-server-2017 1 15 performance-tuning 1 6 identifier 1 14
+10829 sql-server-2008 1 4 query 1 4
+10927 mysql 2 17 optimization 2 17 update 1 4 database-design 1 13
+2264 database-design 2 8 join 1 4 tablespaces 1 4 database-theory 1 4 oracle 1 4 oracle-11g-r2 2 11 constraint 1 4
+546 sql-server-2000 1 12 sql-server-2012 1 12 ssms 1 12
+8823 sql-server-2000 1 9 sql-server-2012 1 9 ssms 1 9
+2357 oracle 1 4 update 1 4
+5246 mysql 1 6 index 1 6 query-performance 1 6 index-tuning 1 6
+9617 sql-server 1 9 t-sql 1 9 php 1 9
+5365 postgresql 1 4 postgresql-8.3 1 4
+10768 sql-server 1 7 sql-server-2008 1 7 sql-server-2005 1 7
+8412 postgresql 1 12 backup 1 12 restore 1 12
+10251 mysql 1 18 query 1 18 query-performance 1 18 count 1 18
+10090 mysql 3 72 query 1 15 query-performance 1 15 count 1 15 permissions 2 57 security 1 12
+10522 sql-server 1 4 sql-server-2008 1 4 sqlcmd 1 4
+28009 mysql 1 11 permissions 1 11
+20333 mysql 1 83 permissions 1 83
+85706 mysql 1 8 permissions 1 8
+138509 mysql 1 4 permissions 1 4
+1764 oracle 1 14 performance 1 14 view 1 14 sql-server 1 4 functions 1 4
+15587 sql-server 1 10 sql-server-2008 1 10 sql-server-2008-r2 1 10 transaction-log 1 10 best-practices 1 10
+26604 sql-server 1 5 sql-server-2008 1 5
+11360 sql-server 1 11 sql-server-2008 1 11
+10064 postgresql 1 16 performance 1 16 functions 1 16 plpgsql 1 16 mysql 1 5 select 1 5 update 1 5 group-by 1 5
+72290 sql-server 1 5 profiler 1 5
+10832 sql-server 96 1001 sql-clr 1 6 sql-server-2008-r2 13 79 backup 6 49 configuration 2 21 compression 1 8 locking 2 21 ssrs 1 6 sql-server-2005 1 7 mirroring 1 7 maxdop 1 13 deadlock 1 7 sql-server-2012 23 214 mongodb 1 41 nosql 1 41 rdbms 2 53 cassandra 1 41 sql-server-2008 7 49 sql-server-2000 1 8 compatibility-level 1 9 clustering 3 50 failover 2 10 msdtc 1 4 oracle-11g-r2 1 5 windows 1 5 join 4 76 group-by 1 4 reporting 2 10 transactional-replication 1 6 availability-groups 3 17 permissions 2 11 sql-server-agent 1 6 t-sql 12 75 security 3 16 vendor-support 1 8 best-practices 1 5 jobs 1 12 sqlcmd 1 10 linked-server 2 10 error-log 1 7 collation 1 4 unicode 1 4 distributed-transactions 1 6 database-design 4 74 foreign-key 1 12 index 3 37 sql-server-2014 14 116 computed-column 1 21 filtered-index 1 21 performance 7 86 insert 1 5 transaction-log 3 24 sequence 1 4 oracle 2 10 primary-key 2 29 constraint 2 10 ssms 2 12 sql-server-express 1 12 transaction 3 25 rollback 1 7 connectivity 1 7 exists 1 58 dmv 1 5 index-tuning 3 45 where 1 5 update 3 24 mysql 6 41 alias 1 5 connections 1 31 query-performance 6 90 optimization 3 20 string-manipulation 1 4 stored-procedures 3 27 active-directory 1 5 cte 2 15 pivot 1 6 tempdb 1 5 concat 1 7 cardinality-estimates 2 17 datetime 1 23 plan-cache 1 5 postgresql 2 10 memory 1 13 database-internals 2 29 buffer-pool 1 13 sorting 1 7 postgresql-9.4 1 5 subquery 1 5 sqlalchemy 1 5 vmware 2 51 hardware 1 40 view 1 7 type-conversion 1 7 maintenance 1 13 scalability 1 80 azure-vm 1 80 sql-server-2016 5 40 always-encrypted 1 4 sql-server-2017 1 6 performance-tuning 1 6 delete 1 6 blocking 1 15 network 1 4 ola-hallengren 1 4 data-validation 1 5 ssis 1 8 command-line 1 8 mysql-5.6 1 9 merge 1 4 msdb 1 5 recursive 1 5 disk-space 1 8 logs 1 8 powershell 1 5 windows-server-2012 1 5 varchar 1 15 unique-constraint 1 16 enterprise-edition 1 8 table-variable 1 8
+33226 sql-server-2008 1 10 t-sql 1 10
+24327 sql-server-2008 1 4 t-sql 1 4 sql-server-2012 1 4 locking 1 4 execution-plan 1 4 sql-server 1 7 sql-server-2008-r2 1 7
+47722 sql-server-2008 1 5 t-sql 1 5
+92554 sql-server 1 22 scripting 1 22
+84013 mysql 1 13 linux 1 13 command-line 1 13
+9803 sql-server 1 11 oracle 1 11 migration 1 11 syntax 1 11
+9164 sql-server 1 7 sql-server-2008-r2 1 7
+64493 postgresql 1 4 performance 1 4 disk-space 1 4 postgresql-performance 1 4 size 1 4
+3296 mysql 1 11
+7482 mysql 1 5
+11178 sql-server-2008 1 5 stored-procedures 1 5 ssms 1 5
+63684 sql-server-2008 1 16 stored-procedures 1 16 ssms 1 16
+111311 mysql 1 4 innodb 1 4 select 1 4
+10144 sql-server 1 7 sql-server-2008-r2 1 7 network 1 7
+36983 mysql 1 38 index 1 38 if-not-exists 1 38
+11651 mysql 13 124 database-design 2 28 innodb 4 51 schema 2 28 foreign-key 1 4 database-recommendation 1 24 normalization 1 24 my.cnf 1 5 amazon-rds 2 26 aws 1 6 backup 2 17 permissions 1 7 mysqldump 2 17 performance 1 4 replication 2 17 slow-log 1 8 authentication 1 6 index 1 19 optimization 1 19 explain 1 19 buffer-pool 1 18 mysql-5.6 1 10 postgresql 1 4 transaction 1 4
+11537 sql-server 16 117 query-performance 1 5 ssms 1 5 execution-plan 5 37 sql-server-2008-r2 1 4 sql-server-2008 1 6 computed-column 1 6 bookmark-lookup 1 6 sql-server-2014 2 30 columnstore 1 15 azure-sql-database 1 4 database-diagrams 1 4 sql-server-2005 1 4 sql-server-2012 1 4 memory-grant 1 5 t-sql 2 12 type-conversion 1 8 string 1 8 decimal 1 8 xml 3 13 xquery 1 5 data-warehouse 1 4 windows-server-2012 1 4 sql-server-2016 2 8 performance 1 13 powershell 1 13 smo 1 13 alter-database 1 13 optimization 1 10 convert 1 4 audit 1 4 dimension 1 4 slowly-changing-dimension 1 4
+13032 postgresql 1 9 postgresql-9.1 1 9
+49126 postgresql 1 5 postgresql-9.1 1 5
+12878 sql-server 2 16 t-sql 1 10 transaction 1 10 rollback 1 10 sql-server-2012 1 6 database-tuning-advisor 1 6
+72776 sql-server 1 6 t-sql 1 6 transaction 1 6 rollback 1 6
+12938 oracle 1 8 metadata 1 8 documentation 1 8
+1288 sql-server 1 5 command-line 1 5 scripting 1 5 smo 1 5
+10562 sql-server 2 16 command-line 1 7 scripting 2 16 smo 1 7
+13241 oracle 1 4 linux 1 4
+7342 sql-server 1 10 sql-server-2012 1 10 ssms 1 10
+26618 sql-server 1 4 sql-server-2012 1 4 ssms 1 4
+13097 database-design 1 5 postgresql 1 5 index-tuning 1 5 clustered-index 1 5 referential-integrity 1 5
+13131 sql-server 1 5 sql-server-2008 1 5 index-tuning 1 5
+11525 oracle 1 5
+11255 mysql 1 4 database-design 1 4
+11063 sql-server 1 9 security 1 9
+8834 sql-server 2 10 security 1 5 sql-server-2008 1 5 aggregate 1 5 window-functions 1 5
+13096 postgresql 1 6 psql 1 6
+14504 sql-server-2008 1 4 entity-framework 1 4 orm 1 4 troubleshooting 1 4 sql-server-2008-r2 1 5
+13185 mysql 1 11 performance 1 11 innodb 1 11 deadlock 1 11 insert 1 11
+15876 mysql 1 8 performance 1 8 innodb 1 8 deadlock 1 8 insert 1 8
+12792 sql-server 1 44
+121096 sql-server 1 7
+8514 sql-server 2 8 sql-server-2008-r2 2 8 replication 1 4 ddl 1 4 rollback 1 4 oracle 1 5 constraint 1 5 alter-table 1 5 default-value 1 5
+13268 sql-server 1 6 sql-server-2008-r2 1 6 replication 1 6
+15375 sql-server 1 4 sql-server-2008-r2 2 8 index-tuning 1 4 ssms 1 4 execution-plan 1 4
+45849 sql-server 1 5 sql-server-2008 1 5 sql-server-2005 1 5 sql-server-2008-r2 1 5 information-schema 1 5
+14562 sql-server 1 6 query 1 6 query-performance 1 6 query-refactor 1 6
+13101 sql-server 4 27 query-performance 1 10 count 1 10 netezza 1 10 sql-server-2008-r2 1 6 security 1 6 xp-cmdshell 1 6 hardware 1 7 sql-server-2012 1 4 clustering 1 4 failover 1 4 msdtc 1 4
+35657 mysql 1 6 innodb 1 6
+13073 sql-server 2 17 mysql 1 11 oracle 1 11 postgresql 1 11 sqlite 1 11 database-design 1 9 sql-server-2008 2 9
+14867 oracle 1 4 windows 1 4 enterprise-manager 1 4
+1379 oracle 1 6 windows 1 6 enterprise-manager 1 6
+2808 mysql 1 7 pivot 1 7 oracle 2 26 index 1 5 physical-design 1 5 postgresql 1 12 sqlite 1 118
+9332 mysql 1 8 pivot 1 8
+15091 oracle 1 12
+72635 oracle 1 6
+44223 postgresql 1 23
+106724 postgresql 1 9
+11588 mysql 2 9 database-design 2 12 constraint 1 5 referential-integrity 1 5 sql-server-2012 2 21 sql-server 1 7 auto-increment 1 7 identity 1 7 update 1 4
+60187 sql-server-2012 1 7
+14907 postgresql 2 13 index 1 6 query-performance 1 6 sql-server 6 66 sql-server-2005 2 23 utc-time 1 18 timezone 1 18 sql-server-2008-r2 4 28 ssms 2 19 profiler 1 13 sql-server-express 1 13 database-design 2 16 relational-division 1 7 execution-plan 1 6 exception 1 5 sql-server-2012 1 21 locking 1 5 ssrs 1 5 t-sql 1 6 ddl 1 4 rollback 1 4 sql-server-2008 1 5 upgrade 1 5
+24164 mysql 1 13 myisam 1 13 mariadb 1 13 truncate 1 13
+37889 sql-server 2 20 sql-server-2005 1 15 utc-time 1 15 timezone 2 20 sql-server-2008 1 5
+52543 sql-server 1 12 sql-server-2005 1 12 utc-time 1 12 timezone 1 12
+6171 sql-server 1 4 sql-server-2005 1 4 utc-time 1 4 timezone 1 4
+29178 sql-server 1 7 sql-server-2008-r2 1 7 ssms 1 7 profiler 1 7 sql-server-express 1 7
+12707 oracle 1 11
+15163 sql-server 1 9 sql-server-2005 1 9
+1896 sql-server 2 14 clustered-index 1 9 heap 1 9 sql-server-2008 1 11 database-design 1 11 primary-key 1 11 identity 1 11 composite-types 1 11 sql-server-2012 1 5 select 1 5
+64142 sql-server 1 5 clustered-index 1 5 heap 1 5
+12818 sql-server 7 76 ssms 1 9 sql-server-2012 1 14 migration 1 14 upgrade 1 14 ssrs 2 23 sql-server-2005 2 12 backup 2 12 mysql 1 5 query-performance 1 5 join 1 5 scalability 1 5 performance 2 17 locking 1 8 rdbms 1 8 sql-server-2008 1 6 timezone 1 6 isolation-level 1 25 configuration 1 25 sql-server-2008-r2 1 9 hardware 1 9 disk-space 1 5 shrink 1 5 database-design 1 16 normalization 1 16 distributed-transactions 1 16
+90146 sql-server 1 12 ssms 1 12
+11383 sql-server-2008 1 4
+15718 postgresql 1 16 index 1 16 java 1 16 postgresql-9.1 1 16 performance-tuning 1 16
+48785 sql-server 1 4 sql-server-2008 1 4
+94025 postgresql 1 4 tablespaces 1 4 postgresql-9.1 1 4
+15427 t-sql 1 4 sql-server 2 12 sql-server-2012 1 4 ssms 1 4 sql-server-2005 1 8 string-searching 1 8
+8360 mysql 1 4 update 1 4 sql-server-2008 1 4 permissions 1 4
+14988 sql-server 1 7 memory 1 7 ssas 1 7
+5103 sql-server-2008 1 4
+29401 sql-server 1 5 sql-server-2008-r2 1 5 transaction-log 1 5 alter-table 1 5 null 1 5
+7611 sql-server 9 101 sql-server-2008 3 41 disk-space 1 23 transaction-log 2 16 sql-server-2012 3 26 query 1 4 backup 2 11 restore 1 6 security 1 6 logs 1 5 ssms 2 16 scripting 1 8 sql-server-2008-r2 1 8 encryption 1 8 information-schema 1 8 dmv 1 8 attach 1 8
+93384 sql-server 2 13 sql-server-2008 1 7 disk-space 1 7 compression 1 6
+15781 sql-server 1 25 errors 1 25 logins 1 25
+4790 sql-server 1 4 errors 1 4 logins 1 4
+14857 ms-access 1 5
+118736 postgresql 1 6 windows 1 6 permissions 1 6
+15698 oracle 1 14 constraint 1 14 alter-table 1 14 default-value 1 14
+26006 sql-server 5 53 transaction-log 2 34 shrink 1 27 auto-growth 1 27 recovery-model 1 27 recovery 1 7 ssms 1 7 sql-server-2008-r2 1 7
+128145 sql-server 3 15 transaction-log 1 5 shrink 1 5 auto-growth 1 5 recovery-model 1 5 performance 1 4 index 1 4 fragmentation 1 4 index-maintenance 1 4
+14533 sql-server 1 6 sql-server-2012 1 6 availability-groups 1 6 logins 1 6
+41145 postgresql 1 8
+72070 postgresql 4 34 postgresql-9.1 1 18 query-performance 1 6 view 1 6 query-optimization 1 6 permissions 1 6 foreign-key 1 4 metadata 1 4 postgresql-10 1 4
+4844 sql-server 2 15 performance 1 11 sql-server-2008-r2 1 4 optimization 1 4 bulk 1 4 import 1 4
+16181 sql-server 1 7 sql-server-2012 1 7 sql-server-localdb 1 7
+6819 sql-server 9 74 sql-server-2008 1 15 deadlock 1 15 corruption 1 6 materialized-view 3 29 dbcc-checkdb 1 6 clustered-index 2 12 t-sql 1 7 null 1 7 performance 1 8 insert 1 8 nonclustered-index 1 8 index 1 19 query-performance 1 19 sql-server-2012 1 4 backup 2 9 sql-server-2014 1 4 database-design 1 4 performance-tuning 1 4 spatial 1 4
+3698 sql-server 1 4 sql-server-2008 1 4 deadlock 1 4
+38839 postgresql 1 7 replication 1 7
+92585 postgresql 1 4 replication 1 4
+16386 sql-server 1 5 sql-server-2005 1 5 service-broker 1 5
+33955 postgresql 1 12 replication 1 12 backup 1 12
+16341 sql-server-2008-r2 1 4 query-performance 1 4 filtered-index 1 4
+931 sql-server 3 45 sql-server-2012 2 25 execution-plan 1 10 xml 1 10 database-internals 1 10 sql-server-2000 1 15 trigger 1 20 performance-tuning 1 20
+15011 sql-server 3 39 sql-server-agent 1 7 windows-server 1 7 scheduled-tasks 1 7 sql-server-2008-r2 1 17 etl 1 17 except 1 17 sql-server-2012 1 15 sequence 1 15 database-design 1 10 database-recommendation 1 10 mongodb 1 10 nosql 1 10
+16497 sql-server 1 4
+16496 sql-server 1 4
+6977 sql-server-express 1 8
+3481 sql-server-2008-r2 1 7 jobs 1 7 sql-server 1 5 sql-server-2008 1 5 locking 1 5
+169074 sql-server-2008-r2 1 6 jobs 1 6
+3460 sql-server 1 11 transaction-log 1 11 recovery 1 11
+16721 sql-server 1 13
+143145 sql-server 1 4
+16115 t-sql 1 4 group-by 1 4
+10721 mysql 1 13 innodb 1 13
+16950 mysql 1 5 performance 1 5 innodb 1 5 myisam 1 5
+13362 mysql 1 6 performance 1 6 innodb 1 6 myisam 1 6
+9210 sql-server 1 4 terminology 1 4 row 1 4 record 1 4
+15518 sql-server 1 9 terminology 1 9 row 1 9 record 1 9
+92406 sql-server 1 5 terminology 1 5 row 1 5 record 1 5
+58071 mysql 1 6 innodb 1 6 profiler 1 6
+6294 sql-server 1 4 azure-sql-database 1 4
+5125 sql-server 2 12 azure-sql-database 1 4 sql-server-2012 1 8 ssis 1 8
+18266 postgresql 1 34 permissions 1 34
+18429 postgresql 1 30 join 1 30 select 1 30
+19152 performance 1 5 mongodb 1 5 amazon-ec2 1 5
+22162 sql-server 1 17 sql-server-2008 1 17
+127725 sql-server 1 11 sql-server-2008 1 11
+4903 sql-server 1 16 sql-server-2008 1 16 restore 1 16
+24862 sql-server 1 11 sql-server-2008 1 11 restore 1 11
+57177 sql-server 1 4 sql-server-2008 1 4 restore 1 4
+3568 aggregate 1 17 sql-standard 1 17
+3020 performance 1 13 optimization 2 33 sql-server 17 149 security 2 12 export 1 6 sql-server-2012 4 44 logins 1 5 system-tables 1 5 execution-plan 1 20 date 1 14 date-format 1 14 backup 1 4 t-sql 3 22 stored-procedures 1 6 oracle 1 5 snapshot 1 12 audit 1 5 standard-edition 1 5 database-mail 1 12 sql-server-2008-r2 1 10 sql-server-2008 2 15 order-by 1 6 distinct 1 6
+18695 postgresql 1 54 best-practices 1 54 postgresql-9.1 1 54
+46027 postgresql 1 18 best-practices 1 18 postgresql-9.1 1 18
+92616 postgresql 1 20 best-practices 1 20 postgresql-9.1 1 20
+32281 sql-server 57 829 restore 1 16 migration 1 16 log-shipping 1 16 mirroring 1 16 sql-server-2012 6 41 index 4 27 t-sql 14 168 aggregate 2 32 concat 1 8 oracle 1 6 plsql 1 6 datatypes 2 28 unicode 1 4 sql-server-2008 2 13 locking 1 6 performance 6 151 clustering 1 11 vmware 1 11 hardware 1 11 sql-server-2008-r2 5 88 delete 1 10 truncate 1 10 query-performance 6 145 window-functions 2 25 execution-plan 4 161 transaction 1 6 isolation-level 2 22 stored-procedures 2 15 temporary-tables 1 10 trigger 1 11 collation 1 11 ddl 1 11 sql-server-2017 3 86 join 2 13 group-by 1 7 sql-server-2014 4 40 backup 2 19 sql-server-2016 6 50 transaction-log 1 4 maintenance 1 4 feature-comparison 1 32 windows-server-2008-r2 1 55 select 1 10 index-tuning 2 41 nonclustered-index 1 5 hierarchy 1 6 ssms 2 47 computed-column 1 7 parameter-sniffing 1 88 xml 2 15 xquery 2 15 pattern-matching 1 4 string-searching 1 4 cte 1 21 sparse-column 1 4 number-formatting 1 15 date 1 4 alias 1 4 partitioning 1 5 cardinality-estimates 1 5 configuration 1 13 maxdop 1 13 deadlock 1 4 performance-tuning 2 37 parallelism 1 11 functions 1 11 count 1 18 storage 1 26 dynamic-sql 2 17 sql-injection 1 13 ola-hallengren 1 15 compression 1 15 unique-constraint 1 8 duplication 1 8 sql-server-2019 1 8 automation 1 4 serialization 1 16
+34430 sql-server-2012 1 6 change-data-capture 1 6
+50676 sql-server 1 25 sql-server-2008-r2 1 25
+18810 postgresql 1 5 postgresql-9.2 1 5 pgbouncer 1 5
+18936 sql-server 1 7 sql-server-2008-r2 1 7 etl 1 7 except 1 7
+18767 sql-server 2 13 sql-server-2008-r2 1 8 etl 1 8 except 1 8 sql-server-2005 1 5
+2814 sql-server 2 17 sql-server-2005 1 13 sql-server-2008 1 4 t-sql 1 4 subquery 1 4
+18943 sql-server 1 4 sql-server-2005 1 4
+1542 oracle-11g-r2 1 4
+34681 mysql 2 143 innodb 1 4 transaction 1 4 postgresql 1 5 database-design 1 5 normalization 1 5 dimensional-modeling 1 5 mysql-5.5 1 139 mysql-5 1 139
+6974 sql-server 11 140 sql-server-2005 1 8 stored-procedures 1 8 backup 1 5 sql-server-2008 5 50 transaction 1 9 troubleshooting 1 9 aggregate 1 9 window-functions 1 9 sql-server-2008-r2 2 57 t-sql 2 11 sql-server-2012 4 45 trigger 1 4 update 1 4 security 1 5 permissions 1 5 partitioning 1 53 performance-testing 1 18 surrogate-key 1 18 natural-key 1 18 database-design 1 5 primary-key 1 5 identity 1 5 composite-types 1 5 dynamic-sql 1 5
+103630 sql-server 1 4 sql-server-2005 1 4 users 1 4
+20364 mysql 1 8 backup 1 8 mysqldump 1 8
+27049 mysql 1 15 backup 1 15 mysqldump 1 15
+136496 sql-server 1 4 security 1 4 logins 1 4
+3912 sql-server 1 7
+59981 sql-server-2008 1 4 compression 1 4
+15287 postgresql 1 7 permissions 1 7 postgresql-9.2 1 7
+18625 postgresql 2 14 maintenance 1 4 vacuum 1 4 physical-design 1 10
+19117 postgresql 1 12 maintenance 1 12 vacuum 1 12
+783 sql-server 1 7 performance 1 7 query-performance 1 7 memory 1 7 cache 1 7
+6816 sql-server 1 7 performance 1 7 query-performance 1 7 memory 1 7 cache 1 7
+12671 sql-server-2008 1 5
+20565 sql-server 1 8 performance 1 8 sql-server-2012 1 8
+20225 sql-server 39 365 t-sql 9 62 join 1 4 optimization 1 4 case 1 7 performance 1 6 query-performance 2 19 performance-tuning 1 6 users 2 12 primary-key 2 47 identity 1 20 database-mail 1 53 sql-server-2008-r2 7 37 stored-procedures 3 24 sql-server-2005 3 26 shrink 2 10 sql-server-2008 5 44 partitioning 1 5 sql-server-2014 4 22 in-memory-database 1 8 security 3 14 dbcc 1 5 role 1 5 database-design 3 27 constraint 1 8 null 2 15 unique-constraint 1 8 foreign-key 1 27 error-log 1 19 permissions 3 13 logins 1 5 configuration 1 10 testing 1 10 learning 1 10 features 1 10 memory 1 6 alter-table 1 4 drop-table 1 4 transaction-log 1 10 sql-server-2012 4 33 window-functions 1 13 collation 1 4 metadata 2 8 update 1 20 active-directory 2 8 denormalization 1 9 replace 1 5 upgrade 1 10 pivot 1 4 openrowset 1 8 backup 1 8 order-by 1 7
+53681 postgresql 1 12 index 1 12 functions 1 12 plpgsql 1 12 postgresql-8.4 1 12
+81574 mysql 1 18 index 1 18 full-text-search 1 18 varchar 1 18
+20877 sql-server 3 26 sql-server-2008 2 19 stored-procedures 2 19 version-control 1 14 source-control 1 14 sql-server-2005 1 5 information-schema 1 5
+46305 sql-server 1 17 varchar 1 17
+6783 sql-server 1 7
+12926 mysql 1 5 migration 1 5
+24549 sql-server 1 6 sql-server-2012 1 6 ssis 1 6
+40924 sql-server 1 7 configuration 1 7 maxdop 1 7
+153447 sql-server 1 4 configuration 1 4 maxdop 1 4
+21338 sql-server 1 6 deadlock 1 6
+138561 oracle 1 6 installation 1 6 ubuntu 1 6 startup 1 6
+81161 python 1 9 postgresql 1 9
+3687 python 1 4 postgresql 1 4
+21390 postgresql 1 34 permissions 1 34 sql-server-2005 1 4 ms-access 1 4
+21358 database-design 1 4 relational-theory 1 4 order-by 1 4 database-agnostic 1 4
+46021 database-design 1 7 relational-theory 1 7 order-by 1 7 database-agnostic 1 7
+44271 postgresql 1 8 foreign-key 1 8 primary-key 1 8 pgadmin 1 8
+154216 postgresql 1 4 foreign-key 1 4 primary-key 1 4 pgadmin 1 4
+94401 postgresql 1 27 performance 1 27 delete 1 27 postgresql-9.2 1 27
+134138 postgresql 1 8 performance 1 8 delete 1 8 postgresql-9.2 1 8
+29183 postgresql 1 12 performance 1 12 delete 1 12 postgresql-9.2 1 12
+93658 sql-server 1 4 sql-server-2008 1 4 output-clause 1 4
+21452 sql-server 1 5 sql-server-2008 1 5
+2598 java 1 5 oracle 1 5
+21083 java 1 4 oracle 2 10 database-design 1 17 postgresql 1 6 select 1 6 null 1 6 dynamic-sql 1 6
+4653 sql-server 1 5 backup 1 5 sql-server-2012 1 5
+7933 sql-server 1 5 mongodb 1 5 nosql 1 5 rdbms 1 5 cassandra 1 5
+10079 mysql 1 4
+1782 sql-server 2 13 sql-server-2012 1 7 index 1 7
+15833 sql-server 1 10 execution-plan 1 10 union 1 10 database-internals 1 10
+7863 sql-server 1 4 sql-server-2012 1 4 security 1 4 uniqueidentifier 1 4 cryptography 1 4
+27899 sql-server 1 4 sql-server-2012 1 4 security 1 4 uniqueidentifier 1 4 cryptography 1 4
+21777 join 1 16 select 1 16 sql-server 1 6 sql-server-2005 1 6 temporary-tables 1 6 oracle 1 4 dynamic-sql 1 4
+22206 join 1 21 select 1 21
+39278 join 2 11 select 2 9 mysql 7 39 relational-theory 1 5 postgresql 3 15 primary-key 1 7 unique-constraint 1 7 sql-server 8 71 sql-server-2014 1 5 query-performance 1 4 postgresql-9.4 2 8 postgresql-performance 1 4 alias 1 4 db2 1 6 sequence 1 6 oracle 1 5 foreign-key 1 5 oracle-11g 1 5 group-by 2 14 query 1 9 errors 1 9 greatest-n-per-group 2 9 dbms 1 13 sql-server-2016 1 12 order-by 1 4 condition 1 4 mysql-5.6 1 9 datatypes 1 9 union 1 9 decimal 1 9 t-sql 2 32 index 1 6 clustered-index 1 6 nonclustered-index 1 6 aggregate 1 8 mysql-5.7 1 8 index-tuning 1 26 sql-server-2017 1 26 count 1 6 window-functions 1 6 sql-server-2008 1 4 subquery 1 4 cte 1 4
+23221 sql-server 1 12 sql-server-2008 1 12 timezone 1 12
+63738 sql-server 1 5 sql-server-2012 1 5 sql-server-2000 1 5 linked-server 1 5
+22703 postgresql 1 5 index 1 5 optimization 1 5 postgresql-9.1 1 5 explain 1 5
+267 postgresql 1 5
+75736 sql-server 1 12 execution-plan 1 12 azure-sql-database 1 12
+15077 sql-server-2008 1 4 database-design 1 4 t-sql 1 4 insert 1 4 update 1 4 sql-server 3 28 isolation-level 1 15 configuration 1 15 sql-server-2012 1 6 aggregate 1 6 count 1 6
+22403 database-design 1 5
+18697 database-design 1 9
+15583 database-design 1 8
+22530 sql-server 1 6 database-design 1 6
+5740 sql-server 1 4 database-design 1 4
+15778 postgresql 1 254 schema 1 254 postgresql-9.1 1 254
+33090 postgresql 1 38 schema 1 38 postgresql-9.1 1 38
+22681 mysql 1 4
+22680 mysql 1 5
+8791 sql-server 4 79 performance 2 24 database-design 1 34 azure-sql-database 1 34 sql-server-2012 1 21 sql-server-2008 1 7
+22701 sql-server 1 9 performance 1 9
+24764 mysql 1 4
+22778 mysql 1 5
+9119 sql-server 1 7 sql-server-2008 1 7
+115924 sql-server 1 4 sql-server-2008 1 4
+1759 mysql 1 7 database-design 1 7
+15410 sql-server 2 10 sql-server-2008-r2 1 4 locking 1 4 sql-server-2008 1 6 disk-space 1 6
+103070 sqlite 1 12
+109576 sqlite 1 11
+105863 sql-server 1 4 isolation-level 1 4 configuration 1 4
+23076 sql-server 3 24 sql-server-2008 1 9 transaction-log 1 10 dbcc 1 10 database-size 1 10 shrink 1 10 maintenance-plans 1 5
+23051 sql-server 1 4
+38125 sql-server 1 7
+21372 sql-server 1 12 transaction-log 1 12 dbcc 1 12 database-size 1 12 shrink 1 12
+5200 sql-server 1 4 sql-server-2008 1 4 performance 1 4
+9950 sql-server 1 8 optimization 1 8 sql-server-2008-r2 1 8 null 1 25 database-agnostic 1 25
+22673 mysql 2 9 performance 1 5 innodb 2 9 sql-server 1 11 sql-server-2012 1 11 collation 1 11 db2 1 9 backup 1 9 mysql-5.6 1 4 recovery 1 4 mysqlbinlog 1 4
+14774 database-design 1 5
+9616 database-design 2 14
+21731 db2 1 9 maintenance 1 9 database-size 1 9 db2-luw 1 9 size 1 9
+410 db2 1 4 backup 1 4
+23159 mysql 2 33 slow-log 1 4 mysqldump 1 29
+1295 sql-server 4 18 sql-server-2005 2 10 performance 1 6 index 1 6 execution-plan 1 6 sql-server-2008 2 8 shrink 1 4 sql-server-2008-r2 2 12 jobs 1 4 compression 1 8 backup 1 8
+15143 sql-server 1 5 sql-server-2005 1 5 performance 1 5 index 1 5 execution-plan 1 5
+34177 sql-server 1 5 sql-server-2008 1 5 sql-server-2005 1 5 sql-server-2000 1 5 linked-server 1 5
+21924 sql-server 5 71 t-sql 1 46 case 1 46 sql-server-2012 1 4 transaction-log 3 18 security 1 7 best-practices 1 7 sql-server-2008 1 8 backup 1 8 log 1 8 tempdb 1 6
+24404 sql-server 1 5 database-design 1 5 merge-replication 1 5
+11530 sql-server 1 4 sql-server-2012 1 4
+3174 index 1 6 rdbms 1 6
+18400 index 1 13 rdbms 1 13
+8270 index 1 10 rdbms 1 10 sql-server 1 6 restore 1 6
+9405 mysql 1 11 phpmyadmin 1 11 auto-increment 1 11
+107033 postgresql 1 21 jobs 1 21 scheduled-tasks 1 21
+2542 postgresql 1 27
+81559 postgresql 1 14
+3071 sql-server 1 4 sql-server-2008-r2 1 4 jobs 1 4
+24969 sql-server 1 7 performance 1 7 query-performance 1 7
+36438 postgresql 1 34 vacuum 1 34
+1193 sql-server 1 7 performance 1 7
+21684 mysql 1 16
+74250 mysql 1 4
+4124 sql-server 1 9 sql-server-2012 1 9 sql-server-agent 1 9 availability-groups 1 9
+72529 sql-server 2 22 sql-server-2012 1 14 sql-server-agent 1 14 availability-groups 1 14 sql-server-2014 1 8 archive 1 8 vldb 1 8
+20535 sql-server-2008-r2 1 8
+27041 postgresql 1 5
+25608 sql-server 1 13 ssas 1 13 business-intelligence 1 13
+25615 mysql 1 7 replication 1 7 mysql-5.5 1 7
+9486 sql-server 1 8 database-design 1 8 sql-server-2005 1 8 performance 1 8 index-tuning 1 8
+78230 sql-server 1 12 sql-server-2008-r2 1 12 backup 1 12 transaction-log 1 12
+25098 sql-server 2 12 sql-server-2008-r2 1 5 restore 1 5 snapshot 1 5
+19046 postgresql 1 4 primary-key 1 4 constraint 1 4 postgresql-9.2 1 4
+154112 postgresql 1 5 primary-key 1 5 constraint 1 5 postgresql-9.2 1 5
+25871 mysql 1 16 join 1 16 select 1 16 foreign-key 1 16
+16074 mysql 1 6 join 1 6 select 1 6 foreign-key 1 6
+25674 sql-server 1 5 full-text-search 1 5 installation 1 5 sql-server-2008-r2 1 5
+10769 sql-server 1 4 sql-server-2008-r2 1 4
+133160 oracle 1 4 greatest-n-per-group 1 4
+25917 sql-server 1 4 sql-server-2008-r2 1 4
+107078 sql-server 1 4 profiler 1 4
+45954 mysql 1 5 binlog 1 5 mysqlbinlog 1 5
+272 sql-server 1 26 database-mail 1 26
+65964 sql-server 1 13 database-mail 1 13
+24131 postgresql 2 12 sql-server 1 5 sql-server-2012 1 5 ssms 1 5 pgadmin 1 4
+26533 sql-server-2008 1 5
+2561 sql-server-2008 1 4
+27816 sql-server 1 16 backup 1 16 ssms 1 16
+7118 sql-server 1 5 backup 1 5 ssms 1 5
+52054 sql-server 1 40 backup 1 40 ssms 1 40
+51618 sql-server 1 6 sql-server-2008-r2 1 6 memory 1 6
+2291 sql-server 1 5 sql-server-2008-r2 1 5
+44779 mysql 1 8 authentication 1 8
+9622 mysql 1 6 authentication 1 6
+22471 mysql 1 5
+45437 mysql 1 14 innodb 1 14 windows 1 14 linux 1 14 mysql-5.6 1 14
+26626 sql-server 15 127 sql-server-2008-r2 2 9 backup 2 11 restore 1 5 sql-server-2008 3 17 transaction-log 2 11 logins 1 4 t-sql 1 4 delete 1 4 jobs 1 4 sql-server-2012 2 54 select 1 50 clustered-index 2 9 foreign-key 1 9 update 2 15 referential-integrity 1 9 varchar 1 4 maintenance 1 10 ssis 1 5 sql-server-2014 2 9 memory 1 5 ssis-2014 1 5 sql-server-2005 2 11 mysql 1 6 order-by 1 6 linked-server 1 4 transaction 1 4 rollback 1 4 connectivity 1 4 replication 1 4 transactional-replication 1 4 index 2 10 query-performance 1 6 optimization 1 4 statistics 1 4 constraint 1 5 terminology 1 5 data-integrity 1 5 consistency 1 5
+41022 sql-server 1 18 sql-server-2008-r2 1 18 azure-sql-database 1 18 entity-framework 1 18
+90504 sql-server 1 9 sql-server-2008-r2 1 9 azure-sql-database 1 9 entity-framework 1 9
+71119 sql-server 1 15 sql-server-2012 1 15 ssms 1 15
+47327 sql-server 1 7 sql-server-2012 1 7 ssms 1 7
+112344 sql-server 1 4 sql-server-2012 1 4 ssms 1 4
+26764 sql-server 1 7 performance 1 7 sql-server-2008-r2 1 7 trace 1 7 maintenance 1 7
+160746 sql-server 1 5 index 1 5 sql-server-2012 1 5 index-tuning 1 5 statistics 1 5
+26481 sql-server 1 6
+761 sql-server 1 5 stored-procedures 1 5 query-performance 1 5 t-sql 1 5 performance-tuning 1 5
+18944 mysql 2 17 select 1 4 insert 1 4 database-internals 1 13
+25478 oracle 1 4 postgresql 1 4
+11386 oracle 1 4 postgresql 1 4
+27070 mysql 3 13 database-internals 1 4 performance 1 5 index 1 5 join 1 5 order-by 1 5 pivot 1 4
+28773 database-design 1 6 primary-key 1 6
+28775 mysql 1 7 mysqldump 1 7
+28533 sql-server 1 10 sql-server-2012 1 10 performance-testing 1 10 surrogate-key 1 10 natural-key 1 10
+4511 sql-server 1 4 index 1 4 fill-factor 1 4
+22315 sql-server 2 8 index 1 4 fill-factor 1 4 mysql-5.1 1 45 database-design 1 12 storage 1 12 sql-server-2014 1 4 dynamic-sql 1 4 filegroups 1 4 database-size 1 4
+6586 sql-server 1 6 sql-server-2008-r2 1 6 sqlcmd 1 6
+28938 oracle-11g-r2 1 6 windows 1 6
+36333 postgresql 1 6 postgresql-9.3 1 6
+71751 postgresql 1 16 postgresql-9.3 1 16
+102781 sql-server 1 8 datatypes 1 8 date 1 8 time 1 8 datetime2 1 8
+36809 sql-server 20 156 datatypes 2 13 date 1 5 time 1 5 datetime2 1 5 sql-server-2012 2 21 change-tracking 1 7 mysql 3 48 performance 1 33 select 1 33 database-design 9 86 index 1 18 sql-server-2014 1 18 alter-table 1 18 memory-optimized-tables 1 18 unique-constraint 2 18 sql-server-2008-r2 2 8 join 2 16 replication 1 4 normalization 2 29 best-practices 4 48 address 1 10 null 1 4 database-agnostic 3 18 date-format 2 14 mongodb 1 8 nosql 1 8 transaction 1 14 foreign-key 2 29 primary-key 1 10 index-tuning 1 4 sql-server-2016 2 14 temporary-tables 1 4 query-store 1 4 cte 1 4 naming-convention 1 9 sharding 1 5 scalability 1 5 multi-tenant 1 5 optimization 2 10 execution-plan 1 5 union 1 5 database-internals 1 5 constraint 1 19 query-performance 2 13 update 1 8 erd 1 5 t-sql 1 5 xml 1 9
+16399 sql-server-2012 2 13 testing 1 4 license 1 4 compatibility-level 1 9
+28620 sql-server 2 13 optimization 1 7 index-tuning 1 7 join 1 6
+21919 oracle 1 6 index 1 6
+29692 sql-server 1 4 backup 1 4 transaction-log 1 4 log 1 4
+24393 postgresql 1 7
+29453 mysql 1 5
+43529 postgresql 1 14 storage 1 14 ddl 1 14
+2837 mongodb 1 18
+30371 mongodb 1 9
+30790 mongodb 1 113
+119302 mongodb 1 4
+27058 oracle 1 5
+30273 oracle 1 22
+29459 postgresql 1 8 installation 1 8 upgrade 1 8 postgresql-9.3 1 8
+20299 postgresql 3 63 insert 1 5 plpgsql 1 5 functions 1 5 record 1 5 postgresql-9.1 1 28
+30255 oracle 1 10
+47784 oracle 1 4
+30431 mysql 1 13 performance 1 13 windows 1 13 database-tuning 1 13 temporary-tables 1 13
+18851 sql-server-2008-r2 1 13 query-performance 1 13
+1258 sql-server 1 7 sql-server-2008-r2 1 7 index 1 7 index-tuning 1 7
+28019 oracle 10 69 sqlplus 1 5 oracle-10g 1 16 delete 1 16 instance 1 16 memory 1 5 configuration 1 5 oracle-12c 2 15 security 1 4 plsql 3 30 cursors 1 5 automation 1 5 index 1 4 constraint 1 4 listener 1 4 recovery 1 7 oracle-11g 1 11
+33099 postgresql 1 8 postgresql-9.3 1 8 array 1 8 json 1 8
+77539 postgresql 1 16 postgresql-9.3 1 16 array 1 16 json 1 16
+29808 mysql 2 21 string-manipulation 1 16 join 1 5
+99275 mysql 1 4 string-manipulation 1 4
+16469 mysql 1 4 performance 1 4 architecture 1 4
+52618 mysql 1 9 innodb 1 9 mysql-5.5 1 9 mysql-5.6 1 9 mysql-5 1 9
+28367 mysql-5.1 1 5
+653 mysql-5.1 1 16 null 1 13 database-agnostic 1 13 mysql 1 7 constraint 1 7
+31714 postgresql 2 59 query-performance 1 49 parallelism 1 49
+56613 postgresql 1 8 query-performance 1 8 parallelism 1 8
+52107 postgresql 1 38 query-performance 1 38 parallelism 1 38
+31844 sql-server 1 15 sql-server-2005 1 15
+29098 sql-server 2 20 sql-server-2008 1 13 sql-server-2008-r2 2 20 ssis 1 13 dynamic-sql 1 7
+4946 postgresql 1 8 random 1 8
+31950 sql-server 1 5 mysql 1 5
+28854 oracle-10g 1 8 delete 1 8 instance 1 8
+31426 postgresql 2 24 view 1 8 postgresql-9.2 1 8
+21011 postgresql 1 14
+2135 postgresql 1 11
+32394 oracle 1 8 oracle-11g-r2 1 8 optimization 1 8
+3336 oracle 2 11 oracle-11g-r2 1 7 optimization 1 7
+8607 postgresql 1 17 view 1 17 materialized-view 1 17
+140644 postgresql 1 4 view 1 4 materialized-view 1 4
+1967 postgresql 1 6 vacuum 1 6
+3119 mysql 1 4 max-connections 1 4
+7867 mysql 1 5
+32915 mysql 1 4
+32949 sql-server 1 15 sql-server-2012 1 15
+31401 mysql 1 8 sql-server 1 7 stored-procedures 1 7 execution-plan 1 7
+1030 postgresql 1 9 view 1 9 postgresql-9.2 1 9
+72261 postgresql 1 5 windows 1 5 full-text-search 1 5
+16403 mysql 2 29 optimization 1 14 mysql-5.1 1 14
+123241 mysql 1 9
+33064 aggregate 1 4
+75427 postgresql 1 4
+33518 sql-server 1 6 sql-server-2008-r2 1 6 sql-server-2005 1 6 index 1 6
+3879 sql-server 1 4 sql-server-2008-r2 1 4 sql-server-2005 1 4 index 1 4
+107865 postgresql 1 17
+30647 mysql 1 11 myisam 1 11
+33863 database-design 1 4 design-pattern 1 4 polymorphic-associations 1 4
+48896 postgresql 1 36 psql 1 36
+60581 postgresql 1 30 psql 1 30
+122773 postgresql 1 10 psql 1 10
+33970 sql-server 2 14 security 1 8 export 1 8 backup 1 6 best-practices 1 6 ola-hallengren 1 6
+34451 postgresql 1 5 physical-design 1 5
+19079 postgresql 4 130 postgresql-9.3 1 13 materialized-view 1 13 postgresql-9.4 1 13 default-value 1 94 uuid 1 94 computed-column 1 4 pgadmin 1 7 mac-os-x 1 7 pgadmin-4 1 7
+159017 postgresql 1 11
+2295 sql-server 1 12 sql-server-2008-r2 1 12 dynamic-sql 1 12
+2006 database-design 1 4 primary-key 1 4
+16768 sql-server 1 15 t-sql 1 15 mysql 1 4 optimization 1 4 mysql-5.1 1 4
+30522 sql-server 2 8 mysql 1 4 mysql-5.5 1 4 query-performance 1 4 sql-server-2012 1 4 index 1 4
+33638 sql-server 14 207 sql-server-2012 1 4 index 4 39 ssms 1 5 t-sql 1 9 dmv 2 14 top 1 6 table 1 45 disk-space 1 8 stored-procedures 1 11 xml 1 11 database-mail 1 11 unicode 1 15 sql-server-2014 1 20 computed-column 1 20 filtered-index 1 20 permissions 1 36 role 1 36 sql-server-2008 1 29 trigger 1 29 hashing 1 5 query-performance 1 7 execution-plan 1 7
+34306 sql-server 1 4 index 1 4 query-performance 1 4 spatial 1 4
+35136 sql-server 2 81 sql-server-2008 1 26 mirroring 1 26 maintenance 1 26 ola-hallengren 1 26 sql-server-2008-r2 1 55 sqlcmd 1 55
+35249 sql-server 1 12 sql-server-2008 1 12 sql-server-2012 1 12
+73805 sql-server 1 8 sql-server-2008 1 8 sql-server-2012 1 8
+13162 sql-server-2012 1 5 compatibility-level 1 5
+76811 postgresql 1 7 postgresql-9.1 1 7
+33041 postgresql 1 4 index 1 4
+35264 postgresql 1 4 index 1 4 sql-server 1 6 security 1 6 connectivity 1 6 ssl 1 6
+26833 sql-server 1 6 performance 1 6
+22155 sql-server 1 17 performance 1 17
+34857 postgresql 13 102 index 2 11 query-performance 2 10 optimization 1 5 postgresql-9.3 3 19 pgadmin 1 8 vacuum 1 10 random 1 4 partitioning 1 6 index-tuning 3 17 postgresql-performance 1 6 database-design 1 4 pattern-matching 1 4 monitoring 1 4 statistics 1 4 postgresql-9.4 1 32 alter-table 1 32 blocking 1 32 terminology 2 10 stored-procedures 1 6 functions 1 6 sql-standard 1 6 postgresql-10 1 6 postgresql-9.6 1 5 paging 1 5
+9031 sql-server 3 54 transaction-log 1 6 tempdb 1 6 best-practices 1 10 collation 1 10
+35884 mysql 1 4 performance 1 4 mysql-5.5 1 4 ddl 1 4
+27215 mysql 1 4 performance 1 4 mysql-5.5 1 4 ddl 1 4
+36089 installation 1 5 sql-server-2012 1 5
+42379 installation 1 10 sql-server-2012 6 43 sql-server 26 170 backup 9 59 security 1 7 migration 1 4 truncate 1 6 permissions 1 5 sql-server-2008-r2 1 9 sql-server-2014 3 20 configuration 1 4 t-sql 2 10 buffer-pool 2 14 page-life-expectancy 1 5 sql-server-2008 2 16 index 1 10 dmv 1 10 best-practices 1 6 ola-hallengren 1 6 memory 2 18 performance 2 15 statistics 2 11 index-statistics 1 6 shrink 1 9 database-size 1 9 upgrade 1 4 service-pack 1 4 patching 1 4 restore 1 6 cache 1 9 sql-server-2017 2 13 recovery-model 1 8 snapshot 1 5
+105913 mysql 1 9 query-performance 1 9 execution-plan 1 9 postgresql 1 7 role 1 7 metadata 1 7
+53266 mysql 1 18 mysql-5.5 1 18 mysql-5 1 18
+8019 mysql 1 8 log 1 8
+36448 sql-server 1 9 sql-server-2008 1 9
+36529 sql-server 1 79 sql-server-2008 1 79
+139243 sql-server 1 8 sql-server-2008 1 8
+36483 database-design 1 6 storage 1 6
+36675 index 1 12
+28646 index 1 4
+74288 sql-server 1 8 sql-server-2012 1 8 change-tracking 1 8
+69223 mysql 6 41 stored-procedures 3 22 mysql-5.6 1 10 database-design 1 4 configuration 1 4 testing 1 4 learning 1 4 features 1 4 update 1 4 insert 1 4 trigger 1 8 datetime 2 13 date 1 8 null 1 8 concat 1 8 aggregate 1 6 greatest-n-per-group 1 6 timestamp 1 5 default-value 1 5
+29294 mysql 1 4 stored-procedures 1 4 mysql-5.6 1 4
+34662 mysql 1 9 windows 1 9
+51428 mysql 1 16 windows 1 16
+37160 mongodb 1 38
+113919 mongodb 1 14
+71655 mongodb 1 7
+37082 sql-server 1 6
+53241 sql-server 1 23 ssms 1 23 attach 1 23
+67946 sql-server 1 9 ssms 1 9 attach 1 9
+53021 postgresql 1 5 functions 1 5 aggregate 1 5 greatest-n-per-group 1 5
+118692 postgresql 1 6 functions 1 6 aggregate 1 6 greatest-n-per-group 1 6
+81265 mysql 1 4 mysql-5.1 1 4 change-data-capture 1 4 integration 1 4
+157018 mysql 1 4 mysql-5.1 1 4 change-data-capture 1 4 integration 1 4
+57444 sql-server-2012 1 10 maintenance-plans 1 10
+4782 oracle 1 5
+13023 constraint 1 6 postgresql-9.3 1 6 json 1 6
+38111 sql-server 4 23 sql-server-2012 1 8 t-sql 3 17 sql-server-2008-r2 1 4 clustered-index 1 6 identity 1 6
+41787 sql-server 1 7 sql-server-2014 1 7 azure-sql-database 1 7
+53385 sql-server 1 11 sql-server-2014 1 11 azure-sql-database 1 11
+71896 mysql 1 4 data-synchronization 1 4
+3353 terminology 1 31 fields 1 31
+38371 sql-server 2 26 t-sql 1 10 delete 1 10 jobs 1 10 sql-server-2008-r2 2 22
+26409 sql-server 7 147 authentication 1 106 logins 1 106 sql-server-2005 1 13 greatest-n-per-group 1 13 sql-server-2008-r2 1 12 dynamic-sql 1 12 sql-server-2014 1 4 pivot 1 4 query-performance 1 4 substring 1 4 sql-server-2012 1 4 ssrs 1 4 t-sql 1 4 unpivot 1 4
+38857 sql-server 3 32
+39476 sql-server 1 9
+48178 sql-server 1 9
+37954 mysql 1 10 postgresql 1 10 group-by 1 10 count 1 10
+38772 mysql 1 7 postgresql 1 7 group-by 1 7 count 1 7
+113903 postgresql 1 6 postgresql-9.3 1 6 alter-table 1 6
+53736 postgresql 1 10
+38456 postgresql 3 23 postgresql-9.3 1 6 functions 1 6 plpgsql 3 23 upsert 1 10 postgresql-9.5 1 7
+40889 postgresql 1 13 postgresql-9.3 1 13 functions 1 13 plpgsql 1 13
+40838 sql-server 1 23
+76787 sql-server 1 6 t-sql 1 6
+38309 oracle 1 5 oracle-11g-r2 1 5 oracle-10g 1 5
+1504 postgresql 1 46 database-design 1 46 datatypes 1 46
+39550 sql-server 1 5 clustered-index 1 5 identity 1 5
+30044 sql-server 1 9 oracle 1 9 oracle-11g-r2 1 9 oracle-sql-developer 1 9
+105702 sql-server 1 8 oracle 1 8 oracle-11g-r2 1 8 oracle-sql-developer 1 8
+37765 sql-server 3 31 sql-server-2012 1 13 transaction-log 1 13 shrink 1 13 recovery-model 1 13 installation 1 6 sql-server-2008-r2 1 6 sql-server-2008 1 5 trigger 1 5 insert 1 13 identity 1 13
+92382 sql-server 1 5 sql-server-2012 1 5 transaction-log 1 5 shrink 1 5 recovery-model 1 5
+2275 sql-server 1 5
+2334 sql-server 1 24 sql-server-2012 1 24 select 1 24
+25146 sql-server 8 54 sql-server-2008 2 10 log-shipping 1 7 sql-server-2012 2 14 foreign-key 1 4 update 1 4 referential-integrity 1 4 t-sql 2 19 greatest-n-per-group 1 11 stored-procedures 1 8 wait-types 1 4 availability-groups 1 10
+102955 postgresql 1 8 group-by 1 8 json 1 8 row 1 8
+56052 mysql 1 5 innodb 1 5
+43719 sql-server 1 9 performance 1 9 optimization 1 9
+28611 sql-server 4 26 performance 2 16 optimization 1 10 wait-types 1 5 sql-server-2012 1 5 ssms 1 5 connectivity 1 5 monitoring 1 6
+43823 mysql 1 19 innodb 1 19 mysql-5.6 1 19 recovery 1 19 mysqlbinlog 1 19
+43504 mysql 1 6 relational-theory 1 6
+41723 sql-server 14 216 t-sql 1 9 null 1 9 stored-procedures 1 12 datatypes 1 12 transaction 1 23 primary-key 1 23 hashing 1 6 availability-groups 5 36 data-warehouse 1 4 business-intelligence 1 4 dbcc-checkdb 2 17 columnstore 1 9 filegroups 1 9 read-only-database 1 9 upgrade 1 8 sql-server-2017 2 17 distributed-availability-groups 1 8 crash 1 28 backup 1 11 sql-server-2016 1 11 dynamic-data-masking 1 11 sql-server-2012 1 8 ola-hallengren 1 8 security 2 83 best-practices 2 83 dynamic-ports 1 68 performance 1 9 query-performance 1 9 dmv 1 6 sql-server-2014 1 7 clustering 1 7
+44216 postgresql 3 20 index 2 16 postgresql-9.3 3 20 query-performance 1 4 greatest-n-per-group 1 4
+113908 sql-server 1 11 parallelism 1 11 functions 1 11
+11397 query-performance 1 5 optimization 1 5 sqlite 1 5 sql-server 1 4 cte 1 4 recursive 1 4
+44522 mysql 1 7 performance 1 7 select 1 7
+30545 mysql 6 35 performance 1 8 innodb 2 16 import 1 8 logs 1 5 binlog 1 5 debian 1 5 mysql-5.5 2 15 foreign-key 1 8 postgresql 1 6 data-warehouse 1 6 olap 1 6 replication 2 8 delete 1 4 timestamp 1 7 date 1 7 default-value 1 7
+80290 mysql 1 42 logs 1 42 binlog 1 42 debian 1 42
+81130 mysql 1 7 logs 1 7 binlog 1 7 debian 1 7
+40918 sql-server 1 7 sql-server-2014 1 7 columnstore 1 7
+50697 sql-server 1 9 sql-server-2014 1 9 columnstore 1 9
+44760 sql-server 2 10 sql-server-2008-r2 1 5 security 1 5 log-shipping 1 5
+39138 sql-server 1 5 sql-server-2012 1 5 vendor-support 1 5
+44838 schema 1 4 normalization 1 4 sql-server 15 133 insert 2 31 inheritance 1 10 sql-server-2005 1 4 sql-server-2008 1 5 t-sql 3 20 xp-cmdshell 1 5 sql-server-2012 4 25 query-performance 8 81 optimization 2 12 cursors 1 6 database-design 1 14 replication 1 14 database-recommendation 1 14 relations 1 14 sql-server-2008-r2 3 45 performance-tuning 1 30 primary-key 1 13 auto-increment 1 13 identity 1 13 aggregate 1 5 window-functions 2 14 index 2 21 sql-server-2014 2 10 index-tuning 1 6 subquery 1 4 greatest-n-per-group 1 5 output-clause 1 21 execution-plan 1 9 sql-server-2016 1 4 except 1 4
+119425 sql-server 1 7 sql-server-2012 1 7 transaction-log 1 7 shrink 1 7
+45788 postgresql 1 4 order-by 1 4 sorting 1 4 natural-sort 1 4
+141925 postgresql 1 6 trigger 1 6
+65784 mysql 1 6 innodb 1 6 mysql-5.5 1 6 foreign-key 1 6
+11251 mysql 1 4 aggregate 1 4
+31936 postgresql 2 20 index 1 7 postgresql-9.3 1 7 index-statistics 1 7 locking 1 13 alter-table 1 13 waits 1 13
+46345 mysql 1 7 performance 1 7 innodb 1 7 myisam 1 7
+92852 mysql 1 9 postgresql 1 9
+46422 postgresql 1 43
+75647 postgresql 1 12
+115676 postgresql 1 6
+123247 postgresql 1 59
+153222 postgresql 1 15
+71506 mysql 1 6 innodb 1 6 myisam 1 6 mysql-5.6 1 6
+39132 mysql 1 6 innodb 1 6 select 1 6 count 1 6
+46964 postgresql 1 4 index 1 4 foreign-key 1 4 pgadmin 1 4
+47075 sql-server 1 4
+37398 mysql 3 16 amazon-rds 2 11 amazon-ec2 1 7 linux 1 7 alter-table 1 4 errors 1 4 performance-tuning 1 5
+38841 replication 2 23 backup 2 31 mongodb 5 68 storage-engine 1 26 mongodb-3.0 1 26 proxy 1 4 mysql 1 7 index 1 7 restore 1 12
+107075 postgresql 1 4 aws 1 4 amazon-ec2 1 4 amazon-rds 1 4
+37971 sql-server 2 24 sql-server-2012 1 16 dmv 1 16 permissions 1 8
+74202 sql-server 1 4 sql-server-2012 1 4 dmv 1 4
+47540 mysql 1 238 collation 1 238 utf-8 1 238
+86983 mysql 1 66 collation 1 66 utf-8 1 66
+63896 sql-server 7 34 sql-server-2008 1 4 jobs 2 8 sql-server-2012 1 4 date 1 4 date-format 1 4 sql-server-2008-r2 1 4 sql-server-2016 3 13 statistics 1 5 t-sql 2 13 trigger 1 4 change-data-capture 1 4 query-performance 1 9 group-by 1 9 aggregate 1 9 database-mail 1 4 tls-1.2 1 4
+47620 sql-server 1 9 sql-server-2012 1 9
+84225 sql-server 1 15 ssis 1 15 sql-server-2014 1 15 integration 1 15
+85691 sql-server 1 8 ssis 1 8 sql-server-2014 1 8 integration 1 8
+93315 sql-server 1 7 ssis 1 7 sql-server-2014 1 7 integration 1 7
+6341 database-design 1 7 dimensional-modeling 1 7 facttable 1 7
+27120 sql-server 1 6 sql-server-2012 1 6 t-sql 1 6 decimal 1 6
+48443 sql-server 1 9 locking 1 9 network 1 9
+48551 postgresql 1 22 postgresql-9.3 1 22
+27540 permissions 1 11 ssis-2012 1 11 catalogs 1 11
+119630 sql-server 1 4 sql-server-2012 1 4
+86223 sql-server 1 9 azure-sql-database 1 9 database-diagrams 1 9
+50446 sql-server 1 9 t-sql 1 9
+44434 sql-server 22 181 database-design 3 19 datatypes 2 12 unicode 2 35 sql-server-2012 3 20 partitioning 2 15 index 2 9 btree 1 4 sql-server-2008-r2 2 20 execution-plan 1 5 prepared-statement 1 5 plan-cache 1 5 performance 2 15 powershell 1 5 smo 1 5 alter-database 1 5 statistics 1 10 index-statistics 1 10 isolation-level 1 7 blocking 1 7 snapshot-isolation 1 7 optimization 2 14 clustered-index 1 5 nonclustered-index 1 5 filtered-index 1 15 sql-server-2014 1 9 sql-server-2017 1 9 offset-fetch 1 9 character-set 1 7 encoding 1 7 t-sql 3 24 ddl 1 5 unpivot 1 15 date 1 5 alias 1 5 foreign-key 1 12 greatest-n-per-group 1 10 ssms 1 4 best-practices 1 4 naming-convention 1 4 sql-server-2016 1 6 extended-events 1 6
+34361 mysql 3 16 replication 1 5 delete 1 5 amazon-rds 1 5 alter-table 1 5 errors 1 5 innodb 1 6 logs 1 6
+46242 database-design 1 4 installation 1 5 sql-server-2008-r2 1 5
+10181 database-design 1 7 sql-server 4 47 table 1 33 sql-server-2008-r2 1 4 sql-server-2012 2 8 security 2 8 permissions 1 4
+99775 sql-server 1 10 migration 1 10 export 1 10 datafile 1 10 blob 1 10
+51033 postgresql 3 19 postgresql-9.3 1 11 transaction 1 11 plpgsql 1 4 plpython 1 4
+15645 postgresql 1 9 postgresql-9.3 1 9 transaction 1 9
+41928 sql-server 2 24 table 1 17 ms-access 1 7
+15864 sql-server 1 5 sql-server-2014 1 5 sql-clr 1 5
+120822 sql-server 1 6 foreign-key 1 6 primary-key 1 6
+51174 postgresql 1 4
+11639 sql-server 3 15 sql-server-2008 1 4 permissions 1 4 security 2 8 logins 1 4 t-sql 2 11 dynamic-sql 1 4 sql-injection 1 4
+48093 sql-server 6 46 sql-server-2008 1 7 permissions 1 7 security 1 7 logins 1 7 foreign-key 1 5 sql-server-2016 3 17 t-sql 1 5 transaction 1 5 isolation-level 1 5 join 1 15 group-by 1 15 sql-server-2008-r2 1 7 restore 1 7 backup 1 5 transaction-log 1 5 maintenance 1 5 msdb 1 7 query-store 1 7
+48699 sql-server 1 4 statistics 1 4 index-statistics 1 4
+27936 sql-server 1 11 sql-server-2008-r2 1 11 sql-server-2012 1 11
+4425 postgresql 1 19 postgresql-9.3 1 19 psql 1 19
+112475 postgresql 1 8 postgresql-9.3 1 8 psql 1 8
+75405 maintenance 1 5 cassandra 1 5
+79058 sql-server 1 11 sql-server-2008-r2 1 11 t-sql 1 11 errors 1 11
+52587 mysql 1 5 backup 1 5 innodb 1 5 mysqldump 1 5
+99415 mysql 1 10 backup 1 10 innodb 1 10 mysqldump 1 10
+84574 postgresql 1 12 linux 1 12 postgresql-9.1 1 12
+53202 postgresql 1 226 php 1 226 pg-hba.conf 1 226
+10677 postgresql 1 23 php 1 23 pg-hba.conf 1 23
+126118 postgresql 1 12 php 1 12 pg-hba.conf 1 12
+46685 postgresql 1 5 php 1 5 pg-hba.conf 1 5
+53400 sql-server 3 19 t-sql 1 4 syntax 1 10 sql-server-2005 1 5 greatest-n-per-group 1 5
+48361 postgresql 1 6 unique-constraint 1 6 cte 1 6
+6978 postgresql 1 6
+43889 sql-server 5 28 syntax 1 4 datetime 1 8 type-conversion 1 8 t-sql 1 7 sql-server-2014 1 7 merge 1 7 oracle 1 5 sql-server-2012 1 4 query-performance 1 4 window-functions 1 4
+16210 mysql 1 4 innodb 1 4 locking 1 4 transaction-log 1 4 data-integrity 1 4
+81208 mysql 1 5 view 1 5 permissions 1 5
+55554 db2 1 11 order-by 1 11
+35181 terminology 1 7 oracle 1 11 query-refactor 1 11 sql-server 1 6 sql-server-2008 1 6 datetime 1 6 date 1 6
+37187 oracle 1 4 query-refactor 1 4
+55491 oracle 1 4
+80560 oracle 1 6
+107700 sql-server 1 14 sql-server-2014 1 14 window-functions 1 14
+52238 sql-server 1 4 availability-groups 1 4
+48511 mysql 1 7 sql-server 1 8 database-design 1 8 performance 1 8 datatypes 1 8 varchar 1 8
+114248 sql-server 1 6 ddl 1 6 constraint 1 6
+4473 database-design 1 4 normalization 1 4 design-pattern 1 4 subtypes 1 4
+181828 postgresql 1 6 backup 1 6 restore 1 6
+25138 postgresql 1 6 postgresql-9.3 1 6 json 1 6 export 1 6 dump 1 6
+104304 postgresql 1 5 postgresql-9.3 1 5 json 1 5 export 1 5 dump 1 5
+932 postgresql 1 4 json 1 4 row 1 4
+58081 sql-server 1 5 maintenance 1 5
+26930 mysql 1 21 innodb 1 21 myisam 1 21 delete 1 21 mysql-5.0 1 21
+8146 mysql 1 5 innodb 1 5 myisam 1 5 delete 1 5 mysql-5.0 1 5
+35705 mongodb 1 12 best-practices 1 12 sharding 1 12 deployment 1 12 docker 1 12
+63289 sql-server 6 41 sql-server-2014 1 9 transaction-log 1 9 memory-optimized-tables 1 9 sql-server-2008-r2 2 15 alter-table 1 9 database-internals 1 9 nonclustered-index 1 4 execution-plan 1 4 migration 1 9 shrink 1 6 availability-groups 1 4 sql-server-2016 1 4
+82180 sql-server 1 8 sql-server-2014 1 8 transaction-log 1 8 memory-optimized-tables 1 8
+48915 mysql 2 8 replication 1 4 innodb 1 4 locking 1 4
+60959 mysql 1 6 row 1 6
+58678 mysql 1 6 backup 1 6 mysql-5.5 1 6 restore 1 6 mysqldump 1 6
+38619 postgresql 1 4 dynamic-sql 1 4 hstore 1 4 pivot 1 4
+89188 postgresql 1 10 collation 1 10
+58689 postgresql 1 6 postgresql-9.3 1 6
+61088 sql-server 1 4
+51499 mysql 1 22 innodb 1 22
+74057 mysql 1 4 innodb 1 4
+61935 sql-server 1 7 availability-groups 1 7 distributed-transactions 1 7
+61957 sql-server 3 18 t-sql 1 5 aggregate 1 5 concat 1 5 sql-server-2008 1 7 mysql 1 4 group-by 1 4 gaps-and-islands 1 4 sql-server-2012 1 6
+109473 postgresql 1 4 select 1 4
+71080 mongodb 1 61 mongodb-3.0 1 61
+49056 sql-server 1 6 sql-server-2008-r2 1 6 query-performance 1 6 stored-procedures 1 6 execution-plan 1 6
+62869 sql-server 1 5 sql-server-2008-r2 1 5 query-performance 1 5 stored-procedures 1 5 execution-plan 1 5
+28065 mysql 1 14 mysql-5.5 1 14 password 1 14
+63406 mysql 1 4 date 1 4
+53420 mysql 1 4 date 1 4
+60318 mysql 1 5 mysql-5.5 1 5 permissions 1 5
+29289 mysql 2 13 mysql-5.5 1 8 permissions 1 8 backup 1 5 mysqldump 1 5 snapshot-isolation 1 5
+7921 mysql 1 5 postgresql 1 5 transaction 1 5
+44801 sql-server 3 25 stored-procedures 1 8 xml 1 8 database-mail 1 8 sql-server-2008 1 9 sql-server-2008-r2 2 17 linked-server 1 8 openrowset 1 8 exec 1 8
+64523 sql-server 1 6 sql-server-2012 1 6 restore 1 6 migration 1 6 sql-server-2000 1 6
+63584 sql-server 1 13 unique-constraint 1 13
+24157 sql-server 1 5 sql-server-2008-r2 1 5 t-sql 1 5 pivot 1 5
+33232 mysql 1 15
+93257 mysql 1 7
+63613 sql-server 1 9
+67820 sql-server 1 6 optimization 1 6 execution-plan 1 6
+20682 database-design 2 23 foreign-key 1 6 rdbms 1 6
+106610 database-design 1 5
+57348 postgresql 1 5 trigger 1 5 foreign-key 1 5 postgresql-9.2 1 5
+70730 authentication 1 15 connections 1 15 azure-sql-database 1 15
+106482 authentication 1 5 connections 1 5 azure-sql-database 1 5
+66299 postgresql 1 12 materialized-view 1 12 postgresql-9.4 1 12 information-schema 1 12
+107913 postgresql 1 28 materialized-view 1 28 postgresql-9.4 1 28 information-schema 1 28
+60131 sql-server 1 11 sql-server-2008 1 11 sql-server-2008-r2 1 11
+16020 postgresql 1 4 trigger 1 4 postgresql-9.3 1 4 plpgsql 1 4
+135618 mysql 1 8 linux 1 8 debian 1 8
+7568 sql-server 3 20 stored-procedures 1 11 sql-server-2008 1 5 sql-server-2008-r2 1 4 group-by 1 4 top 1 4
+46482 sql-server 1 14 sql-server-2005 1 14 greatest-n-per-group 1 14
+68592 sql-server 1 19 sql-server-2012 1 19 ssms 1 19 connectivity 1 19
+68536 sql-server 3 30 sql-server-2008 2 16 data-synchronization 1 14
+68798 sql-server 1 6 sql-server-2008 1 6
+68765 oracle 1 4 oracle-11g-r2 1 4 postgresql 3 19 index 1 9 postgresql-9.4 1 9 execution-plan 1 9 database-design 1 4 greatest-n-per-group 1 4
+63644 sql-server 2 20 database-design 5 49 erd 1 14 inheritance 1 14 recursive 1 14 relational-theory 4 57 database-theory 1 6 relational-calculus 1 6 mysql 2 17 index 1 5 mongodb 1 5 sql-server-2012 1 6 subtypes 1 6 normalization 1 12 denormalization 1 12 spatial 1 6 terminology 1 33 best-practices 1 11
+69186 mysql 1 4 stored-procedures 1 4 update 1 4 insert 1 4
+27711 memory 1 5 configuration 1 5 oracle-12c 1 5
+63436 sql-server 1 7 index 1 7 t-sql 1 7 join 1 7 table 1 7
+44324 sql-server 1 9 data-synchronization 1 9
+24084 mysql 1 9 database-design 1 9 database-theory 1 9 database-size 1 9
+64280 postgresql 1 21 optimization 1 21 partitioning 1 21
+94296 postgresql 1 4 optimization 1 4 partitioning 1 4
+70268 primary-key 1 8 unique-constraint 1 8
+41558 sql-server 1 14 sql-server-2012 1 14 primary-key 1 14 deadlock 1 14
+34084 sql-server 1 9 sql-server-2012 1 9 primary-key 1 9 deadlock 1 9
+14734 sql-server 4 33 sql-server-2008-r2 1 6 t-sql 3 31 type-conversion 1 5 sql-server-2008 1 20
+271 oracle 1 5 oracle-sql-developer 1 5
+14835 sql-server 1 10 sql-server-2008-r2 1 10 xml 1 10
+66829 postgresql 1 8 datatypes 1 8 timestamp 1 8 timezone 1 8 utc-time 1 8 sql-server 4 32 sql-server-2012 1 4 query-performance 1 4 optimization 1 4 cursors 1 4 sql-server-2014 1 7 cte 1 7 sql-server-2008-r2 1 7
+68599 backup 1 6 mongodb 1 6
+47355 sql-server 1 7 ssdt 1 7 database-projects 1 7
+103237 sql-server 1 9 ssdt 1 9 database-projects 1 9
+86028 cassandra 1 5
+86450 cassandra 1 5
+120814 sql-server 1 6 sql-server-2008 1 6 entity-framework 1 6
+63343 sql-server 1 4 security 1 4 connectivity 1 4 ssl 1 4
+69307 sql-server 1 4 index 1 4 optimization 1 4
+71419 postgresql 1 4 index 1 4 postgresql-performance 1 4
+63467 postgresql 2 23 database-design 5 45 primary-key 1 6 unique-constraint 1 6 foreign-key 1 17 constraint 1 17 mysql 2 18 audit 1 9 sql-server 1 4 normalization 1 9 relational-theory 1 9 denormalization 1 9
+14476 sql-server 8 74 datetime 1 6 clustered-index 1 6 metadata 1 6 database-internals 1 6 data-pages 1 6 sql-server-2008-r2 3 44 query-performance 2 33 performance-tuning 1 28 group-by 1 9 top 1 9 database-design 2 11 mysql 1 5 cte 1 7 sql-server-2014 1 7 join 1 7 sorting 1 7 optimization 1 5 execution-plan 1 5 sort-operator 1 5
+72048 sql-server 15 158 datetime 1 9 index 1 4 sql-server-2014 2 8 computed-column 1 4 filtered-index 1 4 sql-server-2008 3 39 sql-server-2012 3 27 t-sql 2 33 xp-cmdshell 1 9 pivot 1 4 primary-key 1 5 auto-increment 1 5 identity 1 5 logins 2 22 password 1 4 smo 1 4 sql-server-2008-r2 1 5 gaps-and-islands 1 5 subquery 1 6 mysql 1 6 mysql-5.5 1 6 select 1 6 ssms 1 22 group-by 1 15 security 1 18 authentication 1 18
+72091 sql-server 5 41 datetime 1 18 index 1 4 primary-key 1 4 azure-sql-database 1 4 performance 1 7 execution-plan 1 7 relational-theory 2 9 learning 1 4 sql-server-2012 2 15 buffer-pool 1 4 page-life-expectancy 1 4 database-theory 1 5 relational-calculus 1 5 t-sql 1 11 stored-procedures 1 11 multi-thread 1 11 web-service 1 11 best-practices 1 8 naming-convention 1 8
+62506 postgresql 1 10 postgresql-9.4 1 10 ssl 1 10
+91147 postgresql 1 7 postgresql-9.4 1 7 ssl 1 7
+10106 postgresql 1 4 postgresql-9.4 1 4 ssl 1 4
+48285 sql-server 1 4 statistics 1 4 sql-server-2016 1 4 r-language 1 4
+72629 mysql 1 7 update 1 7 insert 1 7 duplication 1 7
+72736 postgresql 1 5
+91365 postgresql 1 10 pgadmin 1 10
+57105 sql-server 8 70 join 1 5 union 1 5 cross-apply 1 5 sql-server-2012 1 25 query-performance 1 25 t-sql 4 44 window-functions 1 25 hierarchy 1 6 random 1 6 sql-server-2008 1 8 sql-server-2014 2 14 sql-server-2008-r2 1 8 gaps-and-islands 1 8 optimization 1 9
+15642 sql-server 1 4 performance 1 4 monitoring 1 4
+12971 sql-server 2 19 performance 1 8 monitoring 1 8 sql-server-2008 1 11 dynamic-sql 1 11
+72992 sql-server-2012 2 12 security 1 7 windows-server-2012 1 7 sql-server 3 26 permissions 1 16 transaction 1 5 sql-server-2008-r2 2 10 jobs 2 10 sql-server-agent 1 4 sp-whoisactive 1 4
+15369 sql-server 1 18 memory 1 18 numa 1 18
+71869 postgresql 2 18 amazon-rds 1 10 postgresql-9.4 1 10 postgresql-9.3 1 8 mariadb 1 9 centos 1 9
+76645 sql-server 1 10 installation 1 10 sql-server-2000 1 10 windows-10 1 10
+53731 sql-server 2 20 sql-server-2008-r2 1 8 ssms 1 8 database-size 1 8 best-practices 1 12 naming-convention 1 12
+37015 sql-server 1 13 sql-server-2008-r2 1 13 ssms 1 13 database-size 1 13
+28164 sql-server 1 4 sql-server-2008-r2 1 4 ssms 1 4 database-size 1 4
+40835 mongodb 1 31 cron 1 31
+159727 mongodb 1 4 cron 1 4
+69621 postgresql 1 5 index-tuning 1 5 amazon-rds 1 5 order-by 1 5 sql-server 1 9 sql-server-2008-r2 1 9
+153791 sql-server 1 4 ssdt 1 4 deployment 1 4 visual-studio-2013 1 4
+54928 postgresql 1 6 query-performance 1 6 subquery 1 6 postgresql-performance 1 6 hibernate 1 6
+104717 sql-server 50 417 sql-server-2012 7 48 query-performance 13 86 t-sql 9 57 window-functions 3 24 sql-server-2014 6 60 optimization 6 51 statistics 2 26 cardinality-estimates 4 56 index 3 21 constraint 1 5 data-warehouse 1 5 running-totals 2 16 sql-server-2008-r2 2 18 execution-plan 7 58 bulk-insert 1 11 union 1 7 database-internals 2 12 datatypes 1 10 unicode 1 10 postgresql 1 8 postgresql-9.4 1 8 subquery 2 14 sqlalchemy 1 8 performance 4 37 sql-server-2016 8 80 oracle 1 8 cte 2 14 derived-tables 1 8 stored-procedures 1 9 temporary-tables 1 9 columnstore 2 16 update 1 7 compression 2 11 gaps-and-islands 1 9 where 1 8 cache 1 6 size 1 6 delete 1 4 count 1 5 functions 2 12 waits 1 8 sp-blitzfirst 1 8 partitioning 2 12 order-by 2 18 sql-server-2017 5 42 etl 1 11 sql-clr 1 11 hashing 1 11 configuration 2 15 filegroups 1 5 maxdop 1 10 null 1 10 database-design 1 5 sql-server-2008 2 14 availability-groups 1 8 transaction 1 12 ddl 1 12
+34118 sql-server 1 11 virtualisation 1 11 vmware 1 11
+69051 sql-server 1 5 optimization 1 5
+69390 mysql 1 5 database-design 1 5 audit 1 5
+21276 sql-server 1 9 join 1 9
+67733 postgresql 1 5 postgresql-9.3 1 5 insert 1 5 postgresql-performance 1 5 write-ahead-logging 1 5
+41868 sql-server 1 8 sql-server-2008-r2 1 8 permissions 1 8
+86287 sql-server 1 5 sql-server-2008-r2 1 5 permissions 1 5
+75598 sql-server 1 9 sql-server-2008 1 9 backup 1 9
+37825 sql-server 2 10 t-sql 1 5 stored-procedures 1 5
+28954 sql-server 1 20 cursors 1 20
+69210 primary-key 1 6 unique-constraint 1 6 dynamodb 1 6
+91499 primary-key 1 6 unique-constraint 1 6 dynamodb 1 6
+75651 oracle 1 4 oracle-11g-r2 1 4 sqlplus 1 4
+77451 replication 1 10 amazon-rds 1 10 failover 1 10 mysql-cluster 1 10 standby 1 10 mysql 1 6 order-by 1 6
+105640 replication 1 9 amazon-rds 1 9 failover 1 9 mysql-cluster 1 9 standby 1 9
+72014 join 1 5 ms-access 1 5 aggregate 1 5 datetime 1 5
+38962 join 1 10 ms-access 1 10 aggregate 1 10 datetime 1 10
+70109 sql-server 4 32 update 1 4 merge 1 4 replication 1 6 sql-server-2014 1 6 ssms 1 6 sql-server-2012 1 5 powershell 1 5 database-mail 1 17 sql-server-2016 1 17
+77196 sql-server 1 4 update 1 4 merge 1 4
+77561 sql-server 1 7 migration 1 7
+72965 sql-server 1 4 migration 1 4
+16418 postgresql 1 4 performance 1 4 update 1 4 postgresql-performance 1 4
+63011 sql-server 2 20 sql-server-2012 1 15 sql-server-2014 1 15 ssms 1 15 connectivity 1 15 terminology 1 7 naming-convention 1 7 azure-sql-database 1 5 sql-server-2017 1 5
+94881 sql-server 1 9 sql-server-2012 1 9 sql-server-2014 1 9 ssms 1 9 connectivity 1 9
+77582 sql-server 1 8 sql-server-2014 1 8 ssis 1 8 ssis-2014 1 8 troubleshooting 1 8
+81624 sql-server 1 4 sql-server-2014 1 4 ssis 1 4 ssis-2014 1 4 troubleshooting 1 4
+177211 mysql 1 4 mariadb 1 4 errors 1 4 odbc 1 4 timezone 1 4
+124624 sql-server 1 6 join 1 6 exists 1 6
+84804 mongodb 1 5 storage-engine 1 5 mongodb-3.0 1 5
+106901 mongodb 1 4 storage-engine 1 4 mongodb-3.0 1 4
+85946 mysql 1 10 innodb 1 10 optimization 1 10 logs 1 10 configuration 1 10
+110427 mysql 1 5 innodb 1 5 optimization 1 5 logs 1 5 configuration 1 5
+78208 sql-server 1 4 sql-server-2005 1 4 sql-server-agent 1 4
+56050 sql-server 2 11 sql-server-2005 1 7 sql-server-agent 1 7 sql-server-2008 1 4
+64235 sql-server 1 21 sql-server-2012 1 21 ssms 1 21 linked-server 1 21
+165460 postgresql 1 8 default-value 1 8 uuid 1 8
+108844 sql-server 1 4 sql-server-2008-r2 1 4 instance 1 4
+26426 postgresql 3 18 constraint 2 13 data-integrity 1 8 foreign-key 1 5 unique-constraint 1 5 postgresql-9.5 1 5 pg-dump 1 5
+173605 postgresql 1 4 constraint 1 4 data-integrity 1 4
+42489 sql-server 2 19 sql-server-2008 1 9 sql-server-2012 1 10 index-tuning 1 10
+30199 sql-server 1 5 documentation 1 5
+96 sql-server 1 6 sql-server-2008-r2 1 6
+82939 oracle 1 4 oracle-12c 1 4 sorting 1 4 natural-sort 1 4
+43755 oracle 1 5 oracle-12c 1 5 sorting 1 5 natural-sort 1 5
+83792 sql-server 1 4 insert 1 4 identity 1 4
+83631 sql-server 1 4 sql-server-2005 1 4 bcp 1 4 format 1 4
+33155 sql-server 1 9 sql-server-2012 1 9
+45014 sql-server-2008-r2 1 5 parallelism 1 5 timeout 1 5 maxdop 1 5 latch 1 5
+6381 sql-server 1 5 sql-server-2008 1 5 t-sql 1 5 xp-cmdshell 1 5
+21763 db2 1 4 sequence 1 4
+113767 sql-server 1 6 locking 1 6
+82278 database-design 1 5 replication 1 5 database-recommendation 1 5 relations 1 5
+39611 mysql 1 7 linux 1 7 centos 1 7
+92192 mysql 1 6 linux 1 6 centos 1 6
+131405 mysql 1 13 linux 1 13 centos 1 13
+46773 sql-server 8 58 stored-procedures 2 8 linked-server 1 4 sql-server-2008-r2 1 4 t-sql 2 11 oracle 1 4 pivot 1 7 transaction-log 2 11 tempdb 1 5 sql-server-2012 1 6 backup 1 6 sql-server-2017 1 6 snapshot 1 6
+66520 sql-server 1 4 sql-server-2008-r2 1 4 stored-procedures 1 4
+26654 mysql 2 19 database-design 1 11
+27509 mysql 1 6
+22823 sql-server 1 4 sql-server-2008 1 4 join 1 4
+87103 postgresql 1 5 postgresql-9.4 1 5 datetime 1 5
+87463 mysql 1 9 database-design 1 9 normalization 1 9 string 1 9
+37655 mysql 1 20 database-design 1 20 normalization 1 20 string 1 20
+87535 sql-server 1 5 t-sql 1 5 type-conversion 1 5
+88357 replication 1 5 mongodb 1 5 proxy 1 5
+39345 sql-server 1 5 oracle 1 5
+68931 oracle 1 5 foreign-key 1 5 oracle-11g 1 5 sql-server 1 6 sql-server-2012 1 6 performance 1 6 trace 1 6
+110455 database-design 1 7 subtypes 1 7 sql-server 16 92 sql-server-2012 3 12 t-sql 8 44 running-totals 1 4 sql-server-2008-r2 4 32 postgresql 5 33 group-by 2 15 window-functions 1 6 gaps-and-islands 1 6 postgresql-8.4 1 6 timestamp 1 7 sql-server-2016 2 12 json 1 7 enterprisedb 1 5 update 1 6 sql-server-2008 2 9 like 1 5 operator 1 5 join 2 14 order-by 1 4 distinct 1 4 sql-server-2014 2 15 date 1 4 index-tuning 1 7 nonclustered-index 2 11 mysql 1 5 recursive 1 4 tree 1 4 tempdb 1 4 temporary-tables 1 4 sql-server-localdb 1 4 select 1 11 null 1 11 concat 1 11 pivot 1 11 view 1 5 enterprise-edition 1 5
+87062 sql-server 1 8 sql-server-2014 1 8 availability-groups 1 8
+88620 oracle 1 6 plsql 1 6
+89600 sql-server 1 4 sql-server-2014 1 4 execution-plan 1 4
+90710 database-design 1 17 normalization 1 17 best-practices 1 17 address 1 17
+90721 database-design 1 5 normalization 1 5 best-practices 1 5 address 1 5
+91967 sql-server 1 7 locking 1 7 concurrency 1 7 identity 1 7
+90750 sql-server 1 4 ssma 1 4
+109169 sql-server 1 5 ssma 1 5
+91036 sql-server 1 4 migration 1 4 availability-groups 1 4 mirroring 1 4
+52344 sql-server 3 21 migration 1 9 availability-groups 1 9 mirroring 1 9 pivot 1 6 sql-server-2008-r2 1 6 maintenance-plans 1 6 maintenance 1 6
+46185 sql-server 3 33 sql-server-2014 1 23 cte 1 23 sql-server-2012 1 5 t-sql 1 5 regular-expression 1 5 stored-procedures 1 5 auto-increment 1 5 identity 1 5
+22336 sql-server 1 6 replication 1 6 sql-server-2014 1 6 transactional-replication 1 6
+101705 sql-server 1 4 replication 1 4 sql-server-2014 1 4 transactional-replication 1 4
+57247 sql-server 1 7 sql-server-2012 1 7 dmv 1 7
+93035 sql-server 4 35 sql-server-2012 2 23 dmv 1 11 database-design 1 12 t-sql 1 12 index 1 5 sql-server-2014 1 5 columnstore 1 5
+55596 sql-server 2 10 t-sql 1 4 sql-server-2014 1 4 sql-server-2008 1 6 gaps-and-islands 1 6
+91525 sql-server 1 8 t-sql 1 8
+51275 mysql 1 5 mysql-5.5 1 5 ssl 1 5 permissions 1 5
+92033 sql-server 1 11 t-sql 1 11 hints 1 11 microsoft-dynamics 1 11
+77017 backup 1 5 mongodb 1 5 restore 1 5
+92378 null 1 19 database-agnostic 1 19
+111825 postgresql 1 9 permissions 1 9 redshift 1 9
+92443 sql-server 1 8 sql-server-2012 1 8 replication 1 8 transactional-replication 1 8 troubleshooting 1 8
+125653 sql-server 1 4 sql-server-2012 1 4 replication 1 4 transactional-replication 1 4 troubleshooting 1 4
+91176 sql-server 2 9 restore 1 5 ssms 1 5
+33170 sql-server 2 10 restore 1 5 ssms 1 5 isolation-level 1 5 blocking 1 5 snapshot-isolation 1 5
+92808 db2 1 4 iseries 1 4 db2-midrange 1 4
+98279 db2 1 4 iseries 1 4 db2-midrange 1 4
+86623 sql-server 2 24 computed-column 1 19 sql-server-2012 1 5 memory 1 5 database-internals 1 5 buffer-pool 1 5
+114900 sql-server 1 5 sql-server-2008 1 5 t-sql 1 5
+108002 database-design 1 8 normalization 1 8 distributed-transactions 1 8
+32943 sql-server 1 4 ssms 1 4
+92819 date-format 1 5 database-agnostic 1 5 sql-server 1 4 t-sql 1 4 sql-server-2014 1 4 oracle 1 8 select 1 8 subquery 1 8
+89077 olap 1 6 mdx 1 6
+94431 postgresql 1 8 java 1 8 timestamp 1 8
+42350 mongodb 1 7 nosql 1 7
+93925 sql-server 1 4 sql-server-2014 1 4 alter-table 1 4 tempdb 1 4
+80530 sql-server 2 10 database-design 1 6 sql-server-2012 1 6 t-sql 1 6 datatypes 1 4 sql-server-2017 1 4 timestamp 1 4
+57257 sql-server 1 10
+37243 sql-server 2 9 sql-server-2014 1 5
+67974 sql-server 1 4 t-sql 1 4 stored-procedures 1 4
+8846 mysql 1 5 replication 1 5 mariadb 1 5
+141122 mysql 1 8 replication 1 8 mariadb 1 8
+79823 sql-server 1 6 functions 1 6 etl 1 6 azure-sql-data-warehouse 1 6
+95190 sql-server 1 6 functions 1 6 etl 1 6 azure-sql-data-warehouse 1 6
+97829 sql-server 1 12 sql-server-2014 1 12
+92056 sql-server 1 7 sql-server-2008-r2 1 7 transactional-replication 1 7
+81761 sql-server 1 7 sql-server-2014 1 7 shrink 1 7 database-size 1 7
+108470 sql-server 1 4 upgrade 1 4 sql-server-2016 1 4
+92376 oracle 1 10 windows 1 10
+37203 oracle 1 7 windows 1 7
+87591 database-design 1 7 primary-key 1 7
+69328 database-design 1 8 primary-key 1 8
+56307 sql-server 2 8 t-sql 1 4
+107045 sql-server 1 14 trace-flags 1 14
+97877 connectivity 1 8 azure-sql-database 1 8
+113129 connectivity 1 4 azure-sql-database 1 4
+97774 sql-server 1 6 compression 1 6
+101248 sql-server 1 4 database-mail 1 4 sql-server-2016 1 4
+143761 sql-server 1 10 database-mail 1 10 sql-server-2016 1 10
+67405 oracle 1 4 select 1 4 subquery 1 4 sql-server 2 31 sql-server-2008 1 26 t-sql 1 26 ms-access 1 5
+85921 mysql 1 4 database-design 1 4
+99156 sql-server 1 6 sql-server-2012 1 6
+91542 sql-server 1 4 ssms 1 4
+98602 sql-server 1 5 xml 1 5
+69275 sql-server 1 6 users 1 6
+52567 sql-server 1 4 group-by 1 4
+93838 sql-server 1 4 sql-server-2008-r2 1 4 blocking 1 4 process 1 4
+101243 sql-server 1 6
+70761 sql-server 1 6 query-performance 1 6 sql-server-2014 1 6 stored-procedures 1 6 execution-plan 1 6
+60085 sql-server 20 164 backup 3 16 permissions 2 10 service-accounts 1 4 sql-server-2008-r2 3 17 sql-server-2012 4 19 t-sql 1 4 azure-sql-database 1 4 cast 1 4 convert 1 4 audit 1 4 standard-edition 1 4 blocking 1 8 sql-server-2014 1 4 constraint 1 4 azure-vm 1 4 sql-server-2016 3 20 enum 1 6 sql-server-2005 1 6 datatypes 1 6 decimal 1 6 security 1 6 trigger 2 16 update 1 6 index 1 29 clustered-index 1 29 nonclustered-index 1 29 ola-hallengren 1 8 view 1 10 primary-key 1 6 sql-server-express 1 6 database-mail 1 6 sql-server-2017 1 7
+101627 sql-server 1 4 backup 1 4 permissions 1 4 service-accounts 1 4
+98571 sql-server 5 39 index-tuning 2 10 sql-server-2012 1 4 sql-server-2016 2 24 temporary-tables 1 6 query-store 1 6 sql-server-2008-r2 1 6 t-sql 1 6 stored-procedures 1 5 execution-plan 1 5 performance 1 18 vmware 1 18
+103345 postgresql 1 4 postgresql-9.3 1 4
+86732 sql-server 1 9 index 1 9 t-sql 1 9 data-pages 1 9
+75565 sql-server 1 4 sql-server-2008-r2 1 4 sql-server-2012 1 4 linked-server 1 4
+99943 sql-server 5 36 sql-server-2008-r2 1 4 cte 2 13 where 1 8 update 1 9 sql-server-2012 1 6 oracle 1 5 select 1 5 oracle-12c 1 5 null 1 5
+50765 sql-server-2008 1 6 sql-server-2014 1 6 php 1 6 availability-groups 1 6 timeout 1 6 sql-server 1 6 sql-server-2012 1 6
+88650 sql-server-2008 1 4 sql-server-2014 1 4 php 1 4 availability-groups 1 4 timeout 1 4
+104754 mongodb 1 4 memory 1 4 wiredtiger 1 4
+104137 mongodb 1 23 memory 1 23 wiredtiger 1 23
+69828 mongodb 1 4 memory 1 4 wiredtiger 1 4
+104102 ssms 1 12 memory 1 12 sql-server-2016 2 18 sql-server 1 6 stored-procedures 1 6 datatypes 1 6 table-variable 1 6
+69240 ssms 1 4 memory 1 4 sql-server-2016 1 4
+10438 sql-server 1 4 sql-server-2014 1 4 performance-tuning 1 4 cardinality-estimates 1 4
+87965 sql-server 2 12 sql-server-2014 1 6 optimization 1 6 sql-server-2017 1 6
+38996 database-design 1 5 datetime 1 5
+32929 database-design 1 11 datetime 1 11
+158236 postgresql 1 8 optimization 1 8 view 1 8
+133905 mariadb 1 15 centos 1 15
+137660 mariadb 1 22 centos 1 22
+95007 sql-server 3 24 sql-server-2008-r2 1 6 t-sql 1 6 errors 1 6 greatest-n-per-group 1 7
+73833 mysql 1 5 database-design 1 5 foreign-key 1 5 constraint 1 5 delete 1 5
+109166 sql-server 1 5 index 1 5 sql-server-2014 1 5 columnstore 1 5
+101326 sql-server 1 4 t-sql 1 4 stored-procedures 1 4 parameter 1 4
+64311 sql-server 1 7 best-practices 1 7 naming-convention 1 7
+41415 sql-server 1 21 best-practices 1 21 naming-convention 1 21
+3322 sql-server 1 10 best-practices 1 10 naming-convention 1 10
+109809 sql-server 1 5 best-practices 1 5 naming-convention 1 5
+46598 sql-server 1 11 best-practices 1 11 naming-convention 1 11
+76763 sql-server 1 5 sql-server-2012 1 5 permissions 1 5 security 1 5
+130084 sql-server 1 12 sql-server-2012 1 12 permissions 1 12 security 1 12
+92499 sql-server 1 5 sql-server-2008 1 5
+111307 sql-server 1 6 configuration 1 6 sql-server-2016 1 6
+38968 sql-server 2 14 sql-server-2014 1 4 powershell 1 4 sql-server-2012 1 10 performance 1 10 trace 1 10 mongodb 1 8 memory 1 8 limits 1 8 docker 1 8
+110855 sql-server 2 18 greatest-n-per-group 1 13 foreign-key 1 5 metadata 1 5
+111064 sql-server 1 24 greatest-n-per-group 1 24
+110893 sql-server 1 5 greatest-n-per-group 1 5
+97841 postgresql 1 10 window-functions 1 10
+111414 sql-server 1 12 foreign-key 1 12 metadata 1 12
+111303 postgresql 1 4 join 1 4 datetime 1 4 sum 1 4 coalesce 1 4
+86614 sql-server-2008 1 17 t-sql 1 17
+66196 mysql 1 4 query-performance 1 4 mysql-5.6 1 4 mysql-5.7 1 4
+111890 database-design 1 12 performance 1 12 index 1 12 hardware 1 12 ssd 1 12
+113569 database-design 1 8 performance 1 8 index 1 8 hardware 1 8 ssd 1 8
+111811 sql-server 4 24 sql-server-2008 1 4 sql-server-2012 1 4 t-sql 2 8 null 1 4 computed-column 1 4 join 1 12 database-internals 1 12 oracle 1 4 plsql 1 4
+95592 sql-server 1 6 sql-server-2008-r2 1 6 identity 1 6
+87836 stored-procedures 1 5 functions 2 15 sql-server 9 72 index 1 16 xml 2 12 sql-server-2016 1 5 xquery 1 5 sparse-column 1 5 sql-server-2012 1 9 nonclustered-index 1 9 query-performance 2 20 tempdb 1 10 cardinality-estimates 1 10 optimization 1 5 partitioning 1 5 configuration 1 5 filegroups 1 5 performance-tuning 1 10 parallelism 1 10 execution-plan 1 5 statistics 1 5
+160808 postgresql 1 5 aggregate 1 5 array 1 5 benchmark 1 5
+112361 mysql 3 15 group-by 2 8 aggregate 1 4 postgresql 5 31 constraint 1 13 pivot 1 4 database-design 1 5 datetime 1 5 window-functions 1 4 gaps-and-islands 1 4 postgresql-8.4 1 4 enterprisedb 1 5 index 1 7 innodb 1 7 primary-key 1 7 clustered-primary-key 1 7 select 1 4 postgresql-9.4 1 4
+88191 sql-server 1 5 postgresql 2 11 t-sql 1 5 functions 1 5 query-performance 1 6 greatest-n-per-group 1 6 postgresql-9.6 1 6
+109234 sql-server 1 4 migration 1 4 ms-access 1 4 import 1 4
+138498 sql-server 1 4 migration 1 4 ms-access 1 4 import 1 4
+113038 t-sql 1 7 sql-server-2014 1 7 hierarchy 1 7
+74024 sql-server 1 5 oracle 1 5 count 1 5
+94051 sql-server 1 4 sql-server-2008-r2 1 4 sql-server-agent 1 4 jobs 1 4 sp-whoisactive 1 4
+36812 sql-server 1 4 database-mail 1 4
+116365 sql-server 3 15 database-design 1 5 sql-server-2014 1 5 identity 1 5 sql-server-2008-r2 1 4 restore 1 4 backup 1 6 transaction-log 1 6 disk-space 1 6 network 1 6
+89400 sql-server 1 13 database-design 1 13 sql-server-2014 1 13 identity 1 13 relational-theory 1 6 terminology 1 6
+117161 sql-server 1 4 database-design 1 4 sharding 1 4 scalability 1 4 multi-tenant 1 4
+35468 sql-server 1 7 tools 1 7
+99331 sql-server 1 4 sql-server-2012 1 4 index 1 4
+118250 sql-server 1 4 sql-server-2016 1 4 alter-table 1 4 ddl 1 4 always-encrypted 1 4
+116219 sql-server 1 4 sql-server-2012 1 4 security 1 4 service-broker 1 4
+35450 sql-server 1 9 sql-server-2014 1 9 execution-plan 1 9 bulk-insert 1 9
+116653 sql-server 7 54 t-sql 3 24 stored-procedures 1 12 datetime 1 12 database-design 1 8 query-performance 1 8 default-value 1 8 performance 1 4 permissions 1 6 import 1 6 bulk-insert 1 6 sql-server-2008-r2 1 4 truncate 1 4 truncation 1 4 join 1 6 group-by 1 10 update 1 10 cte 1 10 sql-server-2012 1 8 index 1 8 execution-plan 1 8
+118844 sql-server 1 6 t-sql 1 6 stored-procedures 1 6 datetime 1 6
+60898 sql-server 1 7
+90906 sql-server 1 4 query-performance 1 4 sql-server-2016 1 4 parallelism 1 4
+11334 postgresql 1 17 computed-column 1 17
+109669 ssms 1 4
+28463 ssms 1 4
+135448 mysql 1 9 amazon-rds 1 9 aws 1 9 storage-engine 1 9
+117388 database-design 1 4 relational-theory 1 4 spatial 1 4
+116462 sql-server 1 14 sql-server-2014 1 14 constraint 1 14 azure-vm 1 14
+15356 postgresql 1 5 postgresql-9.5 1 5 pattern-matching 1 5 sql-server 5 53 scheduled-tasks 1 22 sql-server-2012 1 8 t-sql 1 8 backup 3 27 restore 1 8 mysql 1 4 oracle 1 8 recovery 1 8 sql-server-2016 1 15 ola-hallengren 1 15 split 1 4 view 1 4 computed-column 1 4
+37395 sql-server 1 7
+112254 t-sql 1 5 sql-server-2016 1 5 json 1 5
+118907 mysql 1 5 mysql-5.5 1 5 mysql-5.6 1 5 mysql-5.1 1 5
+146320 mysql 1 6 mysql-5.5 1 6 mysql-5.6 1 6 mysql-5.1 1 6
+175455 mysql 1 12 mysql-5.5 1 12 mysql-5.6 1 12 mysql-5.1 1 12
+109144 sql-server 1 4 sql-server-2008-r2 1 4 delete 1 4 truncate 1 4
+39083 sql-server 7 71 sql-server-2012 1 4 query-performance 2 9 window-functions 1 4 sql-server-2016 1 21 database-design 1 4 best-practices 1 4 sql-server-2014 3 23 maintenance 1 13 index-tuning 1 5 uniqueidentifier 1 5 collation 1 12 like 1 12 performance 1 5 availability-groups 1 5 sql-server-2017 2 16 ola-hallengren 1 11 index-maintenance 1 11 archive 1 5 vldb 1 5
+57632 sql-server 1 5 performance 1 5 index 1 5 t-sql 1 5 execution-plan 1 5
+121211 sql-server 1 6 database-design 1 6 sql-server-2014 1 6 optimization 1 6 partitioning 1 6
+26103 postgresql 1 8 psql 1 8
+117459 mysql 1 7 spatial 1 7 geometry 1 7
+136372 ssms 1 11 windows-10 1 11
+124448 sql-server 11 95 insert 2 26 import 1 9 collation 1 9 bulk-insert 1 9 sql-server-2012 1 5 compression 1 5 sql-server-2008-r2 2 8 gaps-and-islands 1 4 permissions 2 28 sql-server-2016 2 32 security 1 15 datatypes 1 15 character-set 1 15 encoding 2 19 unicode 2 19 index-tuning 1 4 nonclustered-index 1 4 database-internals 1 4 index-maintenance 1 4 oracle 1 4 hashing 1 4 rollback 1 17 select-into 1 17 logins 1 13 connections 1 13 access-control 1 13 performance 1 5 backup 1 5
+124645 security 1 5 users 1 5
+124660 security 1 6 users 1 6
+95107 mysql 1 4 select 1 4 convert 1 4 sql-server 3 26 stored-procedures 1 7 t-sql 1 9 cursors 1 9 transaction-log 1 13 tempdb 1 13 sql-server-2016 1 6 best-practices 1 6
+121101 sql-server 1 7 varchar 1 7 max 1 7
+28330 relational-theory 1 16 terminology 1 16
+117038 relational-theory 1 7 terminology 1 7
+125411 sql-server 1 11 aggregate 1 11 datatypes 1 11 sql-server-2017 1 11
+35641 sql-server 1 13 trigger 1 13 performance-tuning 1 13
+74176 sql-server 1 8 sql-server-2016 1 8 columnstore 1 8
+144307 sql-server 1 17 sql-server-2016 1 17
+97765 sql-server 1 6 temporary-tables 1 6 terminology 1 5 naming-convention 1 5
+83113 postgresql 1 6
+127597 sql-server 1 4 sql-server-2014 1 4 transaction-log 1 4
+131180 ssis 1 4
+143058 ssis 1 4
+125573 sql-server 2 9 t-sql 2 10 transaction 1 4 sql-server-2014 1 6 where 1 6 sql-server-2016 1 5 stored-procedures 1 5 enterprise-edition 1 5 table-variable 1 5
+77844 sql-server 1 4 index 1 4
+73344 mysql 2 11 join 1 7
+36498 mysql 1 4 join 1 4
+125545 sql-server 1 5 sql-server-2012 1 5 performance 1 5
+6621 sql-server 1 5 sql-server-2016 1 5
+40938 sql-server 1 6 t-sql 1 6 null 1 6 case 1 6
+131855 dbms 1 38
+84227 postgresql 1 5 plpgsql 1 5 upsert 1 5
+133188 mysql 1 6 postgresql 1 6 oracle 1 6 order-by 1 6 derived-tables 1 6
+2512 mysql 1 19 postgresql 1 19 oracle 1 19 order-by 1 19 derived-tables 1 19
+132645 sql-server-2014 2 16 index-tuning 1 8 uniqueidentifier 1 8 sql-server 1 8 query-performance 1 8 database-design 1 4 erd 1 4
+63284 sql-server 2 22 scalability 1 17 azure-vm 1 17 availability-groups 1 5
+6311 sql-server 1 6 scalability 1 6 azure-vm 1 6
+108816 sql-server 1 7 scalability 1 7 azure-vm 1 7
+132644 sql-server 1 7 scalability 1 7 azure-vm 1 7
+132501 sql-server 1 4 xml 1 4
+105012 sql-server 1 5 database-design 1 5
+135138 sql-server 1 5 performance 1 5 sql-server-2016 1 5 vmware 1 5
+98967 sql-server 3 19 t-sql 2 14 ssms 1 5 query-performance 1 9 performance-tuning 1 9 permissions 1 5 sql-server-2016 1 5 security 1 5
+126936 sql-server 22 222 t-sql 4 47 feature-comparison 1 12 isolation-level 1 8 snapshot-isolation 1 8 sql-server-2016 4 44 c# 1 5 parameter 1 5 ado.net 1 5 installation 1 6 debian 1 6 sql-server-2012 3 29 sql-server-2008 3 21 computed-column 1 5 optimization 1 11 ssms 1 5 json 1 5 cursors 2 17 role 1 7 system-tables 1 7 number-formatting 1 18 sql-server-2008-r2 1 12 transaction 1 17 tempdb 1 17 temporary-tables 1 17 etl 1 6 sql-clr 1 6 hashing 1 6 backup 1 6 stored-procedures 2 18 sql-server-2014 2 16 constraint 1 11 permissions 1 5 sql-server-agent 1 5 jobs 1 5 database-design 1 4 normalization 1 4 sql-server-2017 1 7 best-practices 1 28
+125494 sql-server 1 8 sql-server-2008-r2 1 8 performance 1 8 windows-server-2008-r2 1 8
+74105 sql-server 1 5 sql-server-2008-r2 1 5 performance 1 5 windows-server-2008-r2 1 5
+136264 sql-server 1 33 t-sql 1 33
+136284 sql-server 1 6 t-sql 1 6
+119929 sql-server 1 4 query-store 1 4
+55719 database-design 1 4 database-recommendation 1 4 nosql 1 4
+35503 sql-server 1 6 permissions 1 6 import 1 6 bulk-insert 1 6
+121114 backup 1 8 mongodb 2 12 restore 1 8 memory 1 4 limits 1 4 docker 1 4
+151260 backup 1 6 mongodb 1 6 restore 1 6
+112253 sql-server 3 37 sql-server-2008-r2 1 5 truncate 1 5 truncation 1 5 trigger 1 18 update 1 18 collation 1 14 like 1 14
+122555 sql-server 1 317 installation 1 317 sql-server-2017 1 317
+138864 sql-server 1 9 installation 1 9 sql-server-2017 1 9
+3186 sql-server 1 4 sql-server-localdb 1 4
+146283 sql-server 1 5 sql-server-localdb 1 5
+8115 mysql 1 10 constraint 1 10
+147737 sql-server 1 4 t-sql 1 4 tempdb 1 4 datafile 1 4
+32870 sql-server 1 4 sql-server-2014 1 4 date 1 4
+6257 sql-server 1 4 join 1 4 hierarchy 1 4
+141525 sql-server 1 4 ssms 1 4 sql-server-2017 1 4
+23369 sql-server 1 7 database-design 1 7 permissions 1 7 best-practices 1 7
+38367 mysql 1 4 mysql-5.7 1 4
+108119 sql-server 2 14 sql-server-2016 2 14 datatypes 1 6 table-variable 1 6 postgresql 1 5 postgresql-9.4 1 5
+142768 mongodb 1 9 mac-os-x 1 9
+192571 mongodb 1 4 mac-os-x 1 4
+143642 sql-server 1 4 t-sql 1 4 security 1 4
+25209 postgresql 1 14 centos-7 1 14 pg-hba.conf 1 14
+150642 postgresql 1 4 centos-7 1 4 pg-hba.conf 1 4
+127141 sql-server 1 4 t-sql 1 4 azure-sql-database 1 4
+140461 database-design 1 10 primary-key 1 10 unique-constraint 1 10
+22633 sql-server 1 4 availability-groups 1 4 data-warehouse 1 4 business-intelligence 1 4
+53595 sql-server 1 4 where 1 4
+145297 sql-server 1 5 where 1 5
+162476 sql-server 1 4 sql-server-2016 1 4 sql-server-2017 1 4 ssms 1 4
+116183 sql-server 1 13 collation 1 13 unicode 1 13
+72398 sql-server 1 4 system-tables 1 4 system-databases 1 4
+125593 sql-server 2 8 availability-groups 1 4 upgrade 1 4 sql-server-2017 1 4 distributed-availability-groups 1 4 t-sql 1 4 query-performance 1 4 optimization 1 4
+146778 sql-server 1 6
+152712 sql-server 1 4 sql-server-agent 1 4 visual-studio 1 4
+148784 sql-server 1 5 sql-server-agent 1 5 visual-studio 1 5
+155153 pgadmin 1 30 mac-os-x 1 30 pgadmin-4 1 30
+79569 sql-server 1 4 ssas 1 4 visual-studio 1 4
+37801 sql-server 1 8 performance 1 8 sql-server-2016 1 8 memory 1 8 sp-blitz 1 8
+112699 sql-server 1 4 sql-server-2014 1 4 alter-table 1 4 ddl 1 4
+149630 sql-server 3 41 query-performance 1 27 execution-plan 1 27 parameter-sniffing 1 27 t-sql 1 8 window-functions 1 8 mysql 1 6 join 1 6
+147667 sql-server 1 9 query-performance 1 9 execution-plan 1 9 parameter-sniffing 1 9
+111607 sql-server 2 15 query-performance 1 7 execution-plan 1 7 parameter-sniffing 1 7 sql-server-2012 1 8 backup 1 8
+51898 sql-server 1 6 sql-server-2017 1 6
+149935 sql-server 1 5 sql-server-2017 1 5 standard-edition 1 5 enterprise-edition 1 5 online-operations 1 5
+46290 sql-server 1 6 sql-server-2016 1 6 vmware 1 6
+44945 sql-server 6 59 t-sql 3 15 sql-server-2016 1 5 substring 1 5 index 1 16 clustered-index 1 16 nonclustered-index 1 16 sql-server-2014 1 4 pattern-matching 1 4 string-searching 1 4 sql-server-2012 1 24 waits 1 24 sp-blitzfirst 1 24 sql-server-2017 1 4 dynamic-sql 1 6 sql-injection 1 6
+44642 mysql 1 5 group-by 1 5 greatest-n-per-group 1 5
+7895 mysql 2 8 group-by 1 4 greatest-n-per-group 1 4
+37198 sql-server 1 4 delete 1 4
+38151 sql-server 1 4 t-sql 1 4 sql-server-2014 1 4 pattern-matching 1 4 string-searching 1 4
+68325 sql-server-2012 1 22 t-sql 1 22
+10267 sql-server-2012 1 4 t-sql 2 21 sql-server 1 17 ddl 1 17 master-system-database 1 17
+53747 sql-server 1 5 ola-hallengren 1 5
+82422 sql-server 1 4 t-sql 1 4 ddl 1 4
+151996 sql-server 1 8 query-performance 1 8 sql-server-2016 1 8 cardinality-estimates 1 8
+176527 postgresql 1 7 json 1 7 postgresql-10 1 7 string-representation 1 7
+71701 postgresql 1 4 group-by 1 4 json 1 4 array 1 4
+6141 sql-server 16 138 optimization 1 5 sql-server-2014 1 19 join 1 19 sql-server-2017 3 30 sort-operator 1 19 execution-plan 3 16 type-conversion 1 5 cardinality-estimates 2 12 query-performance 3 18 tempdb 1 7 sql-server-2016 4 48 insert 1 15 rollback 1 15 select-into 1 15 query-store 1 6 sql-server-2008-r2 1 4 t-sql 2 8 database-design 1 4 sql-server-2012 2 20 stored-procedures 1 13 query 1 7 isnull 1 7 deadlock 1 9 performance 1 13 string-searching 1 14 extended-events 1 6
+140866 sql-server 1 5 stored-procedures 1 5
+153386 sql-server 1 7 t-sql 1 7 index-tuning 1 7 sql-server-2017 1 7
+123690 sql-server 1 4 ssms 1 4
+15787 sql-server 1 5 count 1 5 where 1 5
+147776 sql-server 5 41 count 1 5 where 1 5 msdb 1 14 index 1 4 trigger 1 7 view 1 7 permissions 1 11 logins 1 11 connections 1 11 access-control 1 11
+154141 sql-server 1 17 azure-sql-database 1 17 sql-server-2017 1 17
+112791 sql-server 2 15 index-tuning 1 4 clustered-index 1 4 ola-hallengren 1 4 disk-structures 1 4 sql-server-2008-r2 1 11 statistics 1 11 cache 1 11 plan-cache 1 11
+156492 sql-server 1 6 crash 1 6
+95991 sql-server 1 6 sql-server-2014 1 6
+156749 oracle 1 4 select 1 4 oracle-12c 1 4 null 1 4
+131487 sql-server 1 13 performance 1 13 memory 1 13 cache 1 13 buffer-pool 1 13
+157096 sql-server 1 4 t-sql 1 4 sql-server-2016 1 4 r 1 4
+175260 sql-server 1 6 sql-server-2016 1 6 database-mail 1 6 tls-1.2 1 6
+149341 postgresql 1 31
+139178 postgresql 1 6
+62605 sql-server 1 5 datatypes 1 5 sql-server-2017 1 5 timestamp 1 5
+151544 sql-server 4 29 backup 1 13 sql-server-2016 2 20 dynamic-data-masking 1 13 t-sql 1 4 ddl 1 4 master-system-database 1 4 performance 1 7 isolation-level 1 5 serialization 1 5
+133992 mongodb 1 13 mongodump 1 13
+169548 mongodb 1 55 mongodump 1 55
+160166 sql-server 1 9 query-performance 1 9 execution-plan 1 9
+161096 sql-server 1 6 sql-server-2012 1 6 availability-groups 1 6 ola-hallengren 1 6 dbcc-checkdb 1 6
+154256 sql-server 1 7 identifier 1 7
+161523 subquery 1 5
+163052 sql-server 1 9 security 1 9 best-practices 1 9 dynamic-ports 1 9
+53319 sql-server 1 7 security 1 7 best-practices 1 7 dynamic-ports 1 7
+109246 sql-server 1 6 sql-server-2016 1 6 partitioning 1 6 columnstore 1 6
+38158 sql-server 1 9 ssms 1 9
+163489 sql-server 1 4 collation 1 4 encoding 1 4 utf-8 1 4
+158002 mysql 1 5 identity 1 5 auto-increment 1 5
+137232 sql-server 1 5 database-design 1 5 t-sql 1 5
+144393 sql-server 18 155 t-sql 4 34 tempdb 1 10 temporary-tables 1 10 sql-server-localdb 1 10 primary-key 1 4 sql-server-2012 3 14 sql-server-2014 1 5 sql-server-2016 4 29 azure-sql-database 1 5 null 1 7 window-functions 1 7 running-totals 1 7 cursors 1 5 deadlock 2 17 stored-procedures 1 11 query 1 6 string-manipulation 1 6 compression 1 7 bcp 1 7 optimization 1 9 execution-plan 1 9 cte 1 9 recursive 1 9 sql-server-2017 1 5 ola-hallengren 1 5 index-maintenance 1 5 locking 1 8 concurrency 1 8 sql-server-2019 1 8 sql-server-express 1 5 database-mail 1 5 sql-server-2008-r2 1 11 backup 2 23 performance 1 12 view 1 32 computed-column 1 32
+76939 sql-server-2008-r2 1 4
+24505 mysql 1 5 database-design 1 5 index 1 5 innodb 1 5 mariadb 1 5
+136353 sql-server 2 9 t-sql 1 4 window-functions 1 4 sql-server-2016 1 5 compression 1 5 bcp 1 5
+99876 sql-server 1 4 sql-server-2016 1 4 security 1 4 active-directory 1 4 sql-clr 1 4
+48792 sql-server 1 4 permissions 1 4 logins 1 4 connections 1 4 access-control 1 4
+66771 sql-server 1 8 azure-sql-database 1 8 columnstore 1 8
+145197 postgresql 1 6 distinct 1 6
+42459 sql-server 1 12 sql-server-2012 1 12 stored-procedures 1 12
+177540 sql-server 1 6
+134691 sql-server-2014 1 4 powershell 1 4 windows-server-2012 1 4
+170408 sql-server 1 4 sql-server-2012 1 4 sql-server-2014 1 4 sql-server-2016 1 4
+91686 sql-server 1 4 sql-server-2012 1 4 sql-server-2014 1 4 sql-server-2016 1 4
+145949 sql-server 2 11 t-sql 1 7 stored-procedures 1 7
+12916 sql-server 1 6 sql-server-2012 1 6 greatest-n-per-group 1 6
+175189 sql-server 1 10 sql-server-2016 1 10 string-searching 1 10 performance 1 15 performance-tuning 1 15 sql-server-2017 1 15 storage 1 15
+179264 sql-server 1 12 t-sql 1 12 order-by 1 12
+145266 sql-server 1 24 t-sql 1 24 order-by 1 24
+181922 sql-server 1 7 t-sql 1 7 order-by 1 7
+183265 performance 1 8 performance-tuning 1 8 sql-server-2017 1 8 storage 1 8
+176905 postgresql 2 13 view 1 4 datatypes 1 9 type-conversion 1 9 documentation 1 9
+41851 postgresql 1 6 view 1 6
+184428 sql-server 1 4 sql-server-2016 1 4
+150107 sql-server 2 9 t-sql 1 4 sql-server-2016 1 4 query 1 4 string-manipulation 1 4
+152218 sql-server 1 5 index-tuning 1 5 database-internals 1 5 unique-constraint 1 5
+186086 sql-server 1 16 sql-server-2016 1 16 ssms 1 16
+135062 sql-server 1 8 sql-server-2016 1 8 ssms 1 8
+187692 sql-server 1 5 sql-server-agent 1 5 vulnerability-assessment 1 5
+112822 sql-server 3 19 sql-server-2012 1 5 t-sql 1 9 sql-server-2008-r2 1 5 backup 1 5 sql-server-2016 1 5
+185080 sql-server-2014 1 4 availability-groups 1 4 clustering 1 4
+68662 sql-server 1 9 sql-server-2014 1 9 backup 1 9 ola-hallengren 1 9 compression 1 9
+6389 sql-server 1 7 sql-server-2016 1 7 sql-clr 1 7 error-log 1 7
+121223 sql-server 1 8 t-sql 1 8
+184704 sql-server 1 4 t-sql 1 4 index 1 4 dynamic-sql 1 4 automation 1 4
+10746 sql-server 1 4
+186524 sql-server 1 12 sql-server-2012 1 12 backup 1 12 transaction-log 1 12
+195610 sql-server 1 30 sql-server-2016 1 30 best-practices 1 30
+195637 sql-server 1 7 sql-server-2016 1 7 best-practices 1 7
+178981 sql-server 1 4 t-sql 1 4 sql-server-2014 1 4 stored-procedures 1 4
